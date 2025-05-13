@@ -9,4 +9,5 @@ Stay updated with the latest in technology! Daily Tech News is an automated proj
 Automated News Updates: Fetches daily top tech news using the [GNews API](https://gnews.io/\).
 Dynamic UI: Displays news in an attractive and responsive interface.
 GitHub Actions Integration: Automates daily updates of the news dataset.
+
 Free Hosting: Deployed on [GitHub Pages] https://akhilsu.github.io/daily-tech-news/).
