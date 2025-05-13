@@ -33,11 +33,12 @@ jobs:
         run: |
           python fetch_news.py
 
-      # Step 5: Commit and push changes
+      # Step 5: Commit and push changes to news-automation branch
       - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git checkout -b news-automation || git checkout news-automation
           git add news.json
           git commit -m "Update tech news"
-          git push
+          git push origin news-automation
