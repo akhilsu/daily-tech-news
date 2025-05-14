@@ -1,75 +1,75 @@
 {
-    "date": "2025-05-13",
+    "date": "2025-05-14",
     "articles": [
         {
-            "title": "TikTok launches TikTok AI Alive, a new image-to-video tool",
-            "description": "TikTok is launching its first image-to-video AI feature called TikTok AI Alive.",
-            "url": "https://techcrunch.com/2025/05/13/tiktok-launches-tiktok-ai-alive-a-new-image-to-video-tool/",
-            "image": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1248373545.jpg?resize=1200,788",
-            "publishedAt": "2025-05-13T17:56:34Z"
+            "title": "AU Deals: Criminally Good Prices for The Precinct, Mafia Old Country, Doom Dark Ages, and More!",
+            "description": "Get your gaming gear primed and wallets at the ready, because today\u2019s lineup of stellar discounts is too good to miss.",
+            "url": "https://www.ign.com/articles/au-deals-criminally-good-prices-for-the-precinct-mafia-old-country-doom-dark-ages-and-more",
+            "image": "https://assets-prd.ignimgs.com/2025/05/14/may-14-pokemon-platinum-thumb-1747186477095.jpg?width=1280",
+            "publishedAt": "2025-05-14T01:38:35Z"
         },
         {
-            "title": "Instagram Video Editing App Update Includes New Features to Rival CapCut",
-            "description": "The biggest addition is beat editing, which will help creators sync their audio and visual elements much more efficiently.",
-            "url": "https://www.cnet.com/tech/services-and-software/instagram-video-editing-app-update-includes-new-features-to-rival-capcut/",
-            "image": "https://www.cnet.com/a/img/resize/d8fa0ab5c664736c9d7fe3332dadf60aedb7232a/hub/2025/05/13/ef880246-fd97-4b8b-9633-ad9b58c76f46/gettyimages-2210967221.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-05-13T17:27:00Z"
+            "title": "Op-Ed: May\u2019s Patch Tuesday reveals 77 vulnerabilities",
+            "description": "Microsoft is addressing 77 vulnerabilities this May 2025 Patch Tuesday, with at least five already being actively exploited in the wild.",
+            "url": "https://www.cyberdaily.au/security/12088-op-ed-may-s-patch-tuesday-reveals-77-vulnerabilities",
+            "image": "https://res.cloudinary.com/momentum-media-group-pty-ltd/image/upload/v1691996509/Cyber%20Security/microsoft-building-csc_staxyy.jpg",
+            "publishedAt": "2025-05-14T00:23:26Z"
         },
         {
-            "title": "Google's Find My Device becomes Find Hub amid expansion",
-            "description": "Android users will have more ways to find their devices and other items, Google announced on Tuesday during the Android Show, a week before Google I/O",
-            "url": "https://techcrunch.com/2025/05/13/googles-find-my-device-becomes-find-hub-amid-expansion/",
-            "image": "https://techcrunch.com/wp-content/uploads/2025/05/find-hub.jpg?resize=1200,676",
-            "publishedAt": "2025-05-13T17:19:36Z"
+            "title": "Patch Tuesday for May: Five zero day vulnerabilities CISOs should focus on",
+            "description": "Five of the Microsoft 70 vulnerabilities already under attack, and SAP and Zoom flaws are equally critical.",
+            "url": "https://www.csoonline.com/article/3984533/patch-tuesday-for-may-five-zero-day-vulnerabilities-cisos-should-focus-on.html",
+            "image": "https://www.csoonline.com/wp-content/uploads/2025/05/3984533-0-34249700-1747181923-patch_tuesday.jpg?quality=50&strip=all&w=1024",
+            "publishedAt": "2025-05-14T00:19:11Z"
         },
         {
-            "title": "Google announces 1B+ RCS messages sent in the US daily",
-            "description": "During the Android Show leading up to Google I/O, Google on Tuesday offered a brief update on the adoption of the RCS (Rich Communication Services)",
-            "url": "https://techcrunch.com/2025/05/13/google-announces-1b-rcs-messages-sent-in-the-u-s-daily/",
-            "image": "https://techcrunch.com/wp-content/uploads/2023/01/denny-muller-HfWA-Axq6Ek-unsplash.jpg?resize=1200,800",
-            "publishedAt": "2025-05-13T17:06:01Z"
+            "title": "Rezvani Knight: Lamborghini Urus turned up to 11 with optional armour kit",
+            "description": "If you find the Lamborghini Urus appealing, but think it's a bit too much of a wallflower, then Rezvani might have the solution.",
+            "url": "https://www.carexpert.com.au/car-news/rezvani-knight-lamborghini-urus-turned-up-to-11-with-optional-armour-kit",
+            "image": "https://images.carexpert.com.au/crop/1200/630/cms/v1/media/2025-05-rezvani-knight-1.jpg",
+            "publishedAt": "2025-05-13T23:57:55Z"
         },
         {
-            "title": "PayPal launches iPhone NFC payments in Germany after EU forced Apple to open up",
-            "description": "German users are reporting that they can make purchases with NFC payments through the iOS PayPal wallet, according to German site iPhone Ticker.",
-            "url": "https://www.theverge.com/news/666009/paypal-tap-to-pay-nfc-iphone-eu-dma",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/PayPal.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2025-05-13T17:05:18Z"
+            "title": "Coming Soon to Apple Devices: Brain Control Accessibility Features",
+            "description": "A standard for brain implants that would allow disabled people to control devices such as iPhones and the Apple Vision Pro could be available for developers this year.",
+            "url": "https://www.cnet.com/tech/computing/coming-soon-to-apple-devices-brain-control-accessibility-features/",
+            "image": "https://www.cnet.com/a/img/resize/c67d0713cfdef3372bd301334b9193279aaa7145/hub/2024/09/30/e8263ae3-ef57-4edb-bfb8-cc07f97cffbc/wtf-synchron-brain-implant-alexa-apple-vision-pro-site.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-05-13T23:37:00Z"
         },
         {
-            "title": "Smarter Wearables: Google Gemini Is Coming to Samsung Galaxy Watch and Buds",
-            "description": "Your Galaxy wearables are about to get even smarter in the coming months. Google Gemini is set to debut on Samsung Galaxy Watches, making its first integration",
-            "url": "https://news.samsung.com/global/smarter-wearables-google-gemini-is-coming-to-samsung-galaxy-watch-and-buds",
-            "image": "https://img.global.news.samsung.com/global/wp-content/uploads/2025/05/Samsung-Mobile-Google-Gemini-Galaxy-Watch-Buds3-AI-wearable_thumb728.jpg",
-            "publishedAt": "2025-05-13T17:02:37Z"
+            "title": "DJI said Mavic 4 Pro wouldn\u2019t launch in US but these stores are selling it anyhow",
+            "description": "Apparently DJI isn\u2019t entirely skipping the United States, as its Mavic 4 Pro went on sale at Adorama and possibly B&H.",
+            "url": "https://www.theverge.com/drone/666425/dji-mavic-4-pro-on-sale-preorder-adorama-bh-photo",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/dji-mavic-4-pro-3.jpg?quality=90&strip=all&crop=0%2C10.730345912779%2C100%2C78.539308174441&w=1200",
+            "publishedAt": "2025-05-13T22:49:24Z"
         },
         {
-            "title": "Google unveils its new Android design language, Material 3 Expressive",
-            "description": "Google on Tuesday unveiled its new Android design language, Material 3 Expressive, at the Android Show ahead of Google I/O. The update is designed to make",
-            "url": "https://techcrunch.com/2025/05/13/google-unveils-its-new-android-design-language-material-3-expressive/",
-            "image": "https://techcrunch.com/wp-content/uploads/2025/05/google-material-3-expressive.png?resize=1200,677",
-            "publishedAt": "2025-05-13T17:00:00Z"
+            "title": "Attend TechCrunch Sessions: AI with this new, limited-time discount",
+            "description": "We\u2019re excited to announce a big surprise for the AI community \u2014 TechCrunch Sessions: AI is getting a limited-time discount to broaden the number of people",
+            "url": "https://techcrunch.com/2025/05/13/attend-techcrunch-sessions-ai-with-this-new-limited-time-discount/",
+            "image": "https://techcrunch.com/wp-content/uploads/2025/05/GeneralArticleImageHeader_TCSessionsAI_V2_16x9.png?resize=1200,675",
+            "publishedAt": "2025-05-13T22:42:09Z"
         },
         {
-            "title": "Google Is Using On-Device AI to Spot Scam Texts and Investment Fraud",
-            "description": "Android\u2019s \u201cScam Detection\u201d protection in Google Messages will now be able to flag even more types of digital fraud.",
-            "url": "https://www.wired.com/story/google-io-on-device-ai-scam-texts/",
-            "image": "https://media.wired.com/photos/6822993c8d51e342fd56a614/191:100/w_1280,c_limit/Google-Scam-Detection-Security-2166957713.jpg",
-            "publishedAt": "2025-05-13T17:00:00Z"
+            "title": "Google Find My Device rebrands as Find Hub",
+            "description": "Google Find My Device rebrands as Find Hub to track people, devices, and luggage.",
+            "url": "https://mashable.com/article/google-find-my-device-rebrands-find-hub",
+            "image": "https://helios-i.mashable.com/imagery/articles/02yrNswQZkiShfLYVr82pvg/hero-image.fill.size_1200x675.v1747161730.png",
+            "publishedAt": "2025-05-13T22:27:05Z"
         },
         {
-            "title": "Google announces new security features for Android for protection against scam and theft",
-            "description": "At the Android Show on Tuesday, ahead of Google I/O, Google announced new security and privacy features for Android. These new features include new",
-            "url": "https://techcrunch.com/2025/05/13/google-announces-new-security-features-for-android-for-protection-against-scam-and-theft/",
-            "image": "https://techcrunch.com/wp-content/uploads/2025/04/google-android-logo-strawberry-cone.jpg?resize=1200,800",
-            "publishedAt": "2025-05-13T17:00:00Z"
+            "title": "Google tests replacing 'I'm Feeling Lucky' with 'AI Mode'",
+            "description": "Google is testing a redesign of its homepage in which an experimental AI-powered search feature replaces its \"I'm Feeling Lucky\" button.",
+            "url": "https://techcrunch.com/2025/05/13/google-tests-replacing-im-feeling-lucky-with-ai-mode/",
+            "image": "https://techcrunch.com/wp-content/uploads/2018/06/google-search-magnifying-glass.png?resize=1200,638",
+            "publishedAt": "2025-05-13T22:26:26Z"
         },
         {
-            "title": "Android\u2019s youthful new design language just dropped",
-            "description": "Android\u2019s bold new UI treatment is official, full of new shapes, animations, and type styles.",
-            "url": "https://www.theverge.com/news/664316/android-material-three-expressive-design-ui-io",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/material_three_lede.jpg?quality=90&strip=all&crop=0%2C16.683523384002%2C100%2C69.834153682164&w=1200",
-            "publishedAt": "2025-05-13T17:00:00Z"
+            "title": "Apple TV\u2019s wireless audio sync now works with Dolby Atmos",
+            "description": "The Apple TV 4K\u2019s tvOS 18.5 update adds support for calibrating the synchronization of your speakers while using Dolby Atmos.",
+            "url": "https://www.theverge.com/news/666418/apple-tv-4k-dolby-atmos-wireless-audio-sync-tvos-update",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/appletv.webp?quality=90&strip=all&crop=11%2C24.777887306585%2C73.4%2C57.644337888587&w=1200",
+            "publishedAt": "2025-05-13T22:15:21Z"
         }
     ]
 }
