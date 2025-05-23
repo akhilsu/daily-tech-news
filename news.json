@@ -1,75 +1,75 @@
 {
-    "date": "2025-05-22",
+    "date": "2025-05-23",
     "articles": [
         {
-            "title": "New technique rapidly tracks cell state changes through density measurements",
-            "description": "Measuring the density of a cell can reveal a great deal about the cell's state. As cells proliferate, differentiate, or undergo cell death, they may gain or lose water and other molecules, which is revealed by changes in density.",
-            "url": "https://www.news-medical.net/news/20250521/New-technique-rapidly-tracks-cell-state-changes-through-density-measurements.aspx",
-            "image": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/6/Cancer_Cell_self_destructing_cancer_cure_treatment_T-cell_lymphocyte_killing_tum_-_CI_Photos_A1_0701d009a31c40db81f8c088e286d42a-620x480.jpg",
-            "publishedAt": "2025-05-22T01:11:00Z"
+            "title": "First $1B business with one human employee will happen in 2026, says Anthropic CEO",
+            "description": "Thinking of launching a startup? AI could be your staff.",
+            "url": "https://www.zdnet.com/article/first-1b-business-with-one-human-employee-will-happen-in-2026-says-anthropic-ceo/",
+            "image": "https://www.zdnet.com/a/img/resize/a9e75719b495f155228623f1a14cdd35af388afe/2025/05/22/01b532ed-e7be-4959-b919-9bef9bb92a7d/dsc00413.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-05-23T00:55:00Z"
         },
         {
-            "title": "Meta Launches Ray Ban AI Glasses in More Regions",
-            "description": "The expansion will give Meta a stronger foundation for its expanded wearables push.",
-            "url": "https://www.socialmediatoday.com/news/meta-launches-ray-ban-ai-smart-glasses-uae-mexico-india/748799/",
-            "image": "https://imgproxy.divecdn.com/QB4VsFSK81vrTludXxzh6lcVpBBh3uqVTwcGWyID1oo/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX3JheV9iYW4ucG5n.webp",
-            "publishedAt": "2025-05-22T00:42:15Z"
+            "title": "Video: Supermang\u2019s 4.2-litre V6 stroker lives!",
+            "description": "In this episode of Carnage, Supermang finally comes back to life with its new supercharged stroker V6",
+            "url": "https://www.streetmachine.com.au/news/video-supermangs-4-2-litre-v6-stroker-lives",
+            "image": "https://www.streetmachine.com.au/wp-content/uploads/2025/05/carnage-supermang-engine-4.2-litre-stroker-8.jpg",
+            "publishedAt": "2025-05-23T00:24:02Z"
         },
         {
-            "title": "Tech corner: Four innovative releases to buy now",
-            "description": "The latest innovations in technology, including over-ear headphones and an e-bike from Ampler.",
-            "url": "https://monocle.com/business/technology/new-headphones-cameras-technology-releases/",
-            "image": "https://monocle.com/wp-content/uploads/2025/05/184_TECH-THUMBNAIL.jpg?fit=1329%2C917",
-            "publishedAt": "2025-05-22T00:04:41Z"
+            "title": "Colm O'Regan: AI scraped my novels, but why? Does it want to describe the inner workings of an imaginary Tidy Towns group?",
+            "description": "Finding my novels scraped by AI, at first I couldn\u2019t possibly figure out what use it would have to build up the large language models ability to describe the inner workings of an imaginary Tidy Towns group",
+            "url": "https://www.irishexaminer.com/lifestyle-columnists/arid-41636536.html",
+            "image": "https://www.irishexaminer.com/cms_media/module_img/9263/4631752_3_seoimageog_Chani_20Anderson-1_43_.jpeg",
+            "publishedAt": "2025-05-23T00:00:00Z"
         },
         {
-            "title": "Hands-On With the Viltrox DC-A1: Clarity, Control, and Convenience",
-            "description": "Do you struggle to see your camera screen in bright light or fine-tune critical focus? This compact tool might be the simplest upgrade to transform how you shoot in the field, without changing your camera. Here's why a 7-inch external monitor could be the piece you didn\u2019t know you were missing. The latest release from Viltrox, the DC-A1, strikes an impressive balance between",
-            "url": "https://fstoppers.com/reviews/hands-viltrox-dc-a1-clarity-control-and-convenience-701923",
-            "image": "https://cdn.fstoppers.com/styles/large-16-9/s3/lead/2025/05/bf_00110.jpg",
-            "publishedAt": "2025-05-22T00:03:01Z"
+            "title": "After GPT-4o backlash, researchers benchmark models on moral endorsement-Find sycophancy persists across the board",
+            "description": "A new benchmark can test how much LLMs become sycophants, and found that GPT-4o was the most sycophantic of the models tested.",
+            "url": "https://venturebeat.com/ai/after-gpt-4o-backlash-researchers-benchmark-models-on-moral-endorsement-find-sycophancy-persists-across-the-board/",
+            "image": "https://venturebeat.com/wp-content/uploads/2025/02/nuneybits_Vecor_art_of_human_chatting_with_a_chatbot_two_chat_b_14075c47-8e58-4110-b3b3-96385f4ebd44.webp?w=853?w=1200&strip=all",
+            "publishedAt": "2025-05-22T23:46:40Z"
         },
         {
-            "title": "Logitech launches G522 gaming headset for personal expression",
-            "description": "Logitech G announced the launch of the Logitech G522 gaming headset, a new headset with a focus on gameplay and personal expression.",
-            "url": "https://venturebeat.com/games/logitech-launches-g522-gaming-headset-for-personal-expression/",
-            "image": "https://venturebeat.com/wp-content/uploads/2025/05/G522-LIGHTSPEED-WHITE-LIFESTYLE.jpg?w=1024?w=1200&strip=all",
-            "publishedAt": "2025-05-21T23:42:00Z"
+            "title": "Fire Breaks Out at a Data Center Leased by Elon Musk\u2019s X",
+            "description": "The fire department said a room with batteries contributed to the blaze at a building leased by Elon Musk's X near Portland, Oregon.",
+            "url": "https://www.wired.com/story/elon-musk-x-datacenter-fire/",
+            "image": "https://media.wired.com/photos/682fa6f9f5e3f7a3d320a940/191:100/w_1280,c_limit/X-Data-Center-Fire-Business-1782225491.jpg",
+            "publishedAt": "2025-05-22T23:42:00Z"
         },
         {
-            "title": "Best Plus-Size Swimwear 2025",
-            "description": "The best plus-size swimsuits are thoughtfully designed, flattering and stylish. Here are our recommendations for chest support, tummy control and more.",
-            "url": "https://www.forbes.com/sites/forbes-personal-shopper/article/best-plus-size-swimsuit/",
-            "image": "https://imageio.forbes.com/specials-images/imageserve/68276e570f68393d356f41ab/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2025-05-21T23:29:50Z"
+            "title": "Introducing The Longines Spirit Zulu Time 1925 (Live Pics And Pricing)",
+            "description": "Celebrating 100 years of dual time watchmaking from Longines.",
+            "url": "https://www.hodinkee.com/articles/the-longines-spirit-zulu-time-1925-live-pics-and-pricing",
+            "image": "https://hodinkee.imgix.net/uploads/images/b2cc8bad-5bba-422c-9ca3-77d82dc44999/tan2h-longines-spirit-zulu-time-1925-07312-header.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=1200&h=630&fit=crop",
+            "publishedAt": "2025-05-22T23:30:19Z"
         },
         {
-            "title": "GTA 6's one trailer slip-up caught fans off guard; Redditors weigh in with brutal jokes",
-            "description": "The GTA 6 trailer, praised for its visuals and character dynamics, contains a minor glitch with a lighting error.",
-            "url": "https://www.hindustantimes.com/world-news/us-news/gta-6s-one-trailer-slip-up-caught-fans-off-guard-redditors-weigh-in-with-brutal-jokes-101747866611630.html",
-            "image": "https://www.hindustantimes.com/ht-img/img/2025/05/21/1600x900/maxresdefault_1747868069865_1747868073756.jpg",
-            "publishedAt": "2025-05-21T23:02:51Z"
+            "title": "SteamOS Breaks Free From Steam Deck-Now Supports ROG Ally, Legion Go S",
+            "description": "Steam Deck users get a bunch of new features, and rival AMD handhelds like the ROG Ally and Legion Go S get an official SteamOS installer.",
+            "url": "https://www.forbes.com/sites/jasonevangelho/2025/05/22/steamos-breaks-free-from-steam-deck-install-it-on-rog-ally-legion-go/",
+            "image": "https://imageio.forbes.com/specials-images/imageserve/682faeefcc77fa235b30e8d3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-05-22T23:21:35Z"
         },
         {
-            "title": "[Interview] The Premiere 5: Probably the Largest Touchscreen You\u2019ll Use at Home",
-            "description": "\u201cExpanding the projection surface naturally broadens the range of use.\u201d \u2014 Jaeyoung Park, Visual Display Business, Samsung Electronics \u00a0 With the right",
-            "url": "https://news.samsung.com/global/interview-the-premiere-5-probably-the-largest-touchscreen-youll-use-at-home",
-            "image": "https://img.global.news.samsung.com/global/wp-content/uploads/2025/05/Samsung-TVs-and-Displays-The-Premiere-5-100-inches-Screen-Projector-Interview_Thumb728.gif",
-            "publishedAt": "2025-05-21T23:02:34Z"
+            "title": "COMPUTEX 2025 - Thermaltake Introduces Nordic-Inspired Wood Accents to PC Chassis and Gaming Furniture",
+            "description": "/PRNewswire-PRWeb/ -- Thermaltake, a leading PC DIY brand for premium hardware solutions, unveils a new design direction inspired by modern Nordic aesthetics,...",
+            "url": "https://www.prweb.com/releases/computex-2025---thermaltake-introduces-nordic-inspired-wood-accents-to-pc-chassis-and-gaming-furniture-302462743.html",
+            "image": "https://mma.prnewswire.com/media/2693754/COMPUTEX2025_PR_Wood_Series.jpg?p=facebook",
+            "publishedAt": "2025-05-22T23:20:00Z"
         },
         {
-            "title": "Anthropic web config hints at Claude Sonnet 4 and Opus 4",
-            "description": "Anthropic is secretly working on two new models called\u00a0Claude Sonnet 4 and Opus 4, which are believed to be the company's most advanced AI models.",
-            "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-web-config-hints-at-claude-sonnet-4-and-opus-4/",
-            "image": "https://www.bleepstatic.com/content/posts/2025/05/21/Claude-4.jpg",
-            "publishedAt": "2025-05-21T23:01:06Z"
+            "title": "Review: WRP Zero Drag Kit, a silent upgrade for DT Swiss hubs",
+            "description": "No noise or ratchet drag when coasting. A stealthy, performance-driven product out of Australia.",
+            "url": "https://escapecollective.com/review-wrp-zero-drag-kit-a-silent-upgrade-for-dt-swiss-hubs/",
+            "image": "https://escapecollective.com/content/images/2025/05/WRP-Zero-Drag-DT-Swiss-Ratchet-Upgrade-review-Dave-Rome-11.jpg",
+            "publishedAt": "2025-05-22T23:09:26Z"
         },
         {
-            "title": "Google brings ads to AI search in ChatGPT battle",
-            "description": "[SAN FRANCISCO] Google said on Wednesday it is beginning to weave advertisements into its new AI Mode for online search, a strategic move to counter the challenge posed by ChatGPT as the primary source for online answers.",
-            "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/google-brings-ads-ai-search-chatgpt-battle",
-            "image": "https://cassette.sphdigital.com.sg/image/businesstimes/03bf0fad3df620053874d1d6876077db27d0abeb8f2d75860ea46cc0eb182286?w=1200&f=webp",
-            "publishedAt": "2025-05-21T23:01:00Z"
+            "title": "Dr. Andrea Adams-Miller",
+            "description": "Cessna Township, May 22, 2025 (GLOBE NEWSWIRE) -- Cessna Township, Ohio - The RED Carpet Connection's Dr. Andrea Adams-Miller launches The Executive...",
+            "url": "https://www.globenewswire.com/news-release/2025/05/22/3087206/0/en/Burnout-is-the-New-Bankruptcy-Dr-Andrea-Adams-Miller-Unveils-The-Executive-Reset-to-Refresh-Elite-Leaders-Before-They-Break.html",
+            "image": "https://www.globenewswire.com/Content/logo/favicon.ico",
+            "publishedAt": "2025-05-22T23:07:52Z"
         }
     ]
 }
