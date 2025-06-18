@@ -1,75 +1,75 @@
 {
-    "date": "2025-06-17",
+    "date": "2025-06-18",
     "articles": [
         {
-            "title": "I tested the Sony Bravia 8 II OLED TV, and I don\u2019t think Samsung and LG have anything to worry about",
-            "description": "Sony enters the premium OLED fray",
-            "url": "https://www.techradar.com/televisions/i-tested-the-sony-bravia-8-ii-oled-tv-and-i-dont-think-samsung-and-lg-have-anything-to-worry-about",
-            "image": "https://cdn.mos.cms.futurecdn.net/Yyj5UbedWCXuQUTCDa9hWW.jpg",
-            "publishedAt": "2025-06-17T00:00:00Z"
+            "title": "Earth's largest iron ore deposits yield a 1.3-billion-year-old secret",
+            "description": "Iron ore deposits are about 1.3 billion years younger than previously believed, reshaping both scientific thinking and mining strategy.",
+            "url": "https://www.earth.com/news/earths-largest-iron-ore-deposits-reveal-a-1-3-billion-year-old-secret/",
+            "image": "https://cff2.earth.com/uploads/2025/06/17170629/iron-ore_deep-blue_Hamersley-Province_credit-Curtin-University_1.jpg",
+            "publishedAt": "2025-06-17T23:45:01Z"
         },
         {
-            "title": "Apple\u2019s homeOS 26 software is still coming despite missing WWDC",
-            "description": "Alongside the many rumors regarding possible WWDC 2025 announcements, there was an on-going rumor about Apple unveiling homeOS 26. However, as another WWDC came to \u2026 The post Apple\u2019s homeOS 26 software is still coming despite missing WWDC appeared first on BGR.",
-            "url": "https://tech.yahoo.com/home/articles/apple-homeos-26-software-still-234500935.html",
-            "image": "https://s.yimg.com/ny/api/res/1.2/4IAebe8VIFEmpmTqqMmKXg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/bgr_208/4547315fc28d73c1197da97570b8c004",
-            "publishedAt": "2025-06-16T23:45:00Z"
+            "title": "You Can Download the iOS 26 Developer Beta Right Now. Here's How to Get It on Your iPhone",
+            "description": "I don't usually wait until the general release because I'm always excited about trying out all the new iOS features and settings first. If you'd like to do the same, here's your guide to installing iOS 26 today.",
+            "url": "https://www.cnet.com/tech/services-and-software/you-can-download-the-ios-26-developer-beta-right-now-heres-how-to-get-it-on-your-iphone/",
+            "image": "https://www.cnet.com/a/img/resize/6d954614647ffbe5f4a3e172d5aa3b6c2c259a20/hub/2025/06/09/c987d071-c2bc-4c8d-9825-83b939cad6ea/ios-26.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-06-17T23:16:00Z"
         },
         {
-            "title": "Tinder launches \u2018double date\u2019 feature as Gen Z seek low-pressure dating",
-            "description": "The feature will be rolled out on the dating app in the UK from mid-July.",
-            "url": "https://www.impartialreporter.com/news/national/25243622.tinder-launches-double-date-feature-gen-z-seek-low-pressure-dating/",
-            "image": "https://www.impartialreporter.com/resources/images/19583269.jpg?type=og-image",
-            "publishedAt": "2025-06-16T23:18:34Z"
+            "title": "Warner Bros. Games Restructuring to Focus on Harry Potter, Mortal Kombat, and DC Franchises",
+            "description": "More shakeups at Warner Bros. are here.",
+            "url": "https://sea.ign.com/hogwarts-legacy/229290/news/warner-bros-games-restructuring-to-focus-on-harry-potter-mortal-kombat-and-dc-franchises",
+            "image": "https://sm.ign.com/t/ign_ap/news/w/warner-bro/warner-bros-games-restructuring-to-focus-on-harry-potter-mor_e3pr.1200.jpg",
+            "publishedAt": "2025-06-17T22:59:53Z"
         },
         {
-            "title": "Cutting cloud waste at scale: Akamai saves 70% using AI agents orchestrated by kubernetes",
-            "description": "Akamai needed a Kubernetes automation platform that optimized the costs of running its core infrastructure in real time on several clouds.",
-            "url": "https://venturebeat.com/data-infrastructure/cutting-cloud-waste-at-scale-akamai-saves-70-using-ai-agents-orchestrated-by-kubernetes/",
-            "image": "https://venturebeat.com/wp-content/uploads/2025/06/Cast-AI.webp?w=1024?w=1200&strip=all",
-            "publishedAt": "2025-06-16T23:11:15Z"
+            "title": "Hades II adds more combat options in its third major early access update",
+            "description": "There's a lot of new combat in the latest update to Hades II, but no release date news from Supergiant yet.",
+            "url": "https://www.engadget.com/gaming/hades-ii-adds-more-combat-options-in-its-third-major-early-access-update-225206452.html",
+            "image": "https://s.yimg.com/ny/api/res/1.2/mPhxSZihTX5jIwE_JUMZeg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NzY-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/e3ce5580-4bcb-11f0-b05d-baa20a239b05",
+            "publishedAt": "2025-06-17T22:52:06Z"
         },
         {
-            "title": "Tinder unveils major update that changes how users date",
-            "description": "Tinder is now the world\u2019s most-used app, with about 50 million users per month",
-            "url": "https://ca.style.yahoo.com/tinder-unveils-major-changes-users-230100098.html",
-            "image": "https://media.zenfs.com/en/the_independent_577/5ed497c61f27e004f10ca50086c74b83",
-            "publishedAt": "2025-06-16T23:01:00Z"
+            "title": "Warner Bros. Games Restructures To Focus On GOT, Potter, Mortal Kombat, DC",
+            "description": "Warner Bros. Discovery is refocusing its video game unit on four core franchises: 'Game of Thrones,' 'Mortal Kombat.,' Harry Potter and the DC Universe.",
+            "url": "https://deadline.com/2025/06/warner-bros-games-restructures-game-of-thrones-harry-potter-mortal-kombat-dc-universe-1236436062/",
+            "image": "https://deadline.com/wp-content/uploads/2025/06/Mortal-Kombat-videogame.jpg?w=1024",
+            "publishedAt": "2025-06-17T22:31:00Z"
         },
         {
-            "title": "Samsung is building a hub for patients to share data with doctors",
-            "description": "[NEW YORK] Samsung Electronics plans to develop a hub for users to share health data directly with doctors in between visits, stepping up competition in the technology-driven healthcare race.",
-            "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/samsung-building-hub-patients-share-data-doctors",
-            "image": "https://cassette.sphdigital.com.sg/image/businesstimes/6ad34e8cb450c9da094fc4a71346d36120137a8c52ec01b68366961c3e4b5ba8?w=1200&f=webp",
-            "publishedAt": "2025-06-16T22:48:00Z"
+            "title": "Tinder bets on group dating feature to win back Gen Z",
+            "description": "Tinder launches Double Date feature for group dating as the app struggles to retain Gen Z users amid declining subscriptions and burnout.",
+            "url": "https://www.latimes.com/business/story/2025-06-17/bleeding-users-tinder-bets-on-group-dating-feature-to-win-back-gen-z",
+            "image": "https://ca-times.brightspotcdn.com/dims4/default/97b8847/2147483647/strip/true/crop/1170x614+0+83/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F57%2F8b%2Fa08606f84f2bb5741b19a9ec2894%2Fla-me-tinder-handout.jpg",
+            "publishedAt": "2025-06-17T21:57:42Z"
         },
         {
-            "title": "Microsoft 365 is DOWN: Hundreds of users report problems",
-            "description": "Hundreds of Microsoft 365 users have expressed frustration and confusion with unexplained issues with Outlook and Teams.",
-            "url": "https://www.dailymail.co.uk/news/article-14818641/Microsoft-outage-Outlook-Teams.html",
-            "image": "https://i.dailymail.co.uk/1s/2025/06/16/23/7010678-0-Windows_7_is_currently_still_installed_on_42_8_per_cent_of_compu-a-28_1750113902284.jpg",
-            "publishedAt": "2025-06-16T22:47:02Z"
+            "title": "Google launches production-ready Gemini 2.5 AI models to challenge OpenAI's enterprise dominance",
+            "description": "Google launches production-ready Gemini 2.5 Pro and Flash AI models for enterprises while introducing cost-efficient Flash-Lite to challenge OpenAI's market dominance.",
+            "url": "https://venturebeat.com/ai/google-launches-production-ready-gemini-2-5-ai-models-to-challenge-openais-enterprise-dominance/",
+            "image": "https://venturebeat.com/wp-content/uploads/2025/06/nuneybits_Vector_art_of_a_rocket_takeoff_in_the_colors_of_Googl_34d67d80-5426-48e4-85ea-c11e8e4f2947.webp?w=1024?w=1200&strip=all",
+            "publishedAt": "2025-06-17T21:55:56Z"
         },
         {
-            "title": "Meet the Winners of the 2025 Pok\u00e9mon North America International Championships",
-            "description": "Check out the top Pok\u00e9mon TCG, Pok\u00e9mon VGC, Pok\u00e9mon GO, and Pok\u00e9mon UNITE players from this exciting event.",
-            "url": "https://www.pokemon.com/uk/pokemon-news/meet-the-winners-of-the-2025-pokemon-north-america-international-championships",
-            "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/attend-events/championship/2025-naic/winners/2025-naic-169.png",
-            "publishedAt": "2025-06-16T22:39:11Z"
+            "title": "Over 2,800 Nintendo Switch consoles stolen from delivery truck",
+            "description": "A new heist has resulted in 2,810 Nintendo Switch consoles being stolen from delivery truck - here's what we know.",
+            "url": "https://nintendoeverything.com/nintendo-switch-consoles-stolen-heist-delivery-truck/",
+            "image": "https://nintendoeverything.com/wp-content/uploads/Nintendo-Switch-2-stolen-heist.jpg",
+            "publishedAt": "2025-06-17T21:38:14Z"
         },
         {
-            "title": "Mortal Kombat Legacy Kollection Could Set a New Standard for Fighting Game Collections",
-            "description": "It\u2019s just another Mortal Monday\u2026",
-            "url": "https://sea.ign.com/mortal-kombat-legacy-kollection/229223/preview/mortal-kombat-legacy-kollection-could-set-a-new-standard-for-fighting-game-collections",
-            "image": "https://sm.ign.com/t/ign_ap/preview/m/mortal-kom/mortal-kombat-legacy-kollection-could-set-a-new-standard-for_v82d.1200.jpg",
-            "publishedAt": "2025-06-16T22:34:51Z"
+            "title": "The 42\" LG Evo C4 4K OLED TV Drops to the Lowest Price Ever: Doubles as a Gaming Monitor",
+            "description": "With a smaller 42\" screen size and 4K (104ppi) resolution, this TV fits right at home on a PC desk.",
+            "url": "https://www.ign.com/articles/42-lg-evo-c4-4k-oled-tv-doubles-as-a-gaming-monitor",
+            "image": "https://assets-prd.ignimgs.com/2025/06/17/gamingsetup-1750193200289.jpg?width=1280",
+            "publishedAt": "2025-06-17T21:12:49Z"
         },
         {
-            "title": "Gears of War's PS5 Debut Axed in Japan Due to 'Platform Policies'",
-            "description": "Fenix down - Gears of War: Reloaded will not get its grand PS5 console debut in Japan, as the remaster has been axed on Sony\u2019s console in its home country....",
-            "url": "https://www.pushsquare.com/news/2025/06/gears-of-wars-ps5-debut-axed-in-japan-due-to-platform-policies",
-            "image": "https://images.pushsquare.com/e8d9616fbfa9e/large.jpg",
-            "publishedAt": "2025-06-16T22:25:48Z"
+            "title": "Nintendo Switch 2 owners who use a Mig cartridge face an indefinite ban",
+            "description": "Switch 2 owners who use a Mig flash cartridge are being banned from accessing online services on their consoles.",
+            "url": "https://www.theverge.com/news/688483/nintendo-switch-2-ban-error-code-mig-flash-cartridge-online",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0175_f1b8d7.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-06-17T21:06:34Z"
         }
     ]
 }
