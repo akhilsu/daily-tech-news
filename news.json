@@ -1,75 +1,75 @@
 {
-    "date": "2025-09-22",
+    "date": "2025-09-23",
     "articles": [
         {
-            "title": "Is Oreon Linux a True Red Hat Enterprise Alternative?",
-            "description": "Discover Oreon Linux, an AlmaLinux-based desktop aiming to be a user-friendly RHEL alternative. Our review covers its features, setup and potential.",
-            "url": "https://thenewstack.io/is-oreon-linux-a-true-red-hat-enterprise-alternative/",
-            "image": "https://cdn.thenewstack.io/media/2025/09/d5e221f8-oreonhero.jpg",
-            "publishedAt": "2025-09-21T14:02:20Z"
+            "title": "MediaTek announces Dimensity 9500 flagship chipset",
+            "description": "Expect to see on Oppo and Vivo flagships at the end of the year. MediaTek has announced its newest flagship chipset, the Dimensity 9500. The company claims...",
+            "url": "https://www.gsmarena.com/mediatek_announces_dimensity_9500_flagship_chipset-news-69618.php",
+            "image": "https://fdn.gsmarena.com/imgroot/news/25/09/mediatek-dimensity-9500/-952x498w6/gsmarena_000.jpg",
+            "publishedAt": "2025-09-22T13:45:03Z"
         },
         {
-            "title": "Ousmane Dembele: Why Paris Saint-Germain's Ballon d'Or favourite may not attend awards ceremony",
-            "description": "Eight current Paris Saint-Germain stars have been shortlisted, but none will be present as the world\u2019s best footballer is crowned",
-            "url": "https://www.standard.co.uk/sport/football/ousmane-dembele-psg-ballon-dor-paris-saint-germain-marseille-b1248893.html",
-            "image": "https://static.standard.co.uk/2025/09/12/15/27/ousmanedembele12092025-jpg.jpeg?width=1200&auto=webp&quality=75",
-            "publishedAt": "2025-09-21T14:02:01Z"
+            "title": "iFixit says you can still repair that iPhone Air",
+            "description": ": Thinnest yet still fixable, though not without effort",
+            "url": "https://www.theregister.com/2025/09/22/ifixit_iphone_air/",
+            "image": "https://regmedia.co.uk/2025/09/09/appleiphoneair.jpg",
+            "publishedAt": "2025-09-22T13:45:00Z"
         },
         {
-            "title": "The Galaxy S26 Ultra could get a game-changing 'Private Display' feature",
-            "description": "Who needs privacy screen protectors?",
-            "url": "https://www.androidpolice.com/samsung-galaxy-s26-ultra-ai-privacy-private-display-leak/",
-            "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/03/galaxy-s25-ultra-display-1.jpg?w=1600&h=900&fit=crop",
-            "publishedAt": "2025-09-21T13:59:00Z"
+            "title": "Rumour: Yakuza 0: Director's Cut Coming to PS5 This Year After Stint of Switch 2 Exclusivity",
+            "description": "KUZE! - Still considered by many to be one of, if not the best game in the series, Yakuza 0 could soon be making a comeback on PS5. Earlier this year, SEGA ...",
+            "url": "https://www.pushsquare.com/news/2025/09/rumour-yakuza-0-directors-cut-coming-to-ps5-this-year-after-stint-of-switch-2-exclusivity",
+            "image": "https://images.pushsquare.com/64a1b6de3e948/large.jpg",
+            "publishedAt": "2025-09-22T13:45:00Z"
         },
         {
-            "title": "Apple secures over half of TSMC\u2019s 2nm 2026 capacity, adopts advanced WMCM packaging",
-            "description": "TSMC is set to begin mass production of its 2nm process by the end of this year, with Apple already securing more than half of the 2026 capacity for the",
-            "url": "https://technode.com/2025/09/21/apple-secures-over-half-of-tsmcs-2nm-2026-capacity-adopts-advanced-wmcm-packaging/",
-            "image": "https://technode.com/wp-content/uploads/2024/06/3nm.png",
-            "publishedAt": "2025-09-21T13:55:13Z"
+            "title": "Enabling an electric future, engineers create electrode-agnostic electrolyte",
+            "description": "In developing a versatile new electrolyte, a team of University of Wisconsin\u2013Madison engineers has taken the next step toward a more efficient, energy-dense battery that could supplant today's ubiquitous lithium-ion batteries. ...",
+            "url": "https://techxplore.com/news/2025-09-enabling-electric-future-electrode-agnostic.html",
+            "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/enabling-an-electric-f-1.jpg",
+            "publishedAt": "2025-09-22T13:44:04Z"
         },
         {
-            "title": "WhatsApp on iPhone Now Lets You Set Reminders for Specific Messages",
-            "description": "WhatsApp has introduced a new \u2018Remind Me\u2019 feature on iPhone, allowing users to set custom alerts for specific messages.",
-            "url": "https://www.techjuice.pk/whatsapp-on-iphone-now-lets-you-set-reminders-for-specific-messages/",
-            "image": "https://www.techjuice.pk/wp-content/uploads/2025/09/whatsapp-on-iphone-now-lets-you-set-reminders-for-specific-messages-techjuice-194058-134025.jpg",
-            "publishedAt": "2025-09-21T13:52:37Z"
+            "title": "Oppo Find X9 series launching globally as Find X9 Pro design and release date confirmed",
+            "description": "Oppo has finally confirmed when it will begin offering the Find X9 and Find X9 Pro. CEO Pete Lau has outlined global availability, while Oppo has shared a Find X9 Pro design teaser too.",
+            "url": "https://www.notebookcheck.net/Oppo-Find-X9-series-launching-globally-as-Find-X9-Pro-design-and-release-date-confirmed.1120684.0.html",
+            "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Oppo-Find-X9-global-teaser-and-release-date-kv.jpg",
+            "publishedAt": "2025-09-22T13:44:00Z"
         },
         {
-            "title": "Intel Arc Pro B60 Workstation GPU Spotted at $599, Suggests Non-OEM Availability",
-            "description": "US retailer Central Computers listed the ASRock-branded Intel Arc Pro B60 \"Battlemage\" GPU with 24 GB of GDDR6 memory at a surprisingly low $599, cancelling previous rumors of a four-figure price and OEM-only availability. This retail sighting matters because it frames the B60 as a rare workstation ...",
-            "url": "https://www.techpowerup.com/341191/intel-arc-pro-b60-workstation-gpu-spotted-at-usd-599-suggests-non-oem-availability",
-            "image": "https://www.techpowerup.com/img/66ayD7PswhTTzrI6.jpg",
-            "publishedAt": "2025-09-21T13:52:11Z"
+            "title": "Apple's iPhone Air May Be One Half of Its Rumored Foldable iPhone",
+            "description": "Apple's first foldable iPhone will reportedly release next year. It will look like two iPhone Airs placed next to each other, Bloomberg's Mark Gurman reports.",
+            "url": "https://au.pcmag.com/mobile-phones/113209/apples-iphone-air-may-be-one-half-of-its-rumored-foldable-iphone",
+            "image": "https://sm.pcmag.com/t/pcmag_au/news/a/apples-iph/apples-iphone-air-may-be-one-half-of-its-rumored-foldable-ip_w45z.1200.jpg",
+            "publishedAt": "2025-09-22T13:42:23Z"
         },
         {
-            "title": "Delta Force: Hawk Ops reaches 30 million daily active users one year after launch",
-            "description": "Developed by Tencent\u2019s TiMi Studio Group, the military shooter mobile game Delta Force: Hawk Ops celebrated its first anniversary today in Hangzhou. The",
-            "url": "https://technode.com/2025/09/21/delta-force-hawk-ops-reaches-30-million-daily-active-users-one-year-after-launch/",
-            "image": "https://technode.com/wp-content/uploads/2023/11/\u622a\u5c4f2023-11-06-\u4e0b\u53485.04.16.png",
-            "publishedAt": "2025-09-21T13:45:29Z"
+            "title": "iPhone 17 Pro durability test shows Apple\u2019s flagship scratches easily - even from keys and coins",
+            "description": "Apple's Ceramic Shield 2 claims are challenged as a video shows iPhone 17 Pro models scratching easily from everyday objects. Design flaws around the camera bump contribute to this issue, leading to concerns over durability despite aesthetic choices.",
+            "url": "https://www.livemint.com/technology/gadgets/iphone-17-pro-durability-test-shows-apple-s-flagship-scratches-easily-even-from-keys-and-coins-11758543658907.html",
+            "image": "https://www.livemint.com/lm-img/img/2025/09/22/1600x900/logo/IPHONE-17-US-28_1758548150263_1758548158556.jpg",
+            "publishedAt": "2025-09-22T13:40:19Z"
         },
         {
-            "title": "Hades 2 is early access done right - others could learn",
-            "description": "Hades 2 is almost here, and ahead of its launch, I'm impressed with how well developer Supergiant Games has used the early access model.",
-            "url": "https://www.windowscentral.com/gaming/pc-gaming/hades-2-early-access-done-right",
-            "image": "https://cdn.mos.cms.futurecdn.net/S7kH5QPvqnu9YTTL5F2jFM.jpg",
-            "publishedAt": "2025-09-21T13:30:00Z"
+            "title": "Steam Bug Botched This Indie Game's Launch, Now It's Getting A Second Chance",
+            "description": "Planet Centauri was the victim of a Steam bug, but players are starting to notice this throwback side-scrolling sandbox game.",
+            "url": "https://www.gamespot.com/articles/steam-bug-botched-this-indie-games-launch-now-its-getting-a-second-chance/1100-6534899/",
+            "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1837/18375603/4571836-planetcentauri.jpg",
+            "publishedAt": "2025-09-22T13:34:37Z"
         },
         {
-            "title": "Pac-Man World 2 Re-Pac Switch And Switch 2 Performance & Resolution Detailed",
-            "description": "Here's the official rundown - Pac-Man is back next week in Pac-Man World 2 Re-Pac, and ahead of the big launch, the game's Japanese website has shared an off...",
-            "url": "https://www.nintendolife.com/news/2025/09/pac-man-world-2-re-pac-switch-and-switch-2-performance-and-resolution-detailed",
-            "image": "https://images.nintendolife.com/f1107a054dd8a/large.jpg",
-            "publishedAt": "2025-09-21T13:30:00Z"
+            "title": "iOS 18.7 Vs iOS 26- Here\u2019s Which iPhone Update To Choose",
+            "description": "Both iOS 26 and iOS 18.7 are available for anyone whose iPhone will run the software. Here's which iPhone update to choose.",
+            "url": "https://www.forbes.com/sites/kateoflahertyuk/2025/09/22/ios-187-vs-ios-26--heres-which-iphone-update-to-choose/",
+            "image": "https://imageio.forbes.com/specials-images/imageserve/671bb9730e85ba33171c6420/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-09-22T13:34:22Z"
         },
         {
-            "title": "Try again. Fail again. Fail better: eight things I\u2019ve learned in my year of \u2018lifting heavy\u2019",
-            "description": "I didn\u2019t expect to enjoy heaving chunks of metal. But lifting has paid off for me in surprising ways \u2013 and shown I can change my life dramatically, writes Guardian columnist Emma Beddington",
-            "url": "https://www.theguardian.com/commentisfree/2025/sep/21/eight-things-ive-learned-in-my-year-of-lifting-heavy",
-            "image": "https://i.guim.co.uk/img/media/6fc454f5f9e6595c757eb6901d062e7eb43589b9/585_0_6706_5366/master/6706.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=3cf33be5e3cc365a262f8e8d2f20963c",
-            "publishedAt": "2025-09-21T13:29:00Z"
+            "title": "Introducing the All New IceHogs.com!",
+            "description": "The Rockford IceHogs are excited to unveil the team's all new website design and app\u00a0in partnership with Eden Creative. Our digital mediums are our bridge\u2026",
+            "url": "https://icehogs.com/news/introducing-the-all-new-icehogs-com",
+            "image": "https://d2hwy6vfybulel.cloudfront.net/assets/General/_1200x630_crop_center-center_82_none/Website-SEO-graphic.png?mtime=1757519569",
+            "publishedAt": "2025-09-22T13:34:00Z"
         }
     ]
 }
