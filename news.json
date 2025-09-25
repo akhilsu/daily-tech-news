@@ -1,75 +1,75 @@
 {
-    "date": "2025-09-24",
+    "date": "2025-09-25",
     "articles": [
         {
-            "title": "You Can Now Get Microsoft Office And Windows 11 Pro For Life For $55",
-            "description": "Subscriptions are a rip-off. Your best investment is to own software, and the best time to buy is now with today's 87% discount.",
-            "url": "https://www.pcmag.com/deals/you-can-now-get-microsoft-office-and-windows-11-pro-for-life-for-55",
-            "image": "https://i.pcmag.com/imagery/articles/0561ii6dXm8D2RVCDug3LHF-1.fit_lim.size_1200x630.v1758635279.png",
-            "publishedAt": "2025-09-23T13:51:09Z"
+            "title": "Want to try the next Windows 11 version? It's now available to download",
+            "description": "WIndows 11 25H2 is the next major version of Microsoft's operating system. The ISO file for it is now available to everyone as a free download.",
+            "url": "https://www.pcworld.com/article/2919844/want-to-try-the-next-windows-11-version-its-now-available-to-download.html",
+            "image": "https://www.pcworld.com/wp-content/uploads/2025/09/Windows-11-logo-Bloom-skewed.jpg?quality=50&strip=all&w=1024",
+            "publishedAt": "2025-09-24T13:52:00Z"
         },
         {
-            "title": "AgriSPEC: A smartphone-based, compact biospeckle imager for assessing seed viability",
-            "description": "Seeds are a vital cornerstone of agriculture and their capability to germinate is vital for combating global food insecurity by ensuring high crop yields. We introduce \u2018AgriSPEC,\u2019 a custom-built, portable imaging device that utilizes a smartphone and laser speckle imaging to assess seed viability by visualizing and analyzing biological activity levels within multiple samples simultaneously. Our prototype imager comprises a compact attachment that incorporates all components for optimal illumination of the samples. Additionally, we have developed a processing algorithm that combines RGB and speckle images to generate graphical maps representing seed biological activity. Our results demonstrate the algorithm\u2019s ability to generate maps with enhanced contrast as compared to existing methods. We validate the effectiveness of our device by performing standard germination tests for seed viability. Our proposed low-cost, real-time activity visualizer allows stakeholders to integrate this technology into seed selection protocols thereby promoting sustainability in agriculture by optimizing crop inputs.",
-            "url": "https://www.nature.com/articles/s44264-025-00055-3?error=cookies_not_supported&code=4fb37251-98dc-4b28-bbd7-4a716721ada0",
-            "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44264-025-00055-3/MediaObjects/44264_2025_55_Fig1_HTML.png",
-            "publishedAt": "2025-09-23T13:50:55Z"
+            "title": "Apple Might Improve iPhone Support for Third-Party Smartwatches",
+            "description": "The latest iOS 26 beta code includes a new Notification Forwarding feature that only works with devices other than the Apple Watch.",
+            "url": "https://www.pcmag.com/news/apple-might-improve-iphone-support-for-third-party-smartwatches",
+            "image": "https://i.pcmag.com/imagery/articles/00gyoUs2MgWxSbg5u31jBCF-1.fit_lim.size_1200x630.v1758713127.webp",
+            "publishedAt": "2025-09-24T13:51:59Z"
         },
         {
-            "title": "Two pairs of excellent over-ears have smashed down the door to our best headphones guide",
-            "description": "Wired wonders and the best of wireless",
-            "url": "https://www.whathifi.com/headphones/wired-headphones/two-pairs-of-excellent-over-ears-have-smashed-down-the-door-to-our-best-headphones-guide",
-            "image": "https://cdn.mos.cms.futurecdn.net/d8GsM7eAgudqYJXnXKLMJX.jpg",
-            "publishedAt": "2025-09-23T13:44:45Z"
+            "title": "Apple Might Improve iPhone Support for Third-Party Smartwatches",
+            "description": "The latest iOS 26 beta code includes a new Notification Forwarding feature that only works with devices other than the Apple Watch.",
+            "url": "https://au.pcmag.com/smartwatches/113251/apple-might-improve-iphone-support-for-third-party-smartwatches",
+            "image": "https://sm.pcmag.com/t/pcmag_au/news/a/apple-migh/apple-might-improve-iphone-support-for-third-party-smartwatc_pky1.1200.jpg",
+            "publishedAt": "2025-09-24T13:51:27Z"
         },
         {
-            "title": "Lenovo is forced to delay or cancel some Legion Go 2 orders due to extreme demand",
-            "description": "Lenovo officially confesses its inability to honour all Legion Go 2 handheld pre-orders in a timely manner due to unexpected high demand.",
-            "url": "https://www.club386.com/lenovo-is-forced-to-delay-or-cancel-some-legion-go-2-orders-due-to-extreme-demand/",
-            "image": "https://www.club386.com/wp-content/uploads/2025/09/Lenovo-Legion-Go-Gen-2-handheld.jpg",
-            "publishedAt": "2025-09-23T13:44:37Z"
+            "title": "Final Fantasy Tactics: The Ivalice Chronicles",
+            "description": "Square Enix has improved an already excellent strategy game, but the upgrades don\\'t work in every respect.",
+            "url": "https://www.gamereactor.eu/final-fantasy-tactics-the-ivalice-chronicles-1606403/",
+            "image": "https://www.gamereactor.eu/media/44/finalfantasytactics_4674433b.jpg",
+            "publishedAt": "2025-09-24T13:51:15Z"
         },
         {
-            "title": "New method for making graphene turns defects into useful features",
-            "description": "A new approach to producing graphene could revolutionise its use in electronics, sectors and energy storage",
-            "url": "https://www.openaccessgovernment.org/new-method-for-making-graphene-turns-defects-into-useful-features/198662/",
-            "image": "https://www.openaccessgovernment.org/wp-content/uploads/2025/09/iStock-1257285105-scaled.jpg",
-            "publishedAt": "2025-09-23T13:44:10Z"
+            "title": "'Final Fantasy' reboots most 'political' game of the series",
+            "description": "Back after three decades with what its creators say is a",
+            "url": "https://24newshd.tv/24-Sep-2025/final-fantasy-reboots-political-game-series",
+            "image": "https://24newshd.tv/digital_images/large/2025-09-24/final-fantasy-reboots-political-game-series-1758721857-5675.jpg",
+            "publishedAt": "2025-09-24T13:51:05Z"
         },
         {
-            "title": "Relaunch: From multimodal search to real-time product data, CEO Martin Zelger tells ICON how Architonic is changing from platform to tool",
-            "description": "ICON: Why are you relaunching Architonic?Martin Zelger: Nothing ever stands still in the online world. Technologies change. And the needs of users change, too. From the start, Architonic has developed digital solutions for architects and other design professionals. So, now, as the internet has moved away from asking questions to providing answers, we\u2019ve harnessed AI [\u2026]",
-            "url": "https://www.iconeye.com/design/relaunch-from-multimodal-search-to-real-time-product-data-ceo-martin-zelger-tells-icon-how-architonic-is-changing-from-platform-to-tool",
-            "image": "https://www.iconeye.com/wp-content/uploads/2025/09/Architonic-News-11.jpg",
-            "publishedAt": "2025-09-23T13:43:29Z"
+            "title": "Users play more titles on Xbox in an average month compared to other platforms",
+            "description": "Gamers play a higher number of titles on Xbox in an average month compared to PlayStation or Steam, new data has found.",
+            "url": "https://www.gamesindustry.biz/users-play-more-titles-on-xbox-in-an-average-month-compared-to-other-platforms",
+            "image": "https://assetsio.gnwcdn.com/xbox-game-pass-2024.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "publishedAt": "2025-09-24T13:45:53Z"
         },
         {
-            "title": "New: Tissot releases a COSC version of the Ballade",
-            "description": "Tissot releases two new Ballad COSC in two sizes, powered by the Powermatic 80 and 48 movements. A total of 8 new variants in this new sub-collection.",
-            "url": "https://deployant.com/new-tissot-releases-a-cosc-version-of-the-ballade/",
-            "image": "https://i0.wp.com/deployant.com/wp-content/uploads/2025/09/Project_20250826_0002.jpeg?fit=1200%2C1200&ssl=1",
-            "publishedAt": "2025-09-23T13:38:23Z"
+            "title": "Xbox At Tokyo Game Show 2025: Event Date, Start Times & Where To Watch The Showcase",
+            "description": "We're getting VERY close now! - It's almost time for the Xbox showcase at the Tokyo Game Show 2025! Yep, Xbox will be hosting an event that's set to bring us...",
+            "url": "https://www.purexbox.com/guides/xbox-at-tokyo-game-show-2025-event-date-start-times-and-where-to-watch-the-showcase",
+            "image": "https://images.purexbox.com/f681231a03ea1/large.jpg",
+            "publishedAt": "2025-09-24T13:45:00Z"
         },
         {
-            "title": "PlayStation Announces Platinum Trophy Gamers Can Now Unlock Exclusive Rewards",
-            "description": "PlayStation gamers who've bagged a Platinum can now grab some swag",
-            "url": "https://www.gamingbible.com/news/platform/playstation/playstation-platinum-trophy-exclusive-rewards-599456-20250923",
-            "image": "https://images.ladbible.com/ogimage/v3/assets/bltbc1876152fcd9f07/blt0758d9313b549039/68d2a272c5e3751b1c72b9ac/ps.png",
-            "publishedAt": "2025-09-23T13:36:55Z"
+            "title": "You can now experience Bj\u00f6rk's heartbreak in VR",
+            "description": "Vulnicura VR Remastered revisits a project the Icelandic pop artist debuted a decade ago, now reimagined with advanced technology.",
+            "url": "https://www.gpb.org/news/2025/09/24/you-can-now-experience-bjorks-heartbreak-in-vr",
+            "image": "https://www.gpb.org/sites/default/files/styles/three_two_702x468/public/npr_story_images/2025/09/24/vulnicura-vr-image-for-npr.png?h=2f83cd36&itok=6R4ehGwk",
+            "publishedAt": "2025-09-24T13:44:17Z"
         },
         {
-            "title": "iPhone 17 Pro And Pro Max Models Have Scratches On Their Bodies, Complain Many Users On Social Media",
-            "description": "Many iPhone 17 Pro model users have complained about scratches due to the aluminium body and MagSafe charging.",
-            "url": "https://www.etvbharat.com/en/!technology/iphone-17-pro-and-pro-max-models-have-scratches-on-their-bodies-complains-many-users-on-social-media-enn25092304714",
-            "image": "https://imgs.etvbharat.com/etvbharat/prod-images/23-09-2025/1200-675-25072773-940-25072773-1758629176845.jpg",
-            "publishedAt": "2025-09-23T13:34:24Z"
+            "title": "\u2018Pok\u00e9mon Legends: Z-A\u2019 Reveals More Than 140 Pok\u00e9mon You Can Catch and Battle",
+            "description": "\u201cPok\u00e9mon Legends: Z-A,\u201d the first \u201cPok\u00e9mon\u201d game to launch on the Switch 2, is nearly here, and Nintendo has revealed a Snorlax-sized amount of Pok\u00e9mon that will appear in the game. The news comes alongside an hour-long demo of the game, a sequel to 2022\u2019s open-world spinoff \u201cPok\u00e9mon Legends: Arceus,\u201d that showcased the new catching \u2026",
+            "url": "https://ca.news.yahoo.com/pok-mon-legends-z-reveals-134403842.html",
+            "image": "https://media.zenfs.com/en/variety.com/56452e3c8106dfc3b21d7443482012ca",
+            "publishedAt": "2025-09-24T13:44:03Z"
         },
         {
-            "title": "PlayStation's New Rewards Program Offers Unique Merch For Unlocking Trophies",
-            "description": "This new program will let you show off your platinum trophies with pride.",
-            "url": "https://www.gamespot.com/articles/playstations-new-rewards-program-offers-unique-merch-for-unlocking-trophies/1100-6534940/",
-            "image": "https://www.gamespot.com/a/uploads/screen_kubrick/3/37852/4573100-jin-sakai.jpg",
-            "publishedAt": "2025-09-23T13:29:48Z"
+            "title": "Pokemon Legends Z-A Reveals 140 Pokemon in the New Game Demo Pokedex",
+            "description": "'Pokemon Legends: Z-A' reveals more than 130 Pok\u00e9mon that are in the game in a new demo.",
+            "url": "https://variety.com/2025/gaming/news/pokemon-legends-za-pokedex-gameplay-demo-1236526337/",
+            "image": "https://variety.com/wp-content/uploads/2025/09/Pokemon.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2025-09-24T13:44:00Z"
         }
     ]
 }
