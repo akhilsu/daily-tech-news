@@ -1,75 +1,75 @@
 {
-    "date": "2025-10-03",
+    "date": "2025-10-04",
     "articles": [
         {
-            "title": "Demographic bias in public remote photoplethysmography datasets",
-            "description": "Remote photoplethysmography (rPPG) is gaining traction for non-contact heart rate estimation, yet most publicly available datasets are demographically biased. In this study, we analyze 100 rPPG studies, providing the first quantitative cross-model audit of demographic bias in rPPG and demonstrating significant underrepresentation of darker skin tones and gender imbalance. Our findings reveal how this bias limits model fairness and accuracy and propose steps to improve dataset inclusivity and algorithmic robustness.",
-            "url": "https://www.nature.com/articles/s41746-025-01973-9?error=cookies_not_supported&code=8dd16a05-e8be-4155-b45f-4c824f01e0eb",
-            "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41746-025-01973-9/MediaObjects/41746_2025_1973_Fig1_HTML.png",
-            "publishedAt": "2025-10-02T13:51:24Z"
+            "title": "Accounting For Tidal Deformability In Binary Neutron Star Template Banks Improves Sensitivity Near Detection Thresholds, Reducing Losses By 33% And 8.2%",
+            "description": "Researchers demonstrate that incorporating the subtle distortions of neutron stars caused by gravity into the search for gravitational waves significantly improves the detection of binary neutron star systems, requiring a more comprehensive exploration of potential signals than current methods allow.",
+            "url": "https://quantumzeitgeist.com/33-percent-8-2-percent-detection-accounting-tidal-deformability-binary-neutron-star-template-banks/",
+            "image": "https://quantumzeitgeist.com/wp-content/uploads/Capture-415.png",
+            "publishedAt": "2025-10-03T13:46:45Z"
         },
         {
-            "title": "You can already get a discount on the Apple Watch Series 11 at Amazon",
-            "description": "The Apple Watch Series 11 is available on Amazon and you can already get $10 off.",
-            "url": "https://www.engadget.com/deals/you-can-already-get-a-discount-on-the-apple-watch-series-11-at-amazon-135020356.html",
-            "image": "https://s.yimg.com/ny/api/res/1.2/TTsOt.jxLY1XsWQKPbhaWA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-09/79d8d370-8db7-11f0-9fab-e45c58e48d14",
-            "publishedAt": "2025-10-02T13:50:40Z"
+            "title": "Gmail Says It Won\u2019t Deliver \u2018Insecure\u2019 Email From January 2026",
+            "description": "Gmail will stop delivering insecure third-party email from January 1st \u2014 what you need to know and do before then.",
+            "url": "https://www.forbes.com/sites/daveywinder/2025/10/03/gmail-says-it-wont-deliver-insecure-email-from-january-2026/",
+            "image": "https://imageio.forbes.com/specials-images/imageserve/6829ad74cc1961429b7f1024/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-10-03T13:34:00Z"
         },
         {
-            "title": "Amazon Fall 2025 Event: How to Order Every New Echo, Fire TV, Ring, and Blink",
-            "description": "Amazon is launching more than 20 new products, including refreshed Echo speakers, Fire TVs, Kindle Scribes, Ring cameras, and more. We've got all the release dates and pre-order links you need.",
-            "url": "https://www.pcmag.com/news/amazon-fall-2025-event-how-to-order-every-new-echo-fire-tv-ring-and-blink",
-            "image": "https://i.pcmag.com/imagery/articles/03xoHwAuI3chDg28HImKM7K-3.fit_lim.size_1200x630.v1759409295.jpg",
-            "publishedAt": "2025-10-02T13:46:03Z"
+            "title": "Japan astronaut Onishi calls ISS commander mission \"invaluable asset\"",
+            "description": "Japanese astronaut Takuya Onishi on Friday called his experience as the third-ever Japanese commander of the International Space Station an \"invaluable asset\" after spending some five months on the orbiting laboratory.",
+            "url": "https://english.kyodonews.net/articles/-/62115",
+            "image": "https://english-kyodo.ismcdn.jp/mwimgs/a/4/1200x/img_a4d76511a6a050b4d514518a2f2b67ba587705.jpg",
+            "publishedAt": "2025-10-03T13:32:24Z"
         },
         {
-            "title": "Latest leak reveals how the Galaxy S26 UItra's automatic privacy display would work",
-            "description": "Samsung Galaxy S26 Ultra's display is getting a unique privacy protection feature, we now know better about how it would work.",
-            "url": "https://www.androidauthority.com/galaxy-s26-ultra-privacy-display-leak-3603402/",
-            "image": "https://www.androidauthority.com/wp-content/uploads/2025/05/samsung-galaxy-s25-ultra-joe-revisit-3-scaled.jpg",
-            "publishedAt": "2025-10-02T13:45:25Z"
+            "title": "How One AI Model Creates a Physical Intuition of Its Environment",
+            "description": "The V-JEPA system uses ordinary videos to understand the physics of the real world.",
+            "url": "https://www.quantamagazine.org/how-one-ai-model-creates-a-physical-intuition-of-its-environment-20251003/",
+            "image": "https://www.quantamagazine.org/wp-content/uploads/2025/11/AIIntuitsPhysics-crKristinaArmitage-Social.jpg",
+            "publishedAt": "2025-10-03T13:32:18Z"
         },
         {
-            "title": "Americans\u2019 romance gets a digital twist: 28% of adults admit to relationship with AI",
-            "description": "Nearly 30% of Americans report intimate relationships with AI. Discover how AI is reshaping love, connection, and the future of human relationships.",
-            "url": "https://www.financialexpress.com/world-news/us-news/americans-romance-gets-a-digital-twist-28-of-adults-admit-to-relationship-with-ai/3996678/",
-            "image": "https://images.financialexpressdigital.com/2025/10/Copy-of-.-2025-10-02T190334.007.jpg",
-            "publishedAt": "2025-10-02T13:45:20Z"
+            "title": "Google's new HomePod rival pairs Gemini smarts with room-filling 360-degree audio",
+            "description": "Gemini has a new (Google) Home",
+            "url": "https://www.whathifi.com/speakers/wireless-speakers/googles-new-homepod-rival-pairs-gemini-smarts-with-room-filling-360-degree-audio",
+            "image": "https://cdn.mos.cms.futurecdn.net/dgvBuR9FgYrhAc9cJpZB7T-1132-80.jpg",
+            "publishedAt": "2025-10-03T13:29:50Z"
         },
         {
-            "title": "Here are all the top Microsoft Excel features released in September 2025",
-            "description": "Microsoft added a bunch of useful features to Excel last month",
-            "url": "https://www.xda-developers.com/top-microsoft-excel-features-released-in-september-2025/",
-            "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2024/07/automate-microsoft-excel-with-macros.jpg?w=1600&h=900&fit=crop",
-            "publishedAt": "2025-10-02T13:45:00Z"
+            "title": "Yaskawa adds iQpump605 drive to enhance efficiency and flexibility",
+            "description": "The iQpump605 features a bright HOA keypad, step-by-step setup wizard, built-in presets, and optional Bluetooth for mobile control.",
+            "url": "https://www.engineering.com/yaskawa-adds-iqpump605-drive-to-enhance-efficiency-and-flexibility/",
+            "image": "https://www.engineering.com/wp-content/uploads/2025/10/Yaskawa-adds-iQpump605-drive-to-enhance-efficiency-and-flexibility.png",
+            "publishedAt": "2025-10-03T13:21:06Z"
         },
         {
-            "title": "Amazon Prime members can now add items to upcoming deliveries with just one tap",
-            "description": "Add to Delivery, our latest feature for Prime members, makes it easier than ever to add what you need, when you remember you need it.",
-            "url": "https://www.aboutamazon.com/news/retail/amazon-shopping-prime-members-add-to-delivery",
-            "image": "https://assets.aboutamazon.com/dims4/default/d60d2b0/2147483647/strip/true/crop/2000x1000+0+125/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F47%2F9d%2F3861035e4d02b06f9557a65c0479%2Fadd-phonehero-2000x1125.jpg",
-            "publishedAt": "2025-10-02T13:44:38Z"
+            "title": "New 50 MP CMOS sensor announced with DJI Osmo Pocket 4 plus Oppo, Vivo and Xiaomi high-end smartphones rumoured targets",
+            "description": "DJI is expected to present the Osmo Pocket 4 soon. In the meantime, OmniVision has now presented the OV50R40 specifically for high-end 'action, vlog and pocket cameras'. Apparently, Oppo, Vivo, and Xiaomi are also on board to use OmniVision's new 50 MP and 1/1.3-inch CMOS sensor.",
+            "url": "https://www.notebookcheck.net/New-50-MP-CMOS-sensor-announced-with-DJI-Osmo-Pocket-4-plus-Oppo-Vivo-and-Xiaomi-high-end-smartphones-rumoured-targets.1130798.0.html",
+            "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/DJI-Osmo-Pocket-4-camera-hardware-kv-final.jpg",
+            "publishedAt": "2025-10-03T13:18:00Z"
         },
         {
-            "title": "How Guident is making autonomous vehicles safer with multi",
-            "description": "Guident offers teleoperation as a service using low-latency remote monitoring and multi-network connectivity for autonomous vehicles.",
-            "url": "https://www.therobotreport.com/how-guident-is-making-autonomous-vehicles-safer-with-multi-network-taas/",
-            "image": "https://www.therobotreport.com/wp-content/uploads/2025/10/guident-auvetech-featured.jpg",
-            "publishedAt": "2025-10-02T13:44:07Z"
+            "title": "Opera's flagship and GX browsers to receive upgraded free, native browser AI tools",
+            "description": "/PRNewswire/ -- Opera [NASDAQ: OPRA], a leading global browser and AI agent company, today announced its upcoming browser-AI upgrades to its free browser...",
+            "url": "https://www.prnewswire.com/news-releases/operas-flagship-and-gx-browsers-to-receive-upgraded-free-native-browser-ai-tools-302574786.html",
+            "image": "https://mma.prnewswire.com/media/1441977/Opera_Logo.jpg?p=facebook",
+            "publishedAt": "2025-10-03T13:18:00Z"
         },
         {
-            "title": "Instagram Chief: No, We're Not Listening to What You Say to Serve Ads",
-            "description": "Adam Mosseri explains why you see ads for things you've talked about.",
-            "url": "https://www.pcmag.com/news/instagram-chief-no-were-not-listening-to-your-microphone-for-ads",
-            "image": "https://i.pcmag.com/imagery/articles/06IbPaOsNFKfkoPmiQ68sFD-1.fit_lim.size_1200x630.v1759390739.jpg",
-            "publishedAt": "2025-10-02T13:41:15Z"
+            "title": "What\u2019s New in Microsoft Intune",
+            "description": "Microsoft Intune update adds Intel vPro integration, day-zero Apple OS support, PowerShell app deployment, and AI insights for smarter Cloud PC management.",
+            "url": "https://petri.com/microsoft-intune-update-september-2025/",
+            "image": "https://petri.com/wp-content/uploads/2022/02/Cloud_05.jpg",
+            "publishedAt": "2025-10-03T13:16:43Z"
         },
         {
-            "title": "Canyon launches its own carbon gravel bike wheels and promises more new wheelsets",
-            "description": "Canyon\u2019s GR30 CF carbon wheels weigh 1,525g, have a 27mm internal width and roll on DT Swiss hubs",
-            "url": "https://www.bikeradar.com/news/2025-canyon-gr30-cf-wheelset",
-            "image": "https://c02.purpledshub.com/uploads/sites/39/2025/10/598325-Canyon-GR30-Tubeless-Thumb-2-f7326e-original-1750672116.jpg?w=1200",
-            "publishedAt": "2025-10-02T13:39:40Z"
+            "title": "The latest Anker Prime charging devices are already 20 percent off",
+            "description": "Ahead of October Prime Day, snag a 300W power bank for its lowest price yet.",
+            "url": "https://www.engadget.com/deals/the-latest-anker-prime-charging-devices-are-already-20-percent-off-152040882.html",
+            "image": "https://s.yimg.com/os/creatr-uploaded-images/2025-09/682d7840-9d45-11f0-bd7f-a52081075e15",
+            "publishedAt": "2025-10-03T13:15:35Z"
         }
     ]
 }
