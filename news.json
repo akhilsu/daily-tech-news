@@ -1,75 +1,75 @@
 {
-    "date": "2025-10-16",
+    "date": "2025-10-17",
     "articles": [
         {
-            "title": "vivo Unveils OriginOS Globally, Defining Smoothness Mastery for the Next Mobile Era",
-            "description": "vivo today announced the global launch of OriginOS, the company\u2019s most advanced operating system, redefining human-computer interaction.",
-            "url": "https://vivonewsroom.in/press-release/vivo-unveils-originos-globally-defining-smoothness-mastery-for-the-next-mobile-era/",
-            "image": "https://vivonewsroom.b-cdn.net/wp-content/uploads/2025/10/Featured-Image_Danish-Article.jpeg",
-            "publishedAt": "2025-10-15T13:52:37Z"
+            "title": "Nine things to know before playing Pok\u00e9mon Legends Z-A",
+            "description": "Eurogamer's top nine tips to know before you start playing Pok\u00e9mon Legends: Z-A!",
+            "url": "https://www.eurogamer.net/nine-things-to-know-before-playing-pokemon-legends-z-a",
+            "image": "https://assetsio.gnwcdn.com/Pokemon-Legends-Z-A-Nine-Things-Header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "publishedAt": "2025-10-16T13:53:00Z"
         },
         {
-            "title": "How Sam Altman Played Hollywood",
-            "description": "OpenAI\u2019s CEO brazenly regurgitated major studios\u2019 characters to allow video app Sora 2 to spit out clips tailor-made for users.",
-            "url": "https://www.hollywoodreporter.com/business/business-news/sam-altman-openai-sora-agencies-talent-1236401618/",
-            "image": "https://www.hollywoodreporter.com/wp-content/uploads/2025/10/28rep_opener.jpg?w=1440&h=810&crop=1",
-            "publishedAt": "2025-10-15T13:52:34Z"
+            "title": "Microsoft launches new AI upgrades to Windows 11",
+            "description": "Microsoft has today rolled out a series of artificial intelligence upgrades to Windows 11 that would make its Copilot AI assistant more appealing to users by making it easier to automate tasks and connect with services across devices.",
+            "url": "https://www.rte.ie/news/business/2025/1016/1538930-microsofts-new-ai-upgrades-to-windows-11/",
+            "image": "https://www.rte.ie/images/0023542f-1600.jpg",
+            "publishedAt": "2025-10-16T13:47:41Z"
         },
         {
-            "title": "\u2018Borderlands 4\u2019 Is On Sale After A Month As It Trails \u2018Borderlands 3\u2019",
-            "description": "Borderlands 4 is on sale on Steam right now, and it's pretty clear that it is still underperforming Borderlands 3.",
-            "url": "https://www.forbes.com/sites/paultassi/2025/10/15/borderlands-4-is-on-sale-after-a-month-as-it-trails-borderlands-3/",
-            "image": "https://imageio.forbes.com/specials-images/imageserve/68cd60f9a51619fea5dd7c54/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2025-10-15T13:44:55Z"
+            "title": "Pinterest lets users filter out AI-generated content after calls for change",
+            "description": "Users of the app have been calling for a better balance of human and AI-generated content, it said.",
+            "url": "https://www.irishnews.com/news/uk/pinterest-lets-users-filter-out-ai-generated-content-after-calls-for-change-CYP5ASNW5VMKJNZY6BMZ4PWDQI/",
+            "image": "https://www.irishnews.com/resizer/v2/UDEJMJNOWBNP5KIXKE5BBCQZUY.jpg?smart=true&auth=c975b64c11df09baa04ade2ac10a4e382fee1f21c8cbaf59874ece97e689b3c5&width=1200&height=630",
+            "publishedAt": "2025-10-16T13:47:34Z"
         },
         {
-            "title": "Roblox Everywhere: Bringing Roblox to Two New Platforms",
-            "description": "Roblox Everywhere: Bringing Roblox to Two New Platforms",
-            "url": "https://corp.roblox.com/newsroom/2025/10/roblox-everywhere-bringing-roblox-two-new-platforms",
-            "image": "https://cdn.buttercms.com/GldEffs4SfS39NXM9mkn",
-            "publishedAt": "2025-10-15T13:43:51Z"
+            "title": "ChatGPT Now Available in Slack, Enabling Smarter Collaboration and Seamless Workflows",
+            "description": "The integration maintains continuity: conversations initiated in Slack are synchronized with the user\u2019s ChatGPT interface, so work can seamlessly continue across platforms.",
+            "url": "https://techafricanews.com/2025/10/16/chatgpt-now-available-in-slack-enabling-smarter-collaboration-and-seamless-workflows/",
+            "image": "https://techafricanews.com/wp-content/uploads/2025/09/open-ai-1.png",
+            "publishedAt": "2025-10-16T13:45:43Z"
         },
         {
-            "title": "Apple unleashes M5, the next big leap in AI performance for Apple silicon",
-            "description": "M5 delivers over 4x the peak GPU compute performance for AI compared to M4, featuring a next-generation GPU with a Neural Accelerator in each core, a more powerful CPU, a faster Neural Engine, and higher unified memory bandwidth Apple\u00ae today announced M5, delivering the next big leap in AI performance and advances to nearly every aspect of the chip. Built using third-generation 3-nanometer technology, M5 introduces ...",
-            "url": "https://investingnews.com/apple-unleashes-m5-the-next-big-leap-in-ai-performance-for-apple-silicon/",
-            "image": "https://investingnews.com/media-library/image.gif?id=32685410&width=1200&height=600&coordinates=10%2C0%2C10%2C0",
-            "publishedAt": "2025-10-15T13:43:29Z"
+            "title": "MacArtney And Teledyne ODI Accelerate Connector Service Across Europe",
+            "description": "European operators now benefit from faster, certified subsea connector servicing through MacArtney\u2019s expanded partnership with Teledyne ODI.",
+            "url": "https://oceannews.com/news/science-technology/macartney-and-teledyne-odi-accelerate-connector-service-across-europe/",
+            "image": "https://oceannews.com/wp-content/uploads/2025/10/macartney_teledyne_odi_service_hub.jpg",
+            "publishedAt": "2025-10-16T13:44:39Z"
         },
         {
-            "title": "Apple's first M5 laptop is the 14-inch MacBook Pro",
-            "description": "Apple's latest M5 silicon chip is here and it's debuting not just with an iPad Pro, but a new MacBook Pro as well.",
-            "url": "https://www.engadget.com/computing/laptops/apples-first-m5-laptop-is-the-14-inch-macbook-pro-131314446.html",
-            "image": "https://s.yimg.com/os/creatr-uploaded-images/2025-10/616afc00-a9c8-11f0-8fd7-0ba19a123fa6",
-            "publishedAt": "2025-10-15T13:42:39Z"
+            "title": "Arc Raiders free items and how to get kitted out with pre-order and Server Slam bonuses",
+            "description": "Arc Raiders goes big with its character customization, and it's giving you some fancy goodies to play with before you can even play the full game.",
+            "url": "https://www.allout-gaming.com/news/arc-raiders-free-items-how-1449305",
+            "image": "https://i2-prod.allout-gaming.com/article1449414.ece/ALTERNATES/s1200/0_image-28.png",
+            "publishedAt": "2025-10-16T13:43:03Z"
         },
         {
-            "title": "Pokemon brushes up decades-old formula with Legends: Z-A game",
-            "description": "Pokemon Legends: Z-A will play out its matchups in real time, rather than turn-by-turn play. Read more at straitstimes.com.",
-            "url": "https://www.straitstimes.com/life/pokemon-brushes-up-decades-old-formula-with-legends-z-a-game",
-            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/482e9933f7a4b28677862dec4fb202f393df87307e13b4f3baeb438609512bb0",
-            "publishedAt": "2025-10-15T13:42:36Z"
+            "title": "Dean Freeman Directs Visual Love Letter to Connection for Nikon\u2019s Red ZR Camera",
+            "description": "Little Black Book, The film, developed in partnership with Hakuhodo, captures the essence of connection, creativity, and cinematic innovation",
+            "url": "https://lbbonline.com/news/Dean-Freeman-Nikons-Red-ZR-Camera",
+            "image": "https://d3q27bh1u24u2o.cloudfront.net/news/2025-10/Screenshot-2025-10-15-at-22.43.11.BWg-HpaS.png",
+            "publishedAt": "2025-10-16T13:42:36Z"
         },
         {
-            "title": "Creating Impactful Teams Across Diverse Work Environments",
-            "description": "Natan \u017dabkar Nordberg explains how engineering leaders build impactful, high-performing teams by intentionally shaping culture, embracing diversity, fostering trust, and implementing guided autonomy.",
-            "url": "https://www.infoq.com/presentations/team-diversity-productivity/",
-            "image": "https://res.infoq.com/presentations/team-diversity-productivity/en/card_header_image/natan-zabkar-nordberg-twitter-card-1757666105109.jpg",
-            "publishedAt": "2025-10-15T13:41:44Z"
+            "title": "Apple\u2019s October tech drop: M5 chip boosts iPad Pro, MacBook & Vision Pro performance",
+            "description": "Apple (NASDAQ:AAPL) unveiled the M5 chip, delivering AI, graphics, and efficiency boosts across its new iPad Pro, MacBook Pro, and Vision Pro",
+            "url": "https://stockhouse.com/news/the-market-online-news/2025/10/16/apple-s-october-tech-drop-m5-chip-boosts-ipad-pro-macbook-vision-pro-performance",
+            "image": "https://media.stockhouse.com/embed/bchxpyts032ohdiz2h809f9tl9/1/large",
+            "publishedAt": "2025-10-16T13:36:33Z"
         },
         {
-            "title": "I've tested free vs. paid AI coding tools - here's which one I'd actually use",
-            "description": "Some developers pay big for AI coding tools. Others stick with free. Here's how to know when to spend - and when to save.",
-            "url": "https://www.zdnet.com/article/ive-tested-free-vs-paid-ai-coding-tools-heres-which-one-id-actually-use/",
-            "image": "https://www.zdnet.com/a/img/resize/36abab24ac2c84e27f1dba686cea0483fb2af323/2025/10/15/5017377f-4b3b-424e-9b8d-ee3a890e94ab/gettyimages-2229869214.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-10-15T13:41:00Z"
+            "title": "Nintendo\u2019s baffling $2.27bn mobile portfolio explained, sort of",
+            "description": "Nintendo's mobile portfolio has generated 816m downloads and\u00a0$2.27bn in revenue since Super Mario Run launched in September 2016, according to Sensor Tower data.",
+            "url": "https://mobilegamer.biz/nintendos-baffling-2-2bn-mobile-portfolio-explained-sort-of/",
+            "image": "https://i0.wp.com/mobilegamer.biz/wp-content/uploads/2025/10/nintendo-mobile-.jpg?fit=1200%2C542&ssl=1",
+            "publishedAt": "2025-10-16T13:33:30Z"
         },
         {
-            "title": "Impact of Blood Collection Materials on LC-MS/MS Measurement of Vitamin D",
-            "description": "Researchers found that blood collection tubes from different manufacturers can interfere with LC-MS/MS measurement of serum 25-hydroxyvitamin D [25(OH)D], a critical preanalytical quality control issue affecting assay accuracy.",
-            "url": "https://www.chromatographyonline.com/view/impact-of-blood-collection-materials-on-lc-ms-ms-measurement-of-vitamin-d",
-            "image": "https://cdn.sanity.io/images/0vv8moc6/chroma/fe670da9c17ee57f3281d577ffcc39ca5b398dfc-6000x4500.jpg",
-            "publishedAt": "2025-10-15T13:40:52Z"
+            "title": "Microsoft patches ASP.NET Core bug rated highly critical",
+            "description": ": Flaw in Kestrel web server allowed request smuggling, impact depends on hosting setup and application code",
+            "url": "https://www.theregister.com/2025/10/16/microsoft_aspnet_core_vulnerability/",
+            "image": "https://regmedia.co.uk/2024/05/24/shutterstock_alert.jpg",
+            "publishedAt": "2025-10-16T13:32:00Z"
         }
     ]
 }
