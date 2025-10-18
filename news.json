@@ -1,75 +1,75 @@
 {
-    "date": "2025-10-17",
+    "date": "2025-10-18",
     "articles": [
         {
-            "title": "Nine things to know before playing Pok\u00e9mon Legends Z-A",
-            "description": "Eurogamer's top nine tips to know before you start playing Pok\u00e9mon Legends: Z-A!",
-            "url": "https://www.eurogamer.net/nine-things-to-know-before-playing-pokemon-legends-z-a",
-            "image": "https://assetsio.gnwcdn.com/Pokemon-Legends-Z-A-Nine-Things-Header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-            "publishedAt": "2025-10-16T13:53:00Z"
+            "title": "Google Cloud Gaming Boss on AI, Stadia Learnings",
+            "description": "Google Cloud director of game industry solutions Jack Buser breaks down tech giant\u2019s far reaching plans for future of live service gaming.",
+            "url": "https://variety.com/2025/gaming/news/google-cloud-gaming-ai-stadia-jack-buser-interview-1236555448/",
+            "image": "https://variety.com/wp-content/uploads/2025/10/Jack-Buser-Google-Cloud.png?w=1000&h=563&crop=1",
+            "publishedAt": "2025-10-17T13:46:00Z"
         },
         {
-            "title": "Microsoft launches new AI upgrades to Windows 11",
-            "description": "Microsoft has today rolled out a series of artificial intelligence upgrades to Windows 11 that would make its Copilot AI assistant more appealing to users by making it easier to automate tasks and connect with services across devices.",
-            "url": "https://www.rte.ie/news/business/2025/1016/1538930-microsofts-new-ai-upgrades-to-windows-11/",
-            "image": "https://www.rte.ie/images/0023542f-1600.jpg",
-            "publishedAt": "2025-10-16T13:47:41Z"
+            "title": "Digital technology integration in home-based exercise: a systematic review of research evolution, applications, and impact mechanisms",
+            "description": "The integration of digital technologies in home-based exercise (HBE) has emerged as a critical public health intervention, particularly following the COVID-19 pandemic. However, comprehensive understanding of how digital technologies influence HBE research evolution and practice remains limited. This systematic review aims to: (1) map the knowledge evolution of digital technology-supported HBE research, (2) analyze innovative applications and value propositions of digital technologies in HBE, (3) identify key determinants of HBE participation in the digital era, and (4) predict future development trends. Following PRISMA guidelines, we conducted a comprehensive search of the Web of Science database from 2000 to 2024, yielding 311 articles for bibliometric analysis using CiteSpace and VOSviewer. Results indicated that digital technology-supported HBE research has grown exponentially, peaking in 2022. We identified seven core research themes, including intelligent exercise training, AI-driven fall prevention, wearable device interventions, virtual reality rehabilitation, mobile health applications, cancer patient tracking systems, and remote diagnostics. These themes highlight innovative approaches to personalized training, remote monitoring, and immersive rehabilitation experiences, demonstrating significant value in enhancing exercise adherence and health outcomes. Key determinants of HBE participation were identified at personal (social support, professional guidance, self-efficacy) and technological (digital literacy, accessibility, user interface design, data privacy) levels. Digital technologies demonstrate substantial potential for enhancing HBE accessibility, improving adherence, and reducing public health burden. Future research should prioritize addressing digital equity and developing evidence-based implementation frameworks to ensure sustainable and inclusive digital health interventions.",
+            "url": "https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-025-24679-9",
+            "image": "https://static-content.springer.com/image/art%3A10.1186%2Fs12889-025-24679-9/MediaObjects/12889_2025_24679_Fig1_HTML.png",
+            "publishedAt": "2025-10-17T13:39:39Z"
         },
         {
-            "title": "Pinterest lets users filter out AI-generated content after calls for change",
-            "description": "Users of the app have been calling for a better balance of human and AI-generated content, it said.",
-            "url": "https://www.irishnews.com/news/uk/pinterest-lets-users-filter-out-ai-generated-content-after-calls-for-change-CYP5ASNW5VMKJNZY6BMZ4PWDQI/",
-            "image": "https://www.irishnews.com/resizer/v2/UDEJMJNOWBNP5KIXKE5BBCQZUY.jpg?smart=true&auth=c975b64c11df09baa04ade2ac10a4e382fee1f21c8cbaf59874ece97e689b3c5&width=1200&height=630",
-            "publishedAt": "2025-10-16T13:47:34Z"
+            "title": "Galaxy S24 One UI 8 update you already installed is no longer available",
+            "description": "The One UI 8 firmware for the Galaxy S24, S24+, and S24 Ultra is no longer available on Samsung\u2019s servers in at least one country. - SamMobile",
+            "url": "https://www.sammobile.com/news/samsung-galaxy-s24-plus-ultra-one-ui-8-rollout-stopped/",
+            "image": "https://www.sammobile.com/wp-content/uploads/2024/02/Galaxy-S24-Plus-review-3-1.jpg",
+            "publishedAt": "2025-10-17T13:33:00Z"
         },
         {
-            "title": "ChatGPT Now Available in Slack, Enabling Smarter Collaboration and Seamless Workflows",
-            "description": "The integration maintains continuity: conversations initiated in Slack are synchronized with the user\u2019s ChatGPT interface, so work can seamlessly continue across platforms.",
-            "url": "https://techafricanews.com/2025/10/16/chatgpt-now-available-in-slack-enabling-smarter-collaboration-and-seamless-workflows/",
-            "image": "https://techafricanews.com/wp-content/uploads/2025/09/open-ai-1.png",
-            "publishedAt": "2025-10-16T13:45:43Z"
+            "title": "\u2018OriginOS 6 is about smoothness, design, and intelligence\u2019: Vivo exec on the brand\u2019s new user-first software",
+            "description": "Vivo\u2019s OriginOS 6 promises a smoother, smarter, and more personalised smartphone experience, built with users in mind.",
+            "url": "https://indianexpress.com/article/technology/artificial-intelligence/originos-6-is-about-smoothness-design-and-intelligence-vivo-exec-on-the-brands-new-user-first-software-10312921/",
+            "image": "https://images.indianexpress.com/2025/10/Vivo-Origin-OS-6.jpg",
+            "publishedAt": "2025-10-17T13:32:18Z"
         },
         {
-            "title": "MacArtney And Teledyne ODI Accelerate Connector Service Across Europe",
-            "description": "European operators now benefit from faster, certified subsea connector servicing through MacArtney\u2019s expanded partnership with Teledyne ODI.",
-            "url": "https://oceannews.com/news/science-technology/macartney-and-teledyne-odi-accelerate-connector-service-across-europe/",
-            "image": "https://oceannews.com/wp-content/uploads/2025/10/macartney_teledyne_odi_service_hub.jpg",
-            "publishedAt": "2025-10-16T13:44:39Z"
+            "title": "Samsung Reportedly Gives Up on Super Thin Smartphones Amid Low Sales",
+            "description": "Samsung has abruptly canceled development of its planned Galaxy S26 Edge smartphone after disappointing sales of the ultra-thin Galaxy S25 Edge,...",
+            "url": "https://www.macrumors.com/2025/10/17/samsung-reportedly-gives-up-on-thin-smartphones/",
+            "image": "https://images.macrumors.com/t/gUdM7P7UfiXnqJg80JSVU0e8arQ=/2500x/article-new/2025/05/S25-Edge-Thumb-2.jpg",
+            "publishedAt": "2025-10-17T13:31:49Z"
         },
         {
-            "title": "Arc Raiders free items and how to get kitted out with pre-order and Server Slam bonuses",
-            "description": "Arc Raiders goes big with its character customization, and it's giving you some fancy goodies to play with before you can even play the full game.",
-            "url": "https://www.allout-gaming.com/news/arc-raiders-free-items-how-1449305",
-            "image": "https://i2-prod.allout-gaming.com/article1449414.ece/ALTERNATES/s1200/0_image-28.png",
-            "publishedAt": "2025-10-16T13:43:03Z"
+            "title": "This LG OLED Gaming Monitor Is Nearly 50% Off Right Now",
+            "description": "The 34-inch LG Ultragear 34GS95QE OLED gaming monitor is one of the most immersive curved displays on the market. Right now, it\u2019s 46% off, dropping it to $696.99.",
+            "url": "https://lifehacker.com/tech/lg-ultragear-34gs95qe-oled-gaming-monitor-sale?test_uuid=02DN02BmbRCcASIX6xMQtY9&test_variant=A",
+            "image": "https://lifehacker.com/imagery/articles/01K7S4EE7RAVEED6CE9DEMN126/hero-image.fill.size_1200x675.png",
+            "publishedAt": "2025-10-17T13:30:00Z"
         },
         {
-            "title": "Dean Freeman Directs Visual Love Letter to Connection for Nikon\u2019s Red ZR Camera",
-            "description": "Little Black Book, The film, developed in partnership with Hakuhodo, captures the essence of connection, creativity, and cinematic innovation",
-            "url": "https://lbbonline.com/news/Dean-Freeman-Nikons-Red-ZR-Camera",
-            "image": "https://d3q27bh1u24u2o.cloudfront.net/news/2025-10/Screenshot-2025-10-15-at-22.43.11.BWg-HpaS.png",
-            "publishedAt": "2025-10-16T13:42:36Z"
+            "title": "Vampire The Masquerade Bloodlines 2 Review",
+            "description": "Bloodlines 2 tries to revive a cult classic but ends up lifeless, drained of depth and style.",
+            "url": "https://www.cnet.com/tech/gaming/vampire-the-masquerade-bloodlines-2-should-have-stayed-in-the-coffin/",
+            "image": "https://www.cnet.com/a/img/resize/04df1cbfbc88bdd7413ce6ba2152459ab2d1599d/hub/2025/10/16/eb602466-3248-44cc-a6ff-c5894735c28b/2-convo.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-10-17T13:24:00Z"
         },
         {
-            "title": "Apple\u2019s October tech drop: M5 chip boosts iPad Pro, MacBook & Vision Pro performance",
-            "description": "Apple (NASDAQ:AAPL) unveiled the M5 chip, delivering AI, graphics, and efficiency boosts across its new iPad Pro, MacBook Pro, and Vision Pro",
-            "url": "https://stockhouse.com/news/the-market-online-news/2025/10/16/apple-s-october-tech-drop-m5-chip-boosts-ipad-pro-macbook-vision-pro-performance",
-            "image": "https://media.stockhouse.com/embed/bchxpyts032ohdiz2h809f9tl9/1/large",
-            "publishedAt": "2025-10-16T13:36:33Z"
+            "title": "Cearvol Unveils Full Hearing Aids Lineup at EUHA 2025,",
+            "description": "Visit Hall 7 \u2013 Booth 242 | October 22\u201324, 2025 | Nuremberg Exhibition Center...",
+            "url": "https://www.globenewswire.com/news-release/2025/10/17/3168664/0/en/Cearvol-Unveils-Full-Hearing-Aids-Lineup-at-EUHA-2025-Showcasing-Flagship-Wave-with-Advanced-AI-and-Touchscreen-Technology.html",
+            "image": "https://ml.globenewswire.com/Resource/Download/1f2337df-63a8-47f4-a53c-5577fdedca7a",
+            "publishedAt": "2025-10-17T13:20:43Z"
         },
         {
-            "title": "Nintendo\u2019s baffling $2.27bn mobile portfolio explained, sort of",
-            "description": "Nintendo's mobile portfolio has generated 816m downloads and\u00a0$2.27bn in revenue since Super Mario Run launched in September 2016, according to Sensor Tower data.",
-            "url": "https://mobilegamer.biz/nintendos-baffling-2-2bn-mobile-portfolio-explained-sort-of/",
-            "image": "https://i0.wp.com/mobilegamer.biz/wp-content/uploads/2025/10/nintendo-mobile-.jpg?fit=1200%2C542&ssl=1",
-            "publishedAt": "2025-10-16T13:33:30Z"
+            "title": "Copilot Actions in Windows 11: The new AI tool that promises to make your PC smarter and more secure",
+            "description": "Copilot Actions hints at Microsoft\u2019s ambition to make AI central to Windows. The feature enters testing as an opt-in, letting users hand off tasks to a secure digital agent, one that\u2019s being scrutinised closely for both privacy and practicality.",
+            "url": "https://www.livemint.com/gadgets-and-appliances/copilot-actions-in-windows-11-the-new-ai-tool-that-promises-to-make-your-pc-smarter-and-more-secure-11760694712699.html",
+            "image": "https://www.livemint.com/lm-img/img/2025/10/17/1600x900/MS_1760695104795_1760695104954.webp",
+            "publishedAt": "2025-10-17T13:17:03Z"
         },
         {
-            "title": "Microsoft patches ASP.NET Core bug rated highly critical",
-            "description": ": Flaw in Kestrel web server allowed request smuggling, impact depends on hosting setup and application code",
-            "url": "https://www.theregister.com/2025/10/16/microsoft_aspnet_core_vulnerability/",
-            "image": "https://regmedia.co.uk/2024/05/24/shutterstock_alert.jpg",
-            "publishedAt": "2025-10-16T13:32:00Z"
+            "title": "Battlefield 6 developers U-turn on a multiplayer adjustment following community feedback",
+            "description": "Battlefield 6 developers U-Turn on a multiplayer adjustment following community feedback.",
+            "url": "https://www.eurogamer.net/battlefield-6-developers-u-turn-on-a-multiplayer-adjustment-following-community-feedback",
+            "image": "https://assetsio.gnwcdn.com/battlefield-6-headline_RXXqaEX.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "publishedAt": "2025-10-17T13:12:15Z"
         }
     ]
 }
