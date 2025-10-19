@@ -1,75 +1,75 @@
 {
-    "date": "2025-10-18",
+    "date": "2025-10-19",
     "articles": [
         {
-            "title": "Google Cloud Gaming Boss on AI, Stadia Learnings",
-            "description": "Google Cloud director of game industry solutions Jack Buser breaks down tech giant\u2019s far reaching plans for future of live service gaming.",
-            "url": "https://variety.com/2025/gaming/news/google-cloud-gaming-ai-stadia-jack-buser-interview-1236555448/",
-            "image": "https://variety.com/wp-content/uploads/2025/10/Jack-Buser-Google-Cloud.png?w=1000&h=563&crop=1",
-            "publishedAt": "2025-10-17T13:46:00Z"
+            "title": "10 Of The Most Useful USB Gadgets You Can Find On Amazon",
+            "description": "Discover the 10 most useful USB gadgets on Amazon for work, travel, and home, including a USB-C hub, a speedy SSD, an endoscope camera, a desk fan, and more.",
+            "url": "https://www.bgr.com/1997208/most-useful-usb-gadget-amazon/",
+            "image": "https://www.bgr.com/img/gallery/10-of-the-most-useful-usb-gadgets-you-can-find-on-amazon/l-intro-1760397452.jpg",
+            "publishedAt": "2025-10-18T14:02:00Z"
         },
         {
-            "title": "Digital technology integration in home-based exercise: a systematic review of research evolution, applications, and impact mechanisms",
-            "description": "The integration of digital technologies in home-based exercise (HBE) has emerged as a critical public health intervention, particularly following the COVID-19 pandemic. However, comprehensive understanding of how digital technologies influence HBE research evolution and practice remains limited. This systematic review aims to: (1) map the knowledge evolution of digital technology-supported HBE research, (2) analyze innovative applications and value propositions of digital technologies in HBE, (3) identify key determinants of HBE participation in the digital era, and (4) predict future development trends. Following PRISMA guidelines, we conducted a comprehensive search of the Web of Science database from 2000 to 2024, yielding 311 articles for bibliometric analysis using CiteSpace and VOSviewer. Results indicated that digital technology-supported HBE research has grown exponentially, peaking in 2022. We identified seven core research themes, including intelligent exercise training, AI-driven fall prevention, wearable device interventions, virtual reality rehabilitation, mobile health applications, cancer patient tracking systems, and remote diagnostics. These themes highlight innovative approaches to personalized training, remote monitoring, and immersive rehabilitation experiences, demonstrating significant value in enhancing exercise adherence and health outcomes. Key determinants of HBE participation were identified at personal (social support, professional guidance, self-efficacy) and technological (digital literacy, accessibility, user interface design, data privacy) levels. Digital technologies demonstrate substantial potential for enhancing HBE accessibility, improving adherence, and reducing public health burden. Future research should prioritize addressing digital equity and developing evidence-based implementation frameworks to ensure sustainable and inclusive digital health interventions.",
-            "url": "https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-025-24679-9",
-            "image": "https://static-content.springer.com/image/art%3A10.1186%2Fs12889-025-24679-9/MediaObjects/12889_2025_24679_Fig1_HTML.png",
-            "publishedAt": "2025-10-17T13:39:39Z"
+            "title": "React Native Rolls Out Its Latest Version on New Architecture",
+            "description": "In other developer news, Kong adds an AI assistant to its Konnect platform; and a composable web application platform goes open source.",
+            "url": "https://thenewstack.io/react-native-rolls-out-its-latest-version-on-new-architecture/",
+            "image": "https://cdn.thenewstack.io/media/2024/04/d8b458d6-dev_news_img-2-2.png",
+            "publishedAt": "2025-10-18T14:01:47Z"
         },
         {
-            "title": "Galaxy S24 One UI 8 update you already installed is no longer available",
-            "description": "The One UI 8 firmware for the Galaxy S24, S24+, and S24 Ultra is no longer available on Samsung\u2019s servers in at least one country. - SamMobile",
-            "url": "https://www.sammobile.com/news/samsung-galaxy-s24-plus-ultra-one-ui-8-rollout-stopped/",
-            "image": "https://www.sammobile.com/wp-content/uploads/2024/02/Galaxy-S24-Plus-review-3-1.jpg",
-            "publishedAt": "2025-10-17T13:33:00Z"
+            "title": "Upgrade to 20TB of Private, Open-Source Cloud Storage With Internxt for $499.99",
+            "description": "This one-time payment delivers a large capacity of storage with strong encryption and no ads.",
+            "url": "https://www.pcmag.com/deals/upgrade-to-20tb-of-private-open-source-cloud-storage-with-internxt-for",
+            "image": "https://i.pcmag.com/imagery/articles/03Qzi4rEdU7apeFeEsHk8hQ-1.fit_lim.size_1200x630.v1760655514.png",
+            "publishedAt": "2025-10-18T14:01:01Z"
         },
         {
-            "title": "\u2018OriginOS 6 is about smoothness, design, and intelligence\u2019: Vivo exec on the brand\u2019s new user-first software",
-            "description": "Vivo\u2019s OriginOS 6 promises a smoother, smarter, and more personalised smartphone experience, built with users in mind.",
-            "url": "https://indianexpress.com/article/technology/artificial-intelligence/originos-6-is-about-smoothness-design-and-intelligence-vivo-exec-on-the-brands-new-user-first-software-10312921/",
-            "image": "https://images.indianexpress.com/2025/10/Vivo-Origin-OS-6.jpg",
-            "publishedAt": "2025-10-17T13:32:18Z"
+            "title": "The Fastest Way to Personalize Your Alarm Sound on Google Home",
+            "description": "Change your Google Home alarm sound in seconds\u2014custom tones, music, or whatever wakes you up best.",
+            "url": "https://www.lifewire.com/how-to-change-alarm-sound-on-google-home-11771780",
+            "image": "https://www.lifewire.com/thmb/ovc2b9ztmXR9iSq57F46574WvmU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/curtis-berry-S13qX-DHSFQ-unsplash-ec53802624ad4d17b10b292de2fc2432.jpg",
+            "publishedAt": "2025-10-18T14:00:00Z"
         },
         {
-            "title": "Samsung Reportedly Gives Up on Super Thin Smartphones Amid Low Sales",
-            "description": "Samsung has abruptly canceled development of its planned Galaxy S26 Edge smartphone after disappointing sales of the ultra-thin Galaxy S25 Edge,...",
-            "url": "https://www.macrumors.com/2025/10/17/samsung-reportedly-gives-up-on-thin-smartphones/",
-            "image": "https://images.macrumors.com/t/gUdM7P7UfiXnqJg80JSVU0e8arQ=/2500x/article-new/2025/05/S25-Edge-Thumb-2.jpg",
-            "publishedAt": "2025-10-17T13:31:49Z"
+            "title": "This is my favorite MCP server to use with my local LLM",
+            "description": "Adding search capabilities your local LLM will make it significantly better.",
+            "url": "https://www.xda-developers.com/favorite-mcp-server-use-local-llm/",
+            "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/07/macbook-air-running-deepseekr1.jpg?w=1600&h=900&fit=crop",
+            "publishedAt": "2025-10-18T14:00:00Z"
         },
         {
-            "title": "This LG OLED Gaming Monitor Is Nearly 50% Off Right Now",
-            "description": "The 34-inch LG Ultragear 34GS95QE OLED gaming monitor is one of the most immersive curved displays on the market. Right now, it\u2019s 46% off, dropping it to $696.99.",
-            "url": "https://lifehacker.com/tech/lg-ultragear-34gs95qe-oled-gaming-monitor-sale?test_uuid=02DN02BmbRCcASIX6xMQtY9&test_variant=A",
-            "image": "https://lifehacker.com/imagery/articles/01K7S4EE7RAVEED6CE9DEMN126/hero-image.fill.size_1200x675.png",
-            "publishedAt": "2025-10-17T13:30:00Z"
+            "title": "Home-brewed, pro touring LX Torana hatch in the build",
+            "description": "Plans for a rotisserie resto get blown out into a full-on, pro tourer-style build",
+            "url": "https://www.streetmachine.com.au/features/home-brewed-pro-touring-lx-torana-hatch-in-the-build",
+            "image": "https://www.streetmachine.com.au/wp-content/uploads/2025/10/claye-williams-lx-toana-hatch-reader-build-1-scaled.jpg",
+            "publishedAt": "2025-10-18T14:00:00Z"
         },
         {
-            "title": "Vampire The Masquerade Bloodlines 2 Review",
-            "description": "Bloodlines 2 tries to revive a cult classic but ends up lifeless, drained of depth and style.",
-            "url": "https://www.cnet.com/tech/gaming/vampire-the-masquerade-bloodlines-2-should-have-stayed-in-the-coffin/",
-            "image": "https://www.cnet.com/a/img/resize/04df1cbfbc88bdd7413ce6ba2152459ab2d1599d/hub/2025/10/16/eb602466-3248-44cc-a6ff-c5894735c28b/2-convo.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-10-17T13:24:00Z"
+            "title": "I took Vivo\u2019s iPhone 17 Pro rival to Shanghai to find out just how far ahead Chinese camera phones really are",
+            "description": "Is the Vivo X300 Pro the best camera phone ever made?",
+            "url": "https://www.techradar.com/phones/i-took-vivos-iphone-17-pro-rival-to-shanghai-to-find-out-just-how-far-ahead-chinese-camera-phones-really-are",
+            "image": "https://cdn.mos.cms.futurecdn.net/AxUMej4y9bgcnVfL8DhrGA-1856-80.jpg",
+            "publishedAt": "2025-10-18T14:00:00Z"
         },
         {
-            "title": "Cearvol Unveils Full Hearing Aids Lineup at EUHA 2025,",
-            "description": "Visit Hall 7 \u2013 Booth 242 | October 22\u201324, 2025 | Nuremberg Exhibition Center...",
-            "url": "https://www.globenewswire.com/news-release/2025/10/17/3168664/0/en/Cearvol-Unveils-Full-Hearing-Aids-Lineup-at-EUHA-2025-Showcasing-Flagship-Wave-with-Advanced-AI-and-Touchscreen-Technology.html",
-            "image": "https://ml.globenewswire.com/Resource/Download/1f2337df-63a8-47f4-a53c-5577fdedca7a",
-            "publishedAt": "2025-10-17T13:20:43Z"
+            "title": "Pok\u00e9mon Legends: Z-A makes a big, welcome change for shiny hunters",
+            "description": "Unlike in previous Pok\u00e9mon games, shiny pok\u00e9mon in Legends: Z-A won\u2019t disappear when you walk away, making it harder to miss out on rare catches.",
+            "url": "https://www.theverge.com/games/802089/pokemon-legends-z-a-shiny-hunting",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/IMG_2787.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2025-10-18T14:00:00Z"
         },
         {
-            "title": "Copilot Actions in Windows 11: The new AI tool that promises to make your PC smarter and more secure",
-            "description": "Copilot Actions hints at Microsoft\u2019s ambition to make AI central to Windows. The feature enters testing as an opt-in, letting users hand off tasks to a secure digital agent, one that\u2019s being scrutinised closely for both privacy and practicality.",
-            "url": "https://www.livemint.com/gadgets-and-appliances/copilot-actions-in-windows-11-the-new-ai-tool-that-promises-to-make-your-pc-smarter-and-more-secure-11760694712699.html",
-            "image": "https://www.livemint.com/lm-img/img/2025/10/17/1600x900/MS_1760695104795_1760695104954.webp",
-            "publishedAt": "2025-10-17T13:17:03Z"
+            "title": "Twitch unveils its next era: dual-format streaming, AI clips, and new sponsorship tools",
+            "description": "At TwitchCon 2025, Twitch unveils a host of new changes coming to the livestreaming video platform.",
+            "url": "https://mashable.com/article/twitch-dual-format-streaming-ai-sponsorship",
+            "image": "https://helios-i.mashable.com/imagery/articles/02NWwm4PgB6tl0COE6kFhZw/hero-image.fill.size_1200x675.v1760736646.jpg",
+            "publishedAt": "2025-10-18T13:56:18Z"
         },
         {
-            "title": "Battlefield 6 developers U-turn on a multiplayer adjustment following community feedback",
-            "description": "Battlefield 6 developers U-Turn on a multiplayer adjustment following community feedback.",
-            "url": "https://www.eurogamer.net/battlefield-6-developers-u-turn-on-a-multiplayer-adjustment-following-community-feedback",
-            "image": "https://assetsio.gnwcdn.com/battlefield-6-headline_RXXqaEX.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-            "publishedAt": "2025-10-17T13:12:15Z"
+            "title": "Red Magic 11 Pro Launched Featuring Snapdragon Elite Gen 5 Chipset",
+            "description": "Red Magic 11 Pro debuts with Snapdragon 8 Elite Gen 5, 6.85\" 1.5K 144Hz display, 8,000mAh battery, and advanced liquid cooling for ultimate gaming performance.",
+            "url": "https://www.techjuice.pk/red-magic-11-pro-launched-featuring-snapdragon-elite-gen-5-chipset/",
+            "image": "https://www.techjuice.pk/wp-content/uploads/2025/10/red-magic-11-pro-launched-featuring-snapdragon-elite-gen-5-chipset-techjuice-198721-133522.jpg",
+            "publishedAt": "2025-10-18T13:46:24Z"
         }
     ]
 }
