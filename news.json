@@ -1,75 +1,75 @@
 {
-    "date": "2025-10-20",
+    "date": "2025-10-21",
     "articles": [
         {
-            "title": "Vert Is a File Format Converter You Can Quickly Deploy With Docker",
-            "description": "Vert is a next-generation file converter that can translate audio, images and documents across multiple formats.",
-            "url": "https://thenewstack.io/vert-is-a-file-format-converter-you-can-quickly-deploy-with-docker/",
-            "image": "https://cdn.thenewstack.io/media/2025/10/3637a5d7-vert.png",
-            "publishedAt": "2025-10-19T14:01:45Z"
+            "title": "Gmail And Outlook Users Warned As Image-Based Hack Attacks Surge In 2025",
+            "description": "These images can contain hidden malicious code, links and interactive elements, security experts warn. Here\u2019s what Gmail and Outlook users need to know.",
+            "url": "https://www.forbes.com/sites/daveywinder/2025/10/20/gmail-and-outlook-users-warned-as-image-based-hack-attacks-surge-in-2025/",
+            "image": "https://imageio.forbes.com/specials-images/imageserve/68f6356a7b9e3469f777df04/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-10-20T13:57:21Z"
         },
         {
-            "title": "Weekend Round-Up: AI Takes Center Stage As Nvidia, Microsoft, Blackrock, Intel And Apple Make Big Moves",
-            "description": "Artificial intelligence dominated the week as Nvidia, Microsoft, BlackRock, Intel, and JPMorgan Chase made major AI-driven moves \u2014 from a $40 billion Texas data center and new chip launches to bold forecasts and manufacturing shifts out of China.",
-            "url": "https://www.benzinga.com/markets/tech/25/10/48293628/weekend-round-up-ai-takes-center-stage-as-nvidia-microsoft-blackrock-intel-and-apple-make-big-moves",
-            "image": "https://cdn.benzinga.com/files/images/story/2025/10/19/Ai-Technology--Artificial-Intelligence--.jpeg?width=1200&height=800&fit=crop",
-            "publishedAt": "2025-10-19T14:01:26Z"
+            "title": "Apple M5 Chip Revealed: 4x Faster AI in New Devices",
+            "description": "Apple's latest hardware announcement is not just another incremental update. It is a bold statement about the future of computing. Apple has introduced its...",
+            "url": "https://apple.gadgethacks.com/news/apple-m5-chip-revealed-4x-faster-ai-in-new-devices/",
+            "image": "https://assets.content.technologyadvice.com/photo_1758857087737_7511dfab2e0e_5b6afaf190.webp",
+            "publishedAt": "2025-10-20T13:55:41Z"
         },
         {
-            "title": "Atari Is Bringing Back the Intellivision, Its Former 1970s Rival",
-            "description": "The new $149.99 Intellivision Sprint will begin shipping Dec. 5, with pre-orders opening on Oct. 17.",
-            "url": "https://au.pcmag.com/gaming-1/113773/atari-is-bringing-back-the-intellivision-its-former-1970s-rival",
-            "image": "https://sm.pcmag.com/t/pcmag_au/news/a/atari-is-b/atari-is-bringing-back-the-intellivision-its-former-1970s-ri_zayh.1200.jpg",
-            "publishedAt": "2025-10-19T14:01:13Z"
+            "title": "Xbox President Kills Next-Gen Hardware Development Rumours",
+            "description": "Xbox head Sarah Bond confirmed Microsoft is still working on a next-gen console, despite rumours.",
+            "url": "https://www.cgmagonline.com/news/xbox-president-next-gen-hardware-rumours/",
+            "image": "https://cdn.cgmagonline.com/wp-content/uploads/2025/10/xbox-president-confirms-next-gen-hardware-development-is-underway-2025-10-20-526461.jpg",
+            "publishedAt": "2025-10-20T13:55:17Z"
         },
         {
-            "title": "OnePlus Pad 2 powered by a MediaTek chip will launch alongside the OnePlus 15",
-            "description": "News, Reviews and other Informations about Laptops",
-            "url": "https://www.notebookcheck.net/OnePlus-Pad-2-powered-by-a-MediaTek-chip-will-launch-alongside-the-OnePlus-15.1142061.0.html",
-            "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/OnePlus-Pad-2-China-colors.jpg",
-            "publishedAt": "2025-10-19T14:01:00Z"
+            "title": "Messenger on Windows is dead - try these 3 PC apps instead",
+            "description": "Meta has announced that it will be deprecating its Messenger apps on Windows and macOS on December 15. Here's how to ensure you don't lose your chat history, as well as three great alternatives for your Windows PC.",
+            "url": "https://www.windowscentral.com/microsoft/windows-11/meta-messenger-app-windows-alternatives",
+            "image": "https://cdn.mos.cms.futurecdn.net/LBQ9Pp8qTbBXwMCTdv7YEV-2560-80.jpg",
+            "publishedAt": "2025-10-20T13:54:41Z"
         },
         {
-            "title": "Urgency Addiction In Leadership: Speed Vs. Progress In The Age Of AI",
-            "description": "Leaders often confuse speed with progress. Urgency addiction, fueled by AI and action bias, risks shallow decisions over lasting leadership judgment.",
-            "url": "https://www.forbes.com/sites/vibhasratanjee/2025/10/19/urgency-addiction-in-leadership-speed-vs-progress-in-the-age-of-ai/",
-            "image": "https://imageio.forbes.com/specials-images/imageserve/68ca1f1a82b42a2df1a5cb83/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2025-10-19T14:00:56Z"
+            "title": "Alarmo Receives A Software Update, Here Are The Patch Notes",
+            "description": "Can you see it now? - Nintendo Sound Clock: Alarmo has received a small software update; it's first since March 2025. When we say small, we really mean it. ...",
+            "url": "https://www.nintendolife.com/news/2025/10/alarmo-receives-a-software-update-here-are-the-patch-notes",
+            "image": "https://images.nintendolife.com/635ed6eed54d5/large.jpg",
+            "publishedAt": "2025-10-20T13:51:22Z"
         },
         {
-            "title": "Filming At The Speed Of Light, About One Foot Per Nanosecond",
-            "description": "[Brian Haidet] published on his AlphaPhoenix channel a laser beam recorded at 2 billion frames per second. Well, sort of. The catch? It's only a one pixel by one pixel video, but he repeats it over an...",
-            "url": "https://hackaday.com/2025/10/19/filming-at-the-speed-of-light-about-one-foot-per-nanosecond/",
-            "image": "https://hackaday.com/wp-content/uploads/2025/10/2B-fps-banner.jpg",
-            "publishedAt": "2025-10-19T14:00:00Z"
+            "title": "Apple iPad Pro M5 Gets 3.5x AI Boost + Custom Chips",
+            "description": "Apple just dropped its latest iPad Pro, and this thing is absolutely packed with upgrades that go way beyond the usual \"faster processor\" routine....",
+            "url": "https://apple.gadgethacks.com/news/apple-ipad-pro-m5-gets-35x-ai-boost-custom-chips/",
+            "image": "https://assets.content.technologyadvice.com/photo_1638273266965_843b01e02a5c_dd9b75ec44.webp",
+            "publishedAt": "2025-10-20T13:50:30Z"
         },
         {
-            "title": "Gravistar Mercury V75 Pro Cyberpunk Keyboard Review",
-            "description": "The GravaStar Mercury V75 Pro won\u2019t be for everyone but It rivals the performance of higher-priced luxury gaming keyboards.",
-            "url": "https://www.cgmagonline.com/review/hardware/gravastar-mercury-v75-pro/",
-            "image": "https://cdn.cgmagonline.com/wp-content/uploads/2025/10/gravistar-mercury-v75-pro-cyberpunk-keyboard-review-2025-10-16-912884.jpg",
-            "publishedAt": "2025-10-19T14:00:00Z"
+            "title": "USX Cyber\u00ae and GUARDIENT\u00ae Now Support Monitoring in",
+            "description": "VIENNA, Va., Oct. 20, 2025 (GLOBE NEWSWIRE) -- USX Cyber\u00ae, the company behind the unified cybersecurity and compliance platform Guardient\u00ae, today...",
+            "url": "https://www.globenewswire.com/news-release/2025/10/20/3169487/0/en/USX-Cyber-and-GUARDIENT-Now-Support-Monitoring-in-Microsoft-GCC-High-A-Key-Breakthrough-for-CMMC-Level-2-Readiness.html",
+            "image": "https://ml.globenewswire.com/Resource/Download/877a71e6-4c84-4611-9744-d88fdb111d98",
+            "publishedAt": "2025-10-20T13:48:43Z"
         },
         {
-            "title": "\u2018Quordle\u2019 Hints Today: Monday, October 20 Clues, Answers",
-            "description": "Looking for some help with today\u2019s Quordle words? Some hints and the answers are right here to give you a hand.",
-            "url": "https://www.forbes.com/sites/krisholt/2025/10/19/quordle-hints-today-monday-october-20-clues-answers/",
-            "image": "https://imageio.forbes.com/specials-images/imageserve/67c9fbe14c701fc587cd5b86/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2025-10-19T14:00:00Z"
+            "title": "Epic games server status: Fortnite outage explained, When can you log back in, How to fix the error on PS5, Xbox and PC",
+            "description": "Esports News: Millions worldwide faced disruptions as Fortnite and other major online services went offline due to a widespread Amazon Web Services (AWS) outage. Th",
+            "url": "https://timesofindia.indiatimes.com/sports/esports/fortnite/epic-games-server-status-fortnite-outage-explained-when-can-you-log-back-in-how-to-fix-the-error-on-ps5-xbox-and-pc/articleshow/124706249.cms",
+            "image": "https://static.toiimg.com/thumb/msid-124706237,width-1070,height-580,imgsize-101360,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2025-10-20T13:48:00Z"
         },
         {
-            "title": "I\u2019m only using an AI browser to watch YouTube now, and it\u2019s incredible",
-            "description": "The best use of AI I\u2019ve seen in a browser yet.",
-            "url": "https://www.xda-developers.com/only-using-an-ai-browser-to-watch-youtube/",
-            "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/10/watching-youtube-on-an-ai-browser.jpeg?w=1600&h=900&fit=crop",
-            "publishedAt": "2025-10-19T14:00:00Z"
+            "title": "YSMART Launches MQ5X: The Smallest, Smartest Keychain Flashlight Yet",
+            "description": "/PRNewswire/ -- YSMART, the creators of cutting-edge everyday carry (EDC) gear, has just launched the MQ5X, their most advanced keychain flashlight to date....",
+            "url": "https://www.prnewswire.com/news-releases/ysmart-launches-mq5x-the-smallest-smartest-keychain-flashlight-yet-302589031.html",
+            "image": "https://mma.prnewswire.com/media/2800303/YSMART_keychain.jpg?p=facebook",
+            "publishedAt": "2025-10-20T13:46:00Z"
         },
         {
-            "title": "FiiO's new M21 MP3 player is a sonic treasure for your entry-level listening pleasure",
-            "description": "For sound quality, power, and price, the FiiO M21 is the best entry-level MP3 player you can buy right now.",
-            "url": "https://www.pocket-lint.com/fiio-m21-review/",
-            "image": "https://static0.pocketlintimages.com/wordpress/wp-content/uploads/wm/2025/09/fiio-m21-hero.JPG?w=1600&h=900&fit=crop",
-            "publishedAt": "2025-10-19T14:00:00Z"
+            "title": "Enabled Workforce with Agentic AI: Trusted, Proven, and Ready to Deliver ROI",
+            "description": "Lenovo's official site for press materials and original stories about the vision and passion behind the technology.",
+            "url": "https://news.lenovo.com/pressroom/press-releases/agentic-ai-advance-workforce-trusted-proven-roi-2/",
+            "image": "https://news.lenovo.com/wp-content/uploads/2025/10/SmartCity_G1286805403-scaled.jpg",
+            "publishedAt": "2025-10-20T13:45:03Z"
         }
     ]
 }
