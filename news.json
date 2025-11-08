@@ -1,75 +1,75 @@
 {
-    "date": "2025-11-07",
+    "date": "2025-11-08",
     "articles": [
         {
-            "title": "Drax model from aiOla makes AI speech recognition viable and reliable in noisy environments",
-            "description": "Drax model from aiOla makes AI speech recognition viable and reliable in noisy environments - SiliconANGLE",
-            "url": "https://siliconangle.com/2025/11/06/aiolas-drax-model-eliminates-speed-performance-trade-off-ai-speech-recognition/",
-            "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/11/Screenshot-from-2025-11-03-07-13-10.png",
-            "publishedAt": "2025-11-06T14:00:41Z"
+            "title": "Restart Google Chrome 142 Now, High-Rated Security Issues Confirmed",
+            "description": "More than 3 billion Google Chrome users must restart their browsers immediately \u2014 here\u2019s what you need to know.",
+            "url": "https://www.forbes.com/sites/daveywinder/2025/11/07/restart-google-chrome-142-now-high-rated-security-issues-confirmed/",
+            "image": "https://imageio.forbes.com/specials-images/imageserve/690df1449893fc9736b5cf2c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-11-07T13:45:30Z"
         },
         {
-            "title": "Overcooked 2 drops for Switch 2 today and it makes full use of Camera Play",
-            "description": "The Switch 2 edition of Overcooked 2 drops today. It integrates with Nintendo's Camera Play feature, which should result in all manner of chaos.",
-            "url": "https://www.engadget.com/gaming/nintendo/overcooked-2-drops-for-switch-2-today-and-it-makes-full-use-of-camera-play-140021993.html",
-            "image": "https://s.yimg.com/os/creatr-uploaded-images/2025-11/cb7bee70-b9a3-11f0-9fcd-e87cf6830db6",
-            "publishedAt": "2025-11-06T14:00:21Z"
+            "title": "Chaos releases Vantage 3 with new real",
+            "description": "Vantage 3 adds USD and MaterialX support, AI material tools and environmental effects for AEC and VFX visualization workflows.",
+            "url": "https://www.engineering.com/chaos-releases-vantage-3-with-new-real-time-rendering-tools/",
+            "image": "https://www.engineering.com/wp-content/uploads/2024/12/Chaos_logo.svg-1.png",
+            "publishedAt": "2025-11-07T13:44:41Z"
         },
         {
-            "title": "Developers decode their journeys from app ideas to App Store",
-            "description": "Former Apple Swift Student Challenge winners Brayden Gogis, Adrit Rao, and Sofia Sandoval share their journeys from app ideas to App Store.",
-            "url": "https://www.apple.com/newsroom/2025/11/developers-decode-their-journeys-from-app-ideas-to-app-store/",
-            "image": "https://www.apple.com/newsroom/images/2025/11/developers-decode-their-journeys-from-app-ideas-to-app-store/tile/Apple-Swift-Student-Challenge-winners-lp.jpg.og.jpg?202511061439",
-            "publishedAt": "2025-11-06T14:00:01Z"
+            "title": "Impact of Neural network-quantified musical groove on cyclists\u2019 joint coordination and muscle synergy: a repeated measures study",
+            "description": "While music is known to influence exercise performance through auditory-motor coupling, the biomechanical mechanisms by which musical groove\u2014characterized by rhythmic drive and movement-inducing qualities\u2014modulates cycling coordination remain poorly understood. This study investigates how groove levels systematically alter lower extremity kinematics and neuromuscular control during high-torque cycling. Twenty-four well-trained, right-handed cyclists completed high-torque cycling trials under three counterbalanced conditions: metronome (control), low-groove (LG), and high-groove (HG) music, with groove levels objectively classified by a validated deep learning model (R2\u2009=\u20090.85). Three-dimensional motion capture (200Hz) quantified hip-ankle and pelvis-torso coordination using vector coding techniques, while surface electromyography (EMG) of 12 lower limb muscles was analyzed via non-negative matrix factorization (NMF) to extract muscle synergy patterns. The NMF approach decomposes multi-muscle activation patterns into fundamental synergistic components, providing insight into neuromuscular control strategies. Compared to LG and control conditions, HG music significantly: (1) increased hip-ankle in-phase coordination by 28.7% (HG:29.8% vs. LG:23.2%, p\u2009=\u20090.020), (2) enhanced pelvis-torso synchronization by 27.1% (HG:38.0% vs. LG:29.9%, p\u2009=\u20090.048), and (3) promoted greater muscle synergy complexity (median synergies: HG\u2009=\u20097 vs LG\u2009=\u20096, p =\u20090.039). Notably, the soleus (SOL) muscle\u2014crucial for ankle stabilization\u2014showed significantly higher activation weights in HG condition (0.11\u2009\u00b1\u20090.03 vs 0.04\u2009\u00b1\u20090.02, p =\u20090.030), suggesting improved distal control. The emergence of a unique erector spinae-gastrocnemius lateralis (ES-GL) synergy pattern (present in 54% of HG trials) indicates enhanced trunk-limb coupling under high-groove conditions. High-groove music promotes more coordinated movement patterns during cycling through two key mechanisms: (1) optimized joint coordination, particularly in proximal\u2013distal (hip-ankle) and axial (pelvis-torso) linkages, and (2) reorganization of neuromuscular control strategies evidenced by increased synergy complexity and selective activation of postural stabilizers (SOL). These findings provide biomechanical evidence supporting groove-based auditory-motor interventions, though direct performance benefits require verification through additional kinetic and metabolic measures. The successful application of deep learning for groove quantification establishes a framework for personalized music selection in sports and rehabilitation contexts.",
+            "url": "https://jneuroengrehab.biomedcentral.com/articles/10.1186/s12984-025-01778-7",
+            "image": "https://static-content.springer.com/image/art%3A10.1186%2Fs12984-025-01778-7/MediaObjects/12984_2025_1778_Fig1_HTML.png",
+            "publishedAt": "2025-11-07T13:42:09Z"
         },
         {
-            "title": "ClickFix malware attacks evolve with multi-OS support, video tutorials",
-            "description": "ClickFix attacks have evolved to feature videos that guide victims through the self-infection process, a timer to pressure targets into taking risky actions, and automatic\u00a0 detection of the operating system to provide the correct commands.",
-            "url": "https://www.bleepingcomputer.com/news/security/clickfix-malware-attacks-evolve-with-multi-os-support-video-tutorials/",
-            "image": "https://www.bleepstatic.com/content/hl-images/2025/09/08/hacker.jpg",
-            "publishedAt": "2025-11-06T14:00:00Z"
+            "title": "Animal Crossing: New Horizons reveals full list of Zelda and Splatoon amiibo unlocks for new villagers",
+            "description": "Here's every Zelda and Splatoon amiibo you can use in Animal Crossing: New Horizons to unlock new villagers Tulin, Mineru, Cece, and Viche.",
+            "url": "https://nintendoeverything.com/animal-crossing-new-horizons-reveals-full-list-of-zelda-and-splatoon-amiibo-unlocks-for-new-villagers/",
+            "image": "https://nintendoeverything.com/wp-content/uploads/Animal-Crossing-New-Horizons-Zelda-Splatoon-amiibo-unlocks.jpg",
+            "publishedAt": "2025-11-07T13:40:36Z"
         },
         {
-            "title": "Service! Overcooked 2 - Nintendo Switch 2 Edition Is Ready To Eat Today",
-            "description": "I need hands! - Well here's a dish that we weren't expecting! Team17 and Ghost Town Games have announced that Overcooked 2! - Nintendo Switch 2 Edition is be...",
-            "url": "https://www.nintendolife.com/news/2025/11/service-overcooked-2-nintendo-switch-2-edition-is-ready-to-eat-today",
-            "image": "https://images.nintendolife.com/c3f13f4adbaad/large.jpg",
-            "publishedAt": "2025-11-06T14:00:00Z"
+            "title": "New Google Maps Feature Could Help You Avoid The Sun While Walking",
+            "description": "Google Maps could bring a new feature that helps you choose a route that avoids sunlight while walking to your destination, under the Trip Options menu.",
+            "url": "https://www.bgr.com/2019626/google-maps-feature-avoid-walking-in-sun/",
+            "image": "https://www.bgr.com/img/gallery/new-google-maps-feature-could-help-you-avoid-the-sun-while-walking/l-intro-1762522746.jpg",
+            "publishedAt": "2025-11-07T13:39:43Z"
         },
         {
-            "title": "Overcooked! 2 Nintendo Switch 2 Edition Launches Today!",
-            "description": "Returning to the kitchen once again, Team17 and Ghost Town announce Overcooked! 2 Nintendo Switch 2 Edition, launching today with enhanced graphics, Camera Play, and more.",
-            "url": "https://currently.att.yahoo.com/att/overcooked-2-nintendo-switch-2-140000053.html",
-            "image": "https://s.yimg.com/ny/api/res/1.2/XBY3jizCYHt0BcKMzXIlvA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/cg_magazine_431/aa8dadc784d331892d8ebd44fc096956",
-            "publishedAt": "2025-11-06T14:00:00Z"
+            "title": "IKEA just announced 21 smart home gadgets \u2014 here\u2019s the ones I'm buying",
+            "description": "IKEA just dropped new Matter compatible smart home products \u2014 and there are 21 to choose from.",
+            "url": "https://www.tomsguide.com/home/smart-home/ikea-just-announced-21-smart-home-gadgets-heres-the-ones-im-buying",
+            "image": "https://cdn.mos.cms.futurecdn.net/mREoaZ9fMDEG6rriGCEdS7-2000-80.jpg",
+            "publishedAt": "2025-11-07T13:38:51Z"
         },
         {
-            "title": "PS5 Indie Games from PlayStation's Hero Projects Are Getting Seriously Impressive",
-            "description": "Suri: The Seventh Note shines in gameplay trailer - It feels like the PS5 indie games Sony is nurturing through its China Hero Project and India Hero Project...",
-            "url": "https://www.pushsquare.com/news/2025/11/ps5-indie-games-from-playstations-hero-projects-are-getting-seriously-impressive",
-            "image": "https://images.pushsquare.com/8a17907175d8f/large.jpg",
-            "publishedAt": "2025-11-06T14:00:00Z"
+            "title": "The controversial role of senescence-associated secretory phenotype (SASP) in cancer therapy",
+            "description": "Cellular senescence, characterized by partially irreversible cell cycle arrest, has a dual role in cancer progression via the senescence-associated secretory phenotype (SASP). SASP encompasses a wide range of bioactive chemicals, including cytokines, chemokines, growth factors, and proteases, all of which can have a significant impact on the tumor microenvironment (TME). Initially, SASP can enhance tumor suppression by attracting immune cells and inhibiting cancer cell proliferation, but its long-term presence at TME can promote tumor growth, metastasis, and treatment resistance. Moreover, therapy-induced senescence, a common side effect of cancer treatments, can result in an increase of senescent cells and pro-tumorigenic SASP. Therefore, recent research has highlighted the potential of targeting SASP to improve cancer therapy. Among the therapeutic strategies, senolytic therapies selectively eliminate senescent cells, whereas senomorphic drugs decrease SASP without cytotoxicity, and there is also combined therapy targeting SASP for oncotherapy. Therefore, it is of crucial importance to develop more specific senotherapeutics and investigate the clinical applications of SASP modulation, such as using SASP components as biomarkers for therapy monitoring and personalized medicine. Taken together, understanding the molecular processes of SASP induction and their function in TME, including its heterogeneity across cell types and tissues, and designing personalized treatment are critical for optimizing cancer therapy and improving patient outcomes.",
+            "url": "https://molecular-cancer.biomedcentral.com/articles/10.1186/s12943-025-02475-8",
+            "image": "https://static-content.springer.com/image/art%3A10.1186%2Fs12943-025-02475-8/MediaObjects/12943_2025_2475_Fig1_HTML.png",
+            "publishedAt": "2025-11-07T13:38:48Z"
         },
         {
-            "title": "Quali's Torque Platform Scales NVIDIA DGX Spark for Secure, Orchestrated AI at the Edge",
-            "description": "/PRNewswire/ -- Quali, the leader in Environment-as-a-Service automation, announces the integration of its Torque platform with NVIDIA DGX Spark\u2122, enabling...",
-            "url": "https://www.prnewswire.com/news-releases/qualis-torque-platform-scales-nvidia-dgx-spark-for-secure-orchestrated-ai-at-the-edge-302607248.html",
-            "image": "https://www.prnewswire.com/content/dam/prnewswire/icons/2019-Q4-PRN-Icon-32-32.png",
-            "publishedAt": "2025-11-06T14:00:00Z"
+            "title": "M5 iPad Pro vs Tab S11 Ultra \u2014 A Surprising Winner",
+            "description": "M5 iPad Pro vs. Galaxy Tab S11 Ultra: Compare performance, features, and value to find the best tablet for your needs.",
+            "url": "https://www.geeky-gadgets.com/m5-ipad-pro-vs-tab-s11-ultra-a-surprising-winner/",
+            "image": "https://www.geeky-gadgets.com/wp-content/uploads/2025/11/m5-ipad-pro-vs-galaxy-tab-s11-ultra-comparison_optimized.jpg",
+            "publishedAt": "2025-11-07T13:35:29Z"
         },
         {
-            "title": "I\u2019m The Verge\u2019s new AV expert, ask me anything!",
-            "description": "Let\u2019s talk about TVs, headphones, speakers, and all things AV.",
-            "url": "https://www.theverge.com/tech/814389/im-the-verges-new-av-expert-ama",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Higgins-AMA-headshot.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2025-11-06T14:00:00Z"
+            "title": "A New Age for Health and Wellness in Fit Tech",
+            "description": "This technology is providing health and wellness with insights, motivation, guidance and data every step of the way.",
+            "url": "https://innotechtoday.com/a-new-age-for-health-and-wellness-in-fit-tech/",
+            "image": "https://innotechtoday.com/wp-content/uploads/2025/11/pexels-rdne-8098264-scaled-e1762476392212.jpeg",
+            "publishedAt": "2025-11-07T13:34:53Z"
         },
         {
-            "title": "Microsoft superintelligence team promises to keep humans in charge",
-            "description": "Microsoft AI\u2019s \u201chumanist\u201d approach to superintelligence will be led by Mustafa Suleyman.",
-            "url": "https://www.semafor.com/article/11/05/2025/microsoft-superintelligence-team-promises-to-keep-humans-in-charge",
-            "image": "https://img.semafor.com/a501add5221deed27169f31066626a3cc24051ef-1280x854.png?rect=0,91,1280,672&w=1200&h=630&q=75&auto=format",
-            "publishedAt": "2025-11-06T14:00:00Z"
+            "title": "Intersignal Launches The Braid, a Protocol for Multi-AI Communication Across Local and Cloud Systems",
+            "description": "/PRNewswire/ -- Intersignal, an independent AI startup based in Fort Lauderdale, today announced the public debut of The Braid, a protocol designed to enable...",
+            "url": "https://www.prnewswire.com/news-releases/intersignal-launches-the-braid-a-protocol-for-multi-ai-communication-across-local-and-cloud-systems-302608165.html",
+            "image": "https://mma.prnewswire.com/media/2816212/Intersignal_Nov_6.jpg?p=facebook",
+            "publishedAt": "2025-11-07T13:31:00Z"
         }
     ]
 }
