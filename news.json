@@ -1,75 +1,75 @@
 {
-    "date": "2025-11-08",
+    "date": "2025-11-09",
     "articles": [
         {
-            "title": "Restart Google Chrome 142 Now, High-Rated Security Issues Confirmed",
-            "description": "More than 3 billion Google Chrome users must restart their browsers immediately \u2014 here\u2019s what you need to know.",
-            "url": "https://www.forbes.com/sites/daveywinder/2025/11/07/restart-google-chrome-142-now-high-rated-security-issues-confirmed/",
-            "image": "https://imageio.forbes.com/specials-images/imageserve/690df1449893fc9736b5cf2c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2025-11-07T13:45:30Z"
+            "title": "Leaf Blower Co.'s Got a Release Date; Check Out the Trailer!",
+            "description": "Developed by LifT Games and published by Forklift Interactive, Leaf Blower Co. is an upcoming simulator title.",
+            "url": "https://www.gamegrin.com/news/leaf-blower-co-s-got-a-release-date-check-out-the-trailer/",
+            "image": "https://www.gamegrin.com/assets/game/leaf-blower-co-/_resampled/croppedimage1201631-leaf-blower-co--background.jpg",
+            "publishedAt": "2025-11-08T14:01:26Z"
         },
         {
-            "title": "Chaos releases Vantage 3 with new real",
-            "description": "Vantage 3 adds USD and MaterialX support, AI material tools and environmental effects for AEC and VFX visualization workflows.",
-            "url": "https://www.engineering.com/chaos-releases-vantage-3-with-new-real-time-rendering-tools/",
-            "image": "https://www.engineering.com/wp-content/uploads/2024/12/Chaos_logo.svg-1.png",
-            "publishedAt": "2025-11-07T13:44:41Z"
+            "title": "Identification and validation of stemness-related gene signatures to predict prognosis and immune infiltration in osteosarcoma reveals a critical role for S100A13",
+            "description": "The stemness of tumor cells is closely associated with immune infiltration and may influence both the prognosis of osteosarcoma and alterations in the tumor microenvironment. Through single-cell RNA sequencing (scRNA-seq), we identified tumor cells exhibiting high stemness and developed a prognostic model leveraging their differentially expressed genes (DEGs). The differences between the high-risk and low-risk score groups were analyzed in terms of mutation landscapes, enriched pathways, immune cell infiltration, and immunotherapy response. Subsequently, a cross-enrichment analysis was conducted on prognostic genes, genes highly expressed in high-risk group, and DEGs of the high-stemness cluster to identify commonly upregulated gene. Functional validation of the gene was carried out in osteosarcoma cell lines MG-63 and HOS. A cluster of cancer cells with high-stemness characteristics was identified in osteosarcoma. The stemness risk score, based on genes highly expressed in the high-stemness cluster, was found to be an independent prognostic factor for osteosarcoma, capable of effectively predicting patient outcomes, and was closely related to immune infiltration. By taking the intersection of prognostic genes, genes highly expressed in the high-risk group, and DEGs from the high-stemness cluster, the gene S100A13 was identified as a key gene of stemness. Functional validation through knockdown experiments demonstrated that S100A13 is a critical factor for osteosarcoma cell proliferation and stemness, as confirmed by colony formation and tumor sphere formation assays. Interestingly, wound healing, Transwell migration and invasion assays also showed that S100A13 is associated with the malignancy of osteosarcoma cells. Our study demonstrates the presence of a cluster of cells with high-stemness characteristics in the tumor microenvironment of osteosarcoma. An effective prognostic model was established based on DEGs of the high-stemness cell cluster, and S100A13 was identified as a core gene through cross-enrichment analysis. Experimental validation confirmed that S100A13 plays a critical role in the malignant progression and stemness regulation of osteosarcoma. Therefore, S100A13 is not only a key gene in the stemness risk score but also a promising biomarker for prognosis and a potential therapeutic target for osteosarcoma, and it may facilitate the development of novel diagnostic and the therapeutic strategies to improve patient outcomes in osteosarcoma.",
+            "url": "https://bmccancer.biomedcentral.com/articles/10.1186/s12885-025-14939-7",
+            "image": "https://static-content.springer.com/image/art%3A10.1186%2Fs12885-025-14939-7/MediaObjects/12885_2025_14939_Fig1_HTML.png",
+            "publishedAt": "2025-11-08T14:01:04Z"
         },
         {
-            "title": "Impact of Neural network-quantified musical groove on cyclists\u2019 joint coordination and muscle synergy: a repeated measures study",
-            "description": "While music is known to influence exercise performance through auditory-motor coupling, the biomechanical mechanisms by which musical groove\u2014characterized by rhythmic drive and movement-inducing qualities\u2014modulates cycling coordination remain poorly understood. This study investigates how groove levels systematically alter lower extremity kinematics and neuromuscular control during high-torque cycling. Twenty-four well-trained, right-handed cyclists completed high-torque cycling trials under three counterbalanced conditions: metronome (control), low-groove (LG), and high-groove (HG) music, with groove levels objectively classified by a validated deep learning model (R2\u2009=\u20090.85). Three-dimensional motion capture (200Hz) quantified hip-ankle and pelvis-torso coordination using vector coding techniques, while surface electromyography (EMG) of 12 lower limb muscles was analyzed via non-negative matrix factorization (NMF) to extract muscle synergy patterns. The NMF approach decomposes multi-muscle activation patterns into fundamental synergistic components, providing insight into neuromuscular control strategies. Compared to LG and control conditions, HG music significantly: (1) increased hip-ankle in-phase coordination by 28.7% (HG:29.8% vs. LG:23.2%, p\u2009=\u20090.020), (2) enhanced pelvis-torso synchronization by 27.1% (HG:38.0% vs. LG:29.9%, p\u2009=\u20090.048), and (3) promoted greater muscle synergy complexity (median synergies: HG\u2009=\u20097 vs LG\u2009=\u20096, p =\u20090.039). Notably, the soleus (SOL) muscle\u2014crucial for ankle stabilization\u2014showed significantly higher activation weights in HG condition (0.11\u2009\u00b1\u20090.03 vs 0.04\u2009\u00b1\u20090.02, p =\u20090.030), suggesting improved distal control. The emergence of a unique erector spinae-gastrocnemius lateralis (ES-GL) synergy pattern (present in 54% of HG trials) indicates enhanced trunk-limb coupling under high-groove conditions. High-groove music promotes more coordinated movement patterns during cycling through two key mechanisms: (1) optimized joint coordination, particularly in proximal\u2013distal (hip-ankle) and axial (pelvis-torso) linkages, and (2) reorganization of neuromuscular control strategies evidenced by increased synergy complexity and selective activation of postural stabilizers (SOL). These findings provide biomechanical evidence supporting groove-based auditory-motor interventions, though direct performance benefits require verification through additional kinetic and metabolic measures. The successful application of deep learning for groove quantification establishes a framework for personalized music selection in sports and rehabilitation contexts.",
-            "url": "https://jneuroengrehab.biomedcentral.com/articles/10.1186/s12984-025-01778-7",
-            "image": "https://static-content.springer.com/image/art%3A10.1186%2Fs12984-025-01778-7/MediaObjects/12984_2025_1778_Fig1_HTML.png",
-            "publishedAt": "2025-11-07T13:42:09Z"
+            "title": "Acer APS322 portable power station review",
+            "description": "Acer\u2019s portable power is hefty option",
+            "url": "https://www.techradar.com/pro/acer-aps322-portable-power-station-review",
+            "image": "https://cdn.mos.cms.futurecdn.net/9ip4FHHDqKFW2ezTW2XJXo-1920-80.jpg",
+            "publishedAt": "2025-11-08T14:01:00Z"
         },
         {
-            "title": "Animal Crossing: New Horizons reveals full list of Zelda and Splatoon amiibo unlocks for new villagers",
-            "description": "Here's every Zelda and Splatoon amiibo you can use in Animal Crossing: New Horizons to unlock new villagers Tulin, Mineru, Cece, and Viche.",
-            "url": "https://nintendoeverything.com/animal-crossing-new-horizons-reveals-full-list-of-zelda-and-splatoon-amiibo-unlocks-for-new-villagers/",
-            "image": "https://nintendoeverything.com/wp-content/uploads/Animal-Crossing-New-Horizons-Zelda-Splatoon-amiibo-unlocks.jpg",
-            "publishedAt": "2025-11-07T13:40:36Z"
+            "title": "Get 50 percent off Headspace annual subscriptions in this Black Friday deal",
+            "description": "Get one year of access for only $35 thanks to this Black Friday deal.",
+            "url": "https://www.engadget.com/deals/get-50-percent-off-headspace-annual-subscriptions-in-this-black-friday-deal-163051169.html",
+            "image": "https://s.yimg.com/ny/api/res/1.2/nMLj7QpnCRn42nuQBhWv9A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2021-11/d4f45440-46e5-11ec-bfbf-ee0b432e89b8",
+            "publishedAt": "2025-11-08T14:00:38Z"
         },
         {
-            "title": "New Google Maps Feature Could Help You Avoid The Sun While Walking",
-            "description": "Google Maps could bring a new feature that helps you choose a route that avoids sunlight while walking to your destination, under the Trip Options menu.",
-            "url": "https://www.bgr.com/2019626/google-maps-feature-avoid-walking-in-sun/",
-            "image": "https://www.bgr.com/img/gallery/new-google-maps-feature-could-help-you-avoid-the-sun-while-walking/l-intro-1762522746.jpg",
-            "publishedAt": "2025-11-07T13:39:43Z"
+            "title": "SF tech founders go to finishing school - and Garry Tan does not approve",
+            "description": "The founders learned how to shake hands and bump caviar at Slow Ventures\u2019 \u201cEtiquette Finishing School.\u201d",
+            "url": "https://sfstandard.com/2025/11/08/sf-tech-founders-go-finishing-school-garry-tan-does-approve/",
+            "image": "https://assets.sfstandard.com/image/994911177489/image_2m7afv38ih6n1fup0q018bhs3u/-C100.00%25x78.71%25%2C0.00%25%2C1.61%25-FWEBP",
+            "publishedAt": "2025-11-08T14:00:00Z"
         },
         {
-            "title": "IKEA just announced 21 smart home gadgets \u2014 here\u2019s the ones I'm buying",
-            "description": "IKEA just dropped new Matter compatible smart home products \u2014 and there are 21 to choose from.",
-            "url": "https://www.tomsguide.com/home/smart-home/ikea-just-announced-21-smart-home-gadgets-heres-the-ones-im-buying",
-            "image": "https://cdn.mos.cms.futurecdn.net/mREoaZ9fMDEG6rriGCEdS7-2000-80.jpg",
-            "publishedAt": "2025-11-07T13:38:51Z"
+            "title": "Public outrage amid Palworld lawsuit likely influenced new scrutiny of Nintendo's Pokemon patent, IP expert speculates, but it's debatable if giving that power to \"people on the internet\" who \"scream",
+            "description": "\"Plenty of gamers are happy to take out their pitchforks and argue against things,\" but is that always beneficial?",
+            "url": "https://www.gamesradar.com/games/pokemon/public-outrage-amid-palworld-lawsuit-likely-influenced-new-scrutiny-of-nintendos-pokemon-patent-ip-expert-speculates-but-its-debatable-if-giving-that-power-to-people-on-the-internet-who-scream-loudly-is-good/",
+            "image": "https://cdn.mos.cms.futurecdn.net/2sRNSS77TV4n3xfPT6ozdc-1920-80.jpg",
+            "publishedAt": "2025-11-08T14:00:00Z"
         },
         {
-            "title": "The controversial role of senescence-associated secretory phenotype (SASP) in cancer therapy",
-            "description": "Cellular senescence, characterized by partially irreversible cell cycle arrest, has a dual role in cancer progression via the senescence-associated secretory phenotype (SASP). SASP encompasses a wide range of bioactive chemicals, including cytokines, chemokines, growth factors, and proteases, all of which can have a significant impact on the tumor microenvironment (TME). Initially, SASP can enhance tumor suppression by attracting immune cells and inhibiting cancer cell proliferation, but its long-term presence at TME can promote tumor growth, metastasis, and treatment resistance. Moreover, therapy-induced senescence, a common side effect of cancer treatments, can result in an increase of senescent cells and pro-tumorigenic SASP. Therefore, recent research has highlighted the potential of targeting SASP to improve cancer therapy. Among the therapeutic strategies, senolytic therapies selectively eliminate senescent cells, whereas senomorphic drugs decrease SASP without cytotoxicity, and there is also combined therapy targeting SASP for oncotherapy. Therefore, it is of crucial importance to develop more specific senotherapeutics and investigate the clinical applications of SASP modulation, such as using SASP components as biomarkers for therapy monitoring and personalized medicine. Taken together, understanding the molecular processes of SASP induction and their function in TME, including its heterogeneity across cell types and tissues, and designing personalized treatment are critical for optimizing cancer therapy and improving patient outcomes.",
-            "url": "https://molecular-cancer.biomedcentral.com/articles/10.1186/s12943-025-02475-8",
-            "image": "https://static-content.springer.com/image/art%3A10.1186%2Fs12943-025-02475-8/MediaObjects/12943_2025_2475_Fig1_HTML.png",
-            "publishedAt": "2025-11-07T13:38:48Z"
+            "title": "This Windows folder on my computer hoarded 80 GB of junk - you might want to check yours",
+            "description": "Hidden clutter you probably forgot is wasting space.",
+            "url": "https://www.makeuseof.com/this-windows-folder-hoarded-80-gb-of-junk/",
+            "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/11/close-up-photo-of-a-monitor-showing-the-downloads-folder-open-on-windows-11-1.jpg?w=1600&h=900&fit=crop",
+            "publishedAt": "2025-11-08T14:00:00Z"
         },
         {
-            "title": "M5 iPad Pro vs Tab S11 Ultra \u2014 A Surprising Winner",
-            "description": "M5 iPad Pro vs. Galaxy Tab S11 Ultra: Compare performance, features, and value to find the best tablet for your needs.",
-            "url": "https://www.geeky-gadgets.com/m5-ipad-pro-vs-tab-s11-ultra-a-surprising-winner/",
-            "image": "https://www.geeky-gadgets.com/wp-content/uploads/2025/11/m5-ipad-pro-vs-galaxy-tab-s11-ultra-comparison_optimized.jpg",
-            "publishedAt": "2025-11-07T13:35:29Z"
+            "title": "Top Stories: iOS 26.1 Released, iOS 26.2 Beta, iPhone 18 Rumors, and More",
+            "description": "Things were busy in Apple software land this week, with the public release of iOS 26.1 and updates for Apple's other platforms being quickly...",
+            "url": "https://www.macrumors.com/2025/11/08/top-stories-ios-26-1-released/",
+            "image": "https://images.macrumors.com/t/tPczU0Ras5SPXEb5fTotZtiyBOE=/1600x/article-new/2025/11/top-stories-2025-11-08.jpg",
+            "publishedAt": "2025-11-08T14:00:00Z"
         },
         {
-            "title": "A New Age for Health and Wellness in Fit Tech",
-            "description": "This technology is providing health and wellness with insights, motivation, guidance and data every step of the way.",
-            "url": "https://innotechtoday.com/a-new-age-for-health-and-wellness-in-fit-tech/",
-            "image": "https://innotechtoday.com/wp-content/uploads/2025/11/pexels-rdne-8098264-scaled-e1762476392212.jpeg",
-            "publishedAt": "2025-11-07T13:34:53Z"
+            "title": "The harsh reality of signing up for subscriptions on your iPhone",
+            "description": "It doesn't always pay to set up your stuff easily.",
+            "url": "https://www.pocket-lint.com/iphone-subscriptions-apple-music/",
+            "image": "https://static0.pocketlintimages.com/wordpress/wp-content/uploads/wm/2025/11/img_20251103_142556360_hdr.jpg?w=1600&h=900&fit=crop",
+            "publishedAt": "2025-11-08T14:00:00Z"
         },
         {
-            "title": "Intersignal Launches The Braid, a Protocol for Multi-AI Communication Across Local and Cloud Systems",
-            "description": "/PRNewswire/ -- Intersignal, an independent AI startup based in Fort Lauderdale, today announced the public debut of The Braid, a protocol designed to enable...",
-            "url": "https://www.prnewswire.com/news-releases/intersignal-launches-the-braid-a-protocol-for-multi-ai-communication-across-local-and-cloud-systems-302608165.html",
-            "image": "https://mma.prnewswire.com/media/2816212/Intersignal_Nov_6.jpg?p=facebook",
-            "publishedAt": "2025-11-07T13:31:00Z"
+            "title": "Change These 5 Settings on Your Sony TV Now",
+            "description": "Sony TVs can deliver a really great picture, but only if you change some important settings",
+            "url": "https://www.cnet.com/tech/home-entertainment/change-these-5-settings-on-your-sony-tv-now/",
+            "image": "https://www.cnet.com/a/img/resize/b10e43fd30db9de19116b79425a81ece1016d1c6/hub/2025/11/07/c82f9bfe-826d-4778-a897-175ef564ff2f/pxl-20251031-190557122.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-11-08T14:00:00Z"
         }
     ]
 }
