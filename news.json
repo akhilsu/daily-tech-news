@@ -1,75 +1,75 @@
 {
-    "date": "2025-11-16",
+    "date": "2025-11-17",
     "articles": [
         {
-            "title": "Hackster's Gift Guide 2025: The Best New SBCs, Dev Boards, AI Hardware, and More",
-            "description": "You supply the gift wrap, we supply our picks of the best new hardware to launch this year \u2014 and there's something for everyone.",
-            "url": "https://www.hackster.io/news/hackster-s-gift-guide-2025-the-best-new-sbcs-dev-boards-ai-hardware-and-more-bafba8c685d6",
-            "image": "https://hackster.imgix.net/uploads/attachments/1901554/_TFyKfsF8YA.blob?auto=compress%2Cformat&w=600&h=450&fit=min",
-            "publishedAt": "2025-11-15T14:05:20Z"
+            "title": "IVCA: Optimism high as VC funding into Irish SMEs recovers in Q3",
+            "description": "The IVCA said the regrowth of international investment shows that investor confidence is recovering after US tariff shocks earlier this year.",
+            "url": "https://www.siliconrepublic.com/start-ups/ivca-reports-funding-vc-ireland-2025-q3",
+            "image": "https://www.siliconrepublic.com/wp-content/uploads/2025/11/Sarah-Jane_Larkin_Caroline_Gaynor_IVCA.jpg",
+            "publishedAt": "2025-11-16T14:01:20Z"
         },
         {
-            "title": "Amazon Black Friday deals: Pick up the Fire TV Stick 4K Max for only $35",
-            "description": "It supports Dolby Vision, Dolby Atmos, 4K HDR10+ and Wi-Fi 6E.",
-            "url": "https://www.engadget.com/deals/amazon-black-friday-deals-pick-up-the-fire-tv-stick-4k-max-for-only-35-132100145.html",
-            "image": "https://s.yimg.com/ny/api/res/1.2/a_dToWffK7JTmUjNmAF9rw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/ab509ab0-c092-11f0-bf77-ff9d7f7af769",
-            "publishedAt": "2025-11-15T14:01:25Z"
+            "title": "I connected my local LLM to my home automations, and it's smarter than Alexa",
+            "description": "I binned cloud-based assistants for one of my own.",
+            "url": "https://www.xda-developers.com/my-local-llm-home-automations-smarter-than-alexa/",
+            "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/05/home-assistant-voice-pe-box-open.jpg?w=1600&h=900&fit=crop",
+            "publishedAt": "2025-11-16T14:01:00Z"
         },
         {
-            "title": "Visual Studio 2026 First Look: Evolution, Not Revolution",
-            "description": "There is probably no reason not to try this out if you are using Visual Studio 2022 \u2014 but expect evolution, not revolution.",
-            "url": "https://thenewstack.io/visual-studio-2026-first-look-evolution-not-revolution/",
-            "image": "https://cdn.thenewstack.io/media/2025/11/f07cdb96-johannes-plenio-awdgqexsxa0-unsplash.jpg",
-            "publishedAt": "2025-11-15T14:01:24Z"
+            "title": "ADATA brings 128GB DDR5 modules to mainstream desktops with new 4-Rank CUDIMMs",
+            "description": "Adata has introduced a 128GB DDR5 CUDIMM module, effectively doubling the maximum capacity per stick for the mainstream desktop platform. This breakthrough brings 4-rank memory, previously available only in server space, into consumer-grade hardware. Until now, the consumer DDR5 market has been limited to single- and dual-rank modules, with a maximum capacity of 64GB per",
+            "url": "https://www.kitguru.net/components/memory/joao-silva/adata-brings-128gb-ddr5-modules-to-mainstream-desktops-with-new-4-rank-cudimms/",
+            "image": "https://www.kitguru.net/wp-content/uploads/2025/11/mb-20251114-1-732x330.jpg",
+            "publishedAt": "2025-11-16T14:00:19Z"
         },
         {
-            "title": "Save on Samsung SanDisk SSDs With These Early Black Friday Deals",
-            "description": "Early Black Friday November 2025 SSD deals are here to save your data and some money. Take up to 24% of the SanDisk Extreme Portable SSD and the Samsung SSD 870 EVO, with more amazing deals on the way.",
-            "url": "https://www.pcmag.com/news/best-ssd-deals-early-black-friday-2025-samsung-sandisk-more-nov-15",
-            "image": "https://i.pcmag.com/imagery/articles/01Jt78LZ83Oi3LshDIT57ob-1.fit_lim.size_1200x630.v1763141562.png",
-            "publishedAt": "2025-11-15T14:00:28Z"
+            "title": "Amazing Early Black Friday Tablet Deals: Over 50% Off on Slates From Amazon, Apple, Samsung, and More",
+            "description": "These are the best Early Black Friday November 2025 tablet deals, and you can save 36% on a Samsung Galaxy Tab S6 Lite, 30% on a Google Pixel Tablet, and decent Apple iPad discounts, too.",
+            "url": "https://www.pcmag.com/news/best-tablet-deals-early-black-friday-2025-ipad-fire-pixel-tab-nov-16",
+            "image": "https://i.pcmag.com/imagery/articles/04wA4oZ1J66JAcnIiseuJeW-1.fit_lim.size_1200x630.v1763141932.png",
+            "publishedAt": "2025-11-16T14:00:07Z"
         },
         {
-            "title": "Soundpeats Clip1 Review: These Affordable Open Wireless Earbuds Have Bose Beat",
-            "description": "The Clip1 beat my favorite open-style wireless earbuds in the sound department and cost less than half the price.",
-            "url": "https://gizmodo.com/soundpeats-clip1-review-affordable-open-wireless-earbuds-beat-bose-ultra-open-2000684284",
-            "image": "https://gizmodo.com/app/uploads/2025/11/soundpeats-clip1-review-3-1200x675.jpg",
-            "publishedAt": "2025-11-15T14:00:03Z"
+            "title": "5 ways to manage hypertension or high blood pressure, according to science",
+            "description": "A notification from your Apple Watch is just the start",
+            "url": "https://www.techradar.com/health-fitness/5-ways-to-manage-hypertension-or-high-blood-pressure-according-to-science",
+            "image": "https://cdn.mos.cms.futurecdn.net/UZgruHJGj9cBTEAbUzkoE4-2000-80.jpg",
+            "publishedAt": "2025-11-16T14:00:00Z"
         },
         {
-            "title": "Top Stories: Apple Silicon Turns 5, iPhone Pocket, and More",
-            "description": "It's hard to believe we're halfway through November already, as 2025 rapidly draws to a close with no firm signs of several smaller hardware updates we've been hoping to see before the end of the year, although we did get one surprising new iPhone accessory this week.",
-            "url": "https://www.macrumors.com/2025/11/15/top-stories-apple-silicon-turns-5/",
-            "image": "https://images.macrumors.com/t/O9JXCm3Psuq84one8LuTmLsxNoo=/1600x/article-new/2025/11/top-stories-2025-11-15.jpg",
-            "publishedAt": "2025-11-15T14:00:00Z"
+            "title": "Indie single-player MMORPG that's not actually an MMO is still \"on track\" to hit its 1.0 launch target, but that might still be 2 years away",
+            "description": "Erenshor 1.0 is coming... not soon, but it's coming",
+            "url": "https://www.gamesradar.com/games/mmo/indie-single-player-mmorpg-thats-not-actually-an-mmo-is-still-on-track-to-hit-its-1-0-launch-target-but-that-might-still-be-2-years-away/",
+            "image": "https://cdn.mos.cms.futurecdn.net/3AbvcmqLt9neS4VzboyQug-1920-80.jpg",
+            "publishedAt": "2025-11-16T13:49:09Z"
         },
         {
-            "title": "4 ways I add more USB ports to a Mac or Windows PC",
-            "description": "There are more possibilities than you might think.",
-            "url": "https://www.pocket-lint.com/add-more-usb-ports-to-mac-or-windows-pc/",
-            "image": "https://static0.pocketlintimages.com/wordpress/wp-content/uploads/wm/2025/09/usb-ports-pc.jpg?w=1600&h=900&fit=crop",
-            "publishedAt": "2025-11-15T14:00:00Z"
+            "title": "Apple has no plans to release a new Mac Pro anytime soon, report says",
+            "description": "In the latest edition of his Power On newsletter, Bloomberg\u2019s\u00a0Mark Gurman reports that Apple has \u201clargely written off the Mac...",
+            "url": "https://9to5mac.com/2025/11/16/apple-has-no-plans-for-a-new-mac-pro-anytime-soon-report-says/",
+            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2019/12/2019-Mac-Pro-RAM-Upgrade-Tutorial.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2025-11-16T13:49:00Z"
         },
         {
-            "title": "Hurry to Nab the Baseus Bowie MH1 Headphones for Over Half Off With This Early Black Friday Deal",
-            "description": "This deal drops the price of this premium pair to just $47, but this discount ends soon.",
-            "url": "https://www.cnet.com/deals/hurry-to-nab-the-baseus-bowie-mh1-headphones-for-over-half-off-with-this-early-black-friday-deal/",
-            "image": "https://www.cnet.com/a/img/resize/dda89bcd87cb017a8448a62da7dafd3df8a794eb/hub/2025/11/15/de97c8ca-35b4-41fe-8017-43077808d8cc/baseus-headphones.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-11-15T14:00:00Z"
+            "title": "Amazon slashes the price of this Kindle Colorsoft bundle in an early Black Friday deal",
+            "description": "With a plant-based cover and power adaptor included",
+            "url": "https://www.techradar.com/tablets/ereaders/amazon-slashes-the-price-of-this-kindle-colorsoft-bundle-in-an-early-black-friday-deal",
+            "image": "https://cdn.mos.cms.futurecdn.net/iHBm4Kob5mbp3pgCjNLtVD-2000-80.jpg",
+            "publishedAt": "2025-11-16T13:48:31Z"
         },
         {
-            "title": "Framework\u2019s franken-laptop is back with big chip upgrades and familiar frustrations",
-            "description": "The Framework Laptop 16 finally gets its big GPU upgrade for 2025, with Nvidia RTX 5070 graphics you can install yourself. It\u2019s quite the achievement, but other issues persist.",
-            "url": "https://www.theverge.com/tech/821420/framework-laptop-16-2025-nvidia-rtx5070-review",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258105_Framework_Laptop_16_2025_ADiBenedetto_0034.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2025-11-15T14:00:00Z"
+            "title": "7 reasons you might want to jailbreak your Kindle",
+            "description": "Jailbreaking gave my old Kindle new life with faster menus, local games, and the freedom to customize everything.",
+            "url": "https://www.androidauthority.com/kindle-jailbreak-reasons-3614190/",
+            "image": "https://www.androidauthority.com/wp-content/uploads/2025/11/KUAL-launched-on-jailbroken-Kindle-scaled.jpg",
+            "publishedAt": "2025-11-16T13:48:05Z"
         },
         {
-            "title": "Microsoft Unveils Powerful New Safety Tools for Safer Gaming Communities",
-            "description": "Microsoft launches powerful new Safety Tools to help game developers fight cheating, toxicity, and abuse with better controls, reporting, and AI moderation",
-            "url": "https://techgenyz.com/microsoft-safety-tools-for-safer-gaming-communities/",
-            "image": "https://techgenyz.com/wp-content/uploads/2025/11/xbox-logo.webp",
-            "publishedAt": "2025-11-15T13:59:29Z"
+            "title": "Save on Early Black Friday Speaker and Soundbar Deals: Up to 50% Off Beats, Bose JBL, Samsung, and More Top Brands",
+            "description": "Black Friday shopping season is already in full blast, and it\u2019s not even mid-November. Highly rated speakers and soundbars are on deep discount, and prices continue to drop.",
+            "url": "https://www.pcmag.com/news/save-on-early-black-friday-speaker-and-soundbar-deals-up-to-50-off-beats",
+            "image": "https://i.pcmag.com/imagery/articles/06Jz43bEfrgEf0oL6XhtTUU-1.fit_lim.size_1200x630.v1763142003.png",
+            "publishedAt": "2025-11-16T13:45:07Z"
         }
     ]
 }
