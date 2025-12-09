@@ -1,75 +1,75 @@
 {
-    "date": "2025-12-08",
+    "date": "2025-12-09",
     "articles": [
         {
-            "title": "Ignore Prior Instructions: AI Still Befuddled by Basic Reasoning",
-            "description": "Microsoft Azure CTO Mark Russinovich warns users to know the limits of what LLMs can do, and what they never do. An ACM talk.",
-            "url": "https://thenewstack.io/ignore-prior-instructions-ai-still-befuddled-by-basic-reasoning/",
-            "image": "https://cdn.thenewstack.io/media/2025/12/72755fd5-gemini_generated_image_z2cw43z2cw43z2cw.png",
-            "publishedAt": "2025-12-07T14:05:23Z"
+            "title": "Take a guess: This was the best-selling Android phone globally last quarter",
+            "description": "Counterpoint Research has revealed the best-selling smartphones globally in Q3 2025, and it's a two-horse race over here.",
+            "url": "https://www.androidauthority.com/best-selling-android-phone-global-q3-2025-3623080/",
+            "image": "https://www.androidauthority.com/wp-content/uploads/2025/02/Samsung-Galaxy-A16-5G-shiny-under-lights.jpg",
+            "publishedAt": "2025-12-08T14:06:00Z"
         },
         {
-            "title": "Netflix Restricts Casting to Ad",
-            "description": "Netflix dropped casting support for most devices. If you want to cast Netflix, you\u2019ll need an older Chromecast and an ad-free plan.",
-            "url": "https://www.cloudwards.net/news/netflix-restricts-casting/",
-            "image": "https://www.cloudwards.net/wp-content/uploads/2025/12/NetflixCasting.jpg",
-            "publishedAt": "2025-12-07T14:04:14Z"
+            "title": "Apple Fitness+ Expands To 28 New Markets",
+            "description": "Apple today announced Apple Fitness+, the award-winning fitness and wellness service, is expanding to 28 new markets - including Chile, Hong Kong",
+            "url": "https://www.miragenews.com/apple-fitness-expands-to-28-new-markets-1585276/",
+            "image": "https://www.apple.com/newsroom/images/2025/12/apple-fitness-plus-expands-to-28-new-markets/tile/Apple-Fitness-Plus-expansion-hero-lp.jpg.og.jpg?202512081400",
+            "publishedAt": "2025-12-08T14:06:00Z"
         },
         {
-            "title": "Snapdragon 8 Gen 5 Spurred Move to Non-Elite Phones",
-            "description": "The most interesting smartphone story this year doesn\u2019t have much to do with what phone you\u2019re using. It\u2019s the smarter choice: phones equipped with",
-            "url": "https://www.findarticles.com/snapdragon-8-gen-5-spurred-move-to-non-elite-phones/",
-            "image": "https://www.findarticles.com/wp-content/uploads/2025/12/snapdragon_8_gen_5_edited_1765116112-1024x585.png",
-            "publishedAt": "2025-12-07T14:02:35Z"
+            "title": "Rockstar Officially Drops New Bully Release Before GTA 6",
+            "description": "Rockstar is gearing its fans up for GTA 6's massive launch with these new releases, and players can finally get their hands on some primo Bully merch.",
+            "url": "https://screenrant.com/rockstar-games-bully-new-release/",
+            "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2025/05/preparing-for-gta-6-i-m-convinced-xbox-is-the-best-platform-for-it.jpg?w=1600&h=900&fit=crop",
+            "publishedAt": "2025-12-08T14:05:22Z"
         },
         {
-            "title": "Asos using AI stylists to help boost flagging sales",
-            "description": "It pledged a \u201cnew era of customer re-engagement\u201d and initiatives to win over more cautious consumers",
-            "url": "https://www.irishexaminer.com/world/arid-41755841.html",
-            "image": "https://www.irishexaminer.com/cms_media/module_img/9778/4889084_2_seoimageog_39f777c8-9366-4d6e-93e8-113a49faeb41.jpg.jpg",
-            "publishedAt": "2025-12-07T14:02:00Z"
+            "title": "\u2018Destiny 2\u2019 Faction Rallies Are Returning In Renegades After Eight Years",
+            "description": "Destiny 2 will get new faction rallies based on the new one in Renegades. We only know a little information about it, but it should be interesting.",
+            "url": "https://www.forbes.com/sites/paultassi/2025/12/08/destiny-2-faction-rallies-are-returning-in-renegades-after-eight-years/",
+            "image": "https://imageio.forbes.com/specials-images/imageserve/6936d99728b1937b4d4a60d2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-12-08T14:04:36Z"
         },
         {
-            "title": "Colombia 4.0: The End of 2025 Brings AI, Drones and Content to Celebrate Year\u2019s End",
-            "description": "Discover how Colombia 4.0 2025 turned into a travelling tech festival, bringing AI, games, drones and digital careers to 11 regions before closing with hackathons, music and plans for Colombia 4.0 2026 in Bogota.",
-            "url": "https://colombiaone.com/2025/12/07/colombia-2025-tech-festival-ai-drones/",
-            "image": "https://colombiaone.com/wp-content/uploads/2025/12/colombia-4-0-territorios-digitales-tech-festival-bogota-2025-credit-mintic.jpg",
-            "publishedAt": "2025-12-07T14:01:22Z"
+            "title": "\u2018We meet people wherever they are\u2019: Inside the Santa Monica Studio where the Apple Fitness+ magic happens",
+            "description": "Ahead of the Apple Fitness+ India rollout on December 15, The Indian Express got an exclusive behind-the-scenes look at the Santa Monica studio.",
+            "url": "https://indianexpress.com/article/technology/inside-the-santa-monica-studio-where-the-apple-fitness-magic-happens-10409230/",
+            "image": "https://images.indianexpress.com/2025/12/Apple-Fitness1.jpg",
+            "publishedAt": "2025-12-08T14:04:18Z"
         },
         {
-            "title": "TGA 2025 Predictions: What's Going To Happen At The Game Awards?",
-            "description": "The Game Awards is always packed with news and reveals, but just what is it we'll see? We've got some ideas.",
-            "url": "https://www.gamespot.com/gallery/tga-2025-predictions-whats-going-to-happen-at-the-game-awards/2900-7307/",
-            "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/4616375-tga.jpg",
-            "publishedAt": "2025-12-07T14:00:00Z"
+            "title": "How to watch Wholesome Direct 2025",
+            "description": "Tune in to Wholesome Snack 2025, to catch a glimpse of 20+ awesome upcoming indie games, many of which will be perfect for gaming handhelds.",
+            "url": "https://www.windowscentral.com/gaming/wholesome-snack-showcase-2025-where-to-watch",
+            "image": "https://cdn.mos.cms.futurecdn.net/tfnLjcbDviGYpoBBNJFc5T-2048-80.jpg",
+            "publishedAt": "2025-12-08T14:04:00Z"
         },
         {
-            "title": "Passenger Jet Suddenly Dropped From Sky for a Wild Reason, Airbus Says",
-            "description": "Reality is sometimes too strange to wrap our heads around.",
-            "url": "https://nz.news.yahoo.com/passenger-jet-suddenly-dropped-sky-140000982.html",
-            "image": "https://s.yimg.com/ny/api/res/1.2/C3BXv32NiQ_gLBT8.Jca8A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/futurism_981/a32dce49ca5047c4e041a3297253f769",
-            "publishedAt": "2025-12-07T14:00:00Z"
+            "title": "Samsung Galaxy Watch FE gets Wear OS 6 with One UI 8 Watch update",
+            "description": "This update is having a very slow rollout. Samsung started updating its smartwatches to One UI 8 Watch based on Wear OS 6 back in July, and it's been a...",
+            "url": "https://www.gsmarena.com/samsung_galaxy_watch_fe_gets_wear_os_6_with_one_ui_8_watch_update-news-70609.php",
+            "image": "https://fdn.gsmarena.com/imgroot/news/25/12/samsung-galaxy-watch-fe-one-ui-8-update/-952x498w6/gsmarena_000.jpg",
+            "publishedAt": "2025-12-08T14:02:03Z"
         },
         {
-            "title": "Passenger Jet Suddenly Dropped From Sky for a Wild Reason, Airbus Says",
-            "description": "Apologies to our art director, who must depict a plane plunging after being blasted by cosmic rays, which is something that actually happened.",
-            "url": "https://futurism.com/advanced-transport/passenger-jet-drop-reason",
-            "image": "https://futurism.com/wp-content/uploads/2025/12/passenger-jet-drop-reason.jpg?quality=85&w=1200",
-            "publishedAt": "2025-12-07T14:00:00Z"
+            "title": "Apple Fitness+ expands to 28 new markets",
+            "description": "Apple today announced Apple Fitness+, the award-winning fitness and wellness service, is expanding to 28 new markets.",
+            "url": "https://www.apple.com/newsroom/2025/12/apple-fitness-plus-expands-to-28-new-markets/",
+            "image": "https://www.apple.com/newsroom/images/2025/12/apple-fitness-plus-expands-to-28-new-markets/tile/Apple-Fitness-Plus-expansion-hero-lp.jpg.og.jpg?202512081402",
+            "publishedAt": "2025-12-08T14:00:43Z"
         },
         {
-            "title": "Assassin's Creed Shadows On Switch 2 Supposedly \"Unplayable\" For Some Players After Repeated Crashes",
-            "description": "\"I'm waiting for an update, it's impossible to play\" - Apart from Metroid Prime 4: Beyond, one other significant Switch 2 release this week was the third-par...",
-            "url": "https://www.nintendolife.com/news/2025/12/assassins-creed-shadows-on-switch-2-supposedly-unplayable-for-some-players-after-repeated-crashes",
-            "image": "https://images.nintendolife.com/52ff1a7a464fb/large.jpg",
-            "publishedAt": "2025-12-07T14:00:00Z"
+            "title": "Apple Fitness+ Launches in India: Everything You Need to Know",
+            "description": "Apple Fitness+ has launched in India, offering guided workouts, meditation and wellness content that works with iPhone and Apple Watch, just as Apple Watch marks its tenth anniversary. The service will be available December 15 onwards.",
+            "url": "https://t2online.in/tech/deep-dive/apple-fitness--set-to-launch-in-india--wants-to-make-fitness-a-daily-habit/2002620",
+            "image": "https://images.t2online.in/cdn-cgi/image/width=1200,fit=crop,gravity=auto,quality=70/https://apis.t2online.in/getImageStream/3161/1765201507041.jpg",
+            "publishedAt": "2025-12-08T14:00:00Z"
         },
         {
-            "title": "Preview: Meguiar\u2019s Great Uncover at Summernats 38",
-            "description": "Thirty killer new rides are set to be unveiled at Street Machine Summernats 38!",
-            "url": "https://www.streetmachine.com.au/news/preview-meguiars-great-uncover-at-summernats-38",
-            "image": "https://www.streetmachine.com.au/wp-content/uploads/2025/11/summernats-38-unveil-preview-6b-scaled.jpg",
-            "publishedAt": "2025-12-07T14:00:00Z"
+            "title": "How to Spot a \u2018Sleeper\u2019 Browser Extension That\u2019s Actually Malware",
+            "description": "Malicious extensions occasionally find their way into the Chrome Web Store (and similar libraries in other browsers) by posing as legitimate add-ons. Some of them only morph into malware after gaining user trust.",
+            "url": "https://lifehacker.com/tech/spot-sleeper-browser-malware-extensions",
+            "image": "https://lifehacker.com/imagery/articles/01KBXCY3SNDWTKDSFJFA4PAZA2/hero-image.fill.size_1200x675.jpg",
+            "publishedAt": "2025-12-08T14:00:00Z"
         }
     ]
 }
