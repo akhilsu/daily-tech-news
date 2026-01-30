@@ -1,75 +1,75 @@
 {
-    "date": "2026-01-29",
+    "date": "2026-01-30",
     "articles": [
         {
-            "title": "Mercedes-AMG is building a hardcore CLE coupe for the Mythos lineup",
-            "description": "Mercedes-AMG has teased a high-performance CLE-based coupe from its limited-production Mythos lineup. Spotted testing in Sweden, the new model is expected to bring aggressive styling upgrades and a significant performance bump over the standard CLE 53.",
-            "url": "https://auto.hindustantimes.com/auto/cars/mercedesamg-is-building-a-hardcore-cle-coupe-for-the-mythos-lineup-41769610079235.html",
-            "image": "https://images.hindustantimes.com/auto/img/2026/01/28/1600x900/mercedes-mythos-cle-1_1769610323563_1769610343127.jpg",
-            "publishedAt": "2026-01-28T14:36:20Z"
+            "title": "How Impact Subsea's ISS360 Series Is Redefining Compact",
+            "description": "Impact Subsea, A Leader In Subsea Sensor Technology, Has Continued To Develop Their ISS360 Imaging Sonar Range.Since Its Debut In 2020\u2026",
+            "url": "https://www.marinetechnologynews.com/news/impact-subsea-iss360-series-658071",
+            "image": "https://images.marinetechnologynews.com/images/maritime/w800/impact-subsea-167537.jpg",
+            "publishedAt": "2026-01-29T14:39:12Z"
         },
         {
-            "title": "Claroty Team82 reveals critical RCE vulnerability in IDIS Cloud Manager Viewer tied to spear",
-            "description": "Claroty Team82 discloses the presence of a critical RCE vulnerability in IDIS Cloud Manager Viewer tied to spear-phishing risk.",
-            "url": "https://industrialcyber.co/industrial-cyber-attacks/claroty-team82-reveals-critical-rce-vulnerability-in-idis-cloud-manager-viewer-tied-to-spear-phishing-risk/",
-            "image": "https://industrialcyber.co/wp-content/uploads/2025/02/2025.02.27-Clarotys-Team82-reveals-vulnerabilities-in-Windows-CE-putting-industrial-systems-at-risk.webp",
-            "publishedAt": "2026-01-28T14:36:06Z"
+            "title": "Today Only You Can Get the Super Mario Galaxy Two-Pack at $14 Off",
+            "description": "Enjoy two of Nintendo's best Mario games in one package with a decent amount off.",
+            "url": "https://www.cnet.com/deals/nintendo-switch-mario-galaxy-game-deal/",
+            "image": "https://www.cnet.com/a/img/resize/3b76634bd57925e136b568adb6a3a5302512d8a4/hub/2026/01/09/b1f16158-8b4e-4579-8603-c3aa119c432a/mario-galaxy-1-and-2-on-switch.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2026-01-29T14:39:00Z"
         },
         {
-            "title": "Achieves Photorealistic Image Super-Resolution With Enhanced Flow Map Diffusion Models",
-            "description": "Researchers have developed FlowMapSR, a new image enhancement technique utilising a streamlined diffusion process and targeted refinement with prompts and adaptive training, to rapidly create highly detailed and realistic images from lower resolution originals.",
-            "url": "https://quantumzeitgeist.com/enhanced-models-achieves-photorealistic-image-super-resolution/",
-            "image": "https://quantumzeitgeist.com/wp-content/uploads/Image_fx-116.jpg",
-            "publishedAt": "2026-01-28T14:36:04Z"
+            "title": "China steps up research on 'space mining' technologies",
+            "description": "China Aerospace Science and Technology Corporation (CASC) plans to step up research into space resource development, focusing on technologies for surveying and extracting materials from minor planets, the company said on Thursday.Asteroids and other",
+            "url": "https://news.cgtn.com/news/2026-01-29/China-steps-up-research-on-space-mining-technologies-1KkNO1r4G0E/p.html",
+            "image": "https://news.cgtn.com/news/2026-01-29/China-steps-up-research-on-space-mining-technologies-1KkNO1r4G0E/img/945ccbd4ac37403b8de1fd3ddc986f6b/945ccbd4ac37403b8de1fd3ddc986f6b-750.png",
+            "publishedAt": "2026-01-29T14:38:02Z"
         },
         {
-            "title": "vivo Y31d quietly launched with 7,200mAh battery, IP69+ rating and a 4G-only Snapdragon",
-            "description": "The phone is tough and its battery is rated for 6 years of use (the bypass charging feature helps with that). However, it lacks 5G connectivity.",
-            "url": "https://www.gsmarena.com/vivo_y31d_quietly_launched_with_7200mah_battery_ip69_rating_and_a_4gonly_snapdragon-news-71291.php",
-            "image": "https://fdn.gsmarena.com/imgroot/news/26/01/vivo-y31d-announcement/-952x498w6/gsmarena_000.jpg",
-            "publishedAt": "2026-01-28T14:32:02Z"
-        },
-        {
-            "title": "Alana Borland: From Christchurch to Ealing, why Trailfinders is living up to expectations",
-            "description": "There\u2019s no hiding the fact that Trailfinders have been wildly unpredictable in the first half of the season. Yet Alana Borland believes there is a consistent, even metronomic, version of themselves waiting to emerge.",
-            "url": "https://www.rugbypass.com/news/alana-borland-from-christchurch-to-ealing-why-trailfinders-is-living-up-to-expectations/",
-            "image": "https://eu-cdn.rugbypass.com/wp/wp-content/uploads/2026/01/Alana-Borland-1200x630.jpg",
-            "publishedAt": "2026-01-28T14:30:31Z"
-        },
-        {
-            "title": "Apple's 'Creator Studio' App Bundle Now Available for $12.99 Per Month",
-            "description": "Apple today launched the new Creator Studio that was initially unveiled two weeks ago, providing content creators with access to six Apple apps for $12.99 per month or $129 per year. Creator Studio includes Final Cut Pro, Logic Pro, and Pixelmator Pro on Mac and iPad, along with Motion, Compressor, and MainStage on the Mac. Final Cut Pro is Apple's video editing software, Logic Pro is for audio editing and creation, and Pixelmator Pro is an image editing app that Apple purchased in 2024.",
-            "url": "https://www.macrumors.com/2026/01/28/apple-creator-studio-now-available/",
-            "image": "https://images.macrumors.com/t/4IDVd0793uETguN3sEzwoNB5K44=/2000x/article-new/2026/01/apple-creator-studio.jpg",
-            "publishedAt": "2026-01-28T14:30:23Z"
-        },
-        {
-            "title": "This Free Site Shows You Sports Highlights Minus the Spoilers",
-            "description": "The fun of watching sports is not knowing who will win\u2014so why should watching highlights be any different?",
-            "url": "https://au.lifehacker.com/tech/117400/feature/this-free-site-shows-you-sports-highlights-minus-the-spoilers",
-            "image": "https://sm.lifehacker.com/t/lifehacker_au/feature/t/this-free-/this-free-site-shows-you-sports-highlights-minus-the-spoiler_adgw.1200.png",
-            "publishedAt": "2026-01-28T14:30:00Z"
-        },
-        {
-            "title": "This Free Site Shows You Sports Highlights Minus the Spoilers",
-            "description": "This free website lets you watch extended sports highlights and nothing else, meaning there are no spoilers.",
-            "url": "https://lifehacker.com/tech/watch-sports-highlights-without-any-spoilers",
-            "image": "https://lifehacker.com/imagery/articles/01KG0E397JMT1KR31ESMFFNCHD/hero-image.fill.size_1200x675.png",
-            "publishedAt": "2026-01-28T14:30:00Z"
-        },
-        {
-            "title": "Blumhouse Games launches Crisol: Theater of Idols on Feb. 10",
+            "title": "GAME ANNOUNCEMENT: TOP-DOWN EXTRACTION SCI-FI SHOOTER, OMEN, CHALLENGES PLAYERS TO SURVIVE IN POST-APOCALYPTIC GALAXY",
             "description": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-            "url": "https://www.gamespress.com/ru/Blumhouse-Games-launches-Crisol-Theater-of-Idols-on-Feb-10",
-            "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/01/281302-5e3f0de7/Crisol.jpg?w=360&mode=max&otf=y&quality=90&format=jpg&bgcolor=white&sky=6f674df96a0c300cdc903eaefc8bd2c482c628d0d36aa2821f6f305783c5a16d",
-            "publishedAt": "2026-01-28T14:29:20Z"
+            "url": "https://www.gamespress.com/tr/GAME-ANNOUNCEMENT-TOP-DOWN-EXTRACTION-SCI-FI-SHOOTER-OMEN-CHALLENGES-P",
+            "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/01/291434-cc12c23e/Snapshot_8.PNG?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=5c4501ba7f0c4d42ad92b061f0c49de80ea8830429bc811c33dad27081173e33",
+            "publishedAt": "2026-01-29T14:37:30Z"
         },
         {
-            "title": "Blumhouse Games launches Crisol: Theater of Idols on Feb. 10",
+            "title": "Hotel Architect Overhauls Staff Management with Major January Update",
             "description": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-            "url": "https://www.gamespress.com/tr/Blumhouse-Games-launches-Crisol-Theater-of-Idols-on-Feb-10",
-            "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/01/281302-5e3f0de7/Crisol.jpg?w=360&mode=max&otf=y&quality=90&format=jpg&bgcolor=white&sky=6f674df96a0c300cdc903eaefc8bd2c482c628d0d36aa2821f6f305783c5a16d",
-            "publishedAt": "2026-01-28T14:29:20Z"
+            "url": "https://www.gamespress.com/ru/Hotel-Architect-Overhauls-Staff-Management-with-Major-January-Update",
+            "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/01/291342-aef7fe63/1920x540.jpg?w=360&mode=max&otf=y&quality=90&format=jpg&bgcolor=white&sky=bcadbeeb86c1068d1c2933a30ef64e4c13a08ba00f2d1115f51f4929ab9f018a",
+            "publishedAt": "2026-01-29T14:37:30Z"
+        },
+        {
+            "title": "GAME ANNOUNCEMENT: TOP-DOWN EXTRACTION SCI-FI SHOOTER, OMEN, CHALLENGES PLAYERS TO SURVIVE IN POST-APOCALYPTIC GALAXY",
+            "description": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+            "url": "https://www.gamespress.com/ru/GAME-ANNOUNCEMENT-TOP-DOWN-EXTRACTION-SCI-FI-SHOOTER-OMEN-CHALLENGES-P",
+            "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/01/291434-cc12c23e/Snapshot_8.PNG?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=5c4501ba7f0c4d42ad92b061f0c49de80ea8830429bc811c33dad27081173e33",
+            "publishedAt": "2026-01-29T14:37:30Z"
+        },
+        {
+            "title": "Hotel Architect Overhauls Staff Management with Major January Update",
+            "description": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+            "url": "https://www.gamespress.com/Hotel-Architect-Overhauls-Staff-Management-with-Major-January-Update",
+            "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/01/291342-aef7fe63/1920x540.jpg?w=360&mode=max&otf=y&quality=90&format=jpg&bgcolor=white&sky=bcadbeeb86c1068d1c2933a30ef64e4c13a08ba00f2d1115f51f4929ab9f018a",
+            "publishedAt": "2026-01-29T14:37:30Z"
+        },
+        {
+            "title": "'Finding Light in the Shade this January' - Roscrea's Emma Coonan's monthly column",
+            "description": "'January can be a tough month for many, as we straddle the light and dark of Winter,' writes Emma",
+            "url": "https://www.ireland-live.ie/news/offaly-live/2002207/finding-light-in-the-shade-this-january-roscrea-s-emma-coonan-s-monthly-column.html",
+            "image": "https://www.ireland-live.ie/resizer/1200/700/true/1603094942062.jpg--_finding_light_in_the_shade_this_january____roscrea_s_emma_coonan_s_monthly_column.jpg?1603094942000",
+            "publishedAt": "2026-01-29T14:37:28Z"
+        },
+        {
+            "title": "Tunable-Pore Microneedles Boost Fluid Sampling Speed",
+            "description": "Researchers have developed a new type of porous microneedle that can extract interstitial fluid from skin faster than ever before, without drawing",
+            "url": "https://www.miragenews.com/tunable-pore-microneedles-boost-fluid-sampling-1610425/",
+            "image": "https://cdn1.miragenews.com/tmp_cache?cdn=images.unsplash.com%2Fphoto-1532619675605-1ede6c2ed2b0%3Fixlib%3Drb-4.0.3%26amp%3Bixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26amp%3Bauto%3Dformat%26amp%3Bfit%3Dcrop%26amp%3Bw%3D1170%26amp%3Bq%3D80",
+            "publishedAt": "2026-01-29T14:36:00Z"
+        },
+        {
+            "title": "6 Samsung Galaxy Buds 4 Leaks That Have Already Dripped Out",
+            "description": "With Samsung's next Unpacked event likely around the corner, Galaxy Buds 4 and 4 Pro rumors are pouring in.",
+            "url": "https://gizmodo.com/6-samsung-galaxy-buds-4-leaks-that-have-already-dripped-out-2000715190",
+            "image": "https://gizmodo.com/app/uploads/2025/09/Samsung-Galaxy-Buds-3-FE-4-1200x675.jpg",
+            "publishedAt": "2026-01-29T14:35:54Z"
         }
     ]
 }
