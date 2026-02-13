@@ -1,75 +1,75 @@
 {
-    "date": "2026-02-12",
+    "date": "2026-02-13",
     "articles": [
         {
-            "title": "\u00c9coute launches TH2 - the next evolution of its groundbreaking vacuum tube-powered headphones",
-            "description": "In 2023, San Francisco audio brand \u00c9coute made waves when it introduced the TH1, the world\u2019s first over-ear headphones powered by a built-in vacuum tube preamp and dual-mono amplification. Now it's unveiled its next-gen model...",
-            "url": "https://musictech.com/news/gear/ecoute-th2/",
-            "image": "https://musictech.com/wp-content/uploads/2026/02/Ecoute-TH2-1@2000x1500-1068x801.jpg",
-            "publishedAt": "2026-02-11T14:54:01Z"
+            "title": "Shanghai group develops heatproof fiber microphone to monitor power networks",
+            "description": "Immune to heat and high voltage, optical sensor can spot problems inside transformers.",
+            "url": "https://optics.org/news/17/2/4",
+            "image": "https://optics.org/images/favicon-16.png",
+            "publishedAt": "2026-02-12T14:53:18Z"
         },
         {
-            "title": "AWOL Vision's 4K Triple Laser Projector Aetherion Series \"Breaks the Box Office\" on Kickstarter, Surpassing $10M in 12 Hours in Record",
-            "description": "The first laser UST projector to deliver true 200-inch 4K projection has become the fastest hardware project to reach the [\u2026]",
-            "url": "https://technode.global/prnasia/awol-visions-4k-triple-laser-projector-aetherion-series-breaks-the-box-office-on-kickstarter-surpassing-10m-in-12-hours-in-record-setting-debut/",
-            "image": "https://technode.global/wp-content/uploads/2023/09/TNGlobal-featured.jpg",
-            "publishedAt": "2026-02-11T14:53:36Z"
+            "title": "Stardock Announces Clairvoyance, a new application that turns AI agents into persistent, self-learning Staff",
+            "description": "/PRNewswire/ -- Stardock, creator of Object Desktop, Fences, and Start11, today announced the alpha of Clairvoyance, a free new application that changes how...",
+            "url": "https://www.prnewswire.com/news-releases/stardock-announces-clairvoyance-a-new-application-that-turns-ai-agents-into-persistent-self-learning-staff-302686544.html",
+            "image": "https://www.prnewswire.com/content/dam/prnewswire/icons/2019-Q4-PRN-Icon-32-32.png",
+            "publishedAt": "2026-02-12T14:52:00Z"
         },
         {
-            "title": "Powered Infrared Tech to Transform Industrial Monitoring",
-            "description": "YANTAI, China, Feb. 11, 2026 /PRNewswire/ \u2014\u00a0In traditional industrial settings, equipment monitoring often relies on periodic inspections or post-failure analysis, [\u2026]",
-            "url": "https://technode.global/prnasia/from-reactive-to-predictive-raytron-unveils-ai-powered-infrared-tech-to-transform-industrial-monitoring/",
-            "image": "https://technode.global/wp-content/uploads/2023/09/TNGlobal-featured.jpg",
-            "publishedAt": "2026-02-11T14:53:36Z"
+            "title": "L Brings 540\u00b0 Pan and 270\u00b0 Tilt to Evoke 5000B and 2400B",
+            "description": "NANLUX introduces the YK-E-EVL Motorized Yoke-L for Evoke 5000B and 2400B LED spotlights, offering 540\u00b0 pan, 270\u00b0 tilt, 40 N\u00b7m torque, wired and wireless control, and IP66-ready design.",
+            "url": "https://www.redsharknews.com/nanlux-yk-e-evl-motorized-yoke-l-evoke-5000b-2400b",
+            "image": "https://www.redsharknews.com/hubfs/nanlite%20Motorized%20Yoke-L%20black.jpg",
+            "publishedAt": "2026-02-12T14:51:04Z"
         },
         {
-            "title": "HONOR achieves No.1 global smartphone shipment growth in 2025",
-            "description": "HONOR has recorded the strongest overseas shipment growth among leading global smartphone brands in 2025, reinforcing the increasing role of international marke",
-            "url": "https://mg.co.za/partner-content/2026-02-11-honor-achieves-no-1-global-smartphone-shipment-growth-in-2025/",
-            "image": "https://mg.co.za/wp-content/uploads/2026/02/HONOR-CEO-Fred-Zhou-scaled.jpg",
-            "publishedAt": "2026-02-11T14:53:36Z"
+            "title": "iOS 27 Will Add These New Features to Your iPhone",
+            "description": "While the first beta of iOS 27 is still four months away, there are already plenty of rumors about new features that will be included in the update. Below, we recap iOS 27 rumors so far:Siri Chatbot: iOS 27 will reportedly include a full-out Siri chatbot that you can have back-and-forth conversations with. This would make Siri more like OpenAI's ChatGPT and Google's Gemini. Due to delays, iOS 27 might also include at least some personalized Siri features that were announced back in 2024.",
+            "url": "https://www.macrumors.com/2026/02/12/ios-27-features-rumors/",
+            "image": "https://images.macrumors.com/t/wxoXiDgw39WGfIwe3wuQ8v4XbLQ=/2500x/article-new/2025/11/iOS-27-Mock-Quick.jpg",
+            "publishedAt": "2026-02-12T14:49:55Z"
         },
         {
-            "title": "Microsoft begins Secure Boot certificate update for Windows devices",
-            "description": "Windows Secure Boot certificates are being updated ahead of 2026 expirations to keep devices starting securely and protected over time.",
-            "url": "https://www.helpnetsecurity.com/2026/02/11/microsoft-windows-secure-boot-certificate-update/",
-            "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/02/11132343/windows-1500-1.webp",
-            "publishedAt": "2026-02-11T14:52:15Z"
+            "title": "Windows Notepad Markdown feature opens door to RCE (CVE",
+            "description": "CVE-2026-20841 is a command injection flaw in Notepad that could be exploited by attackers to achieve RCE on targets' Windows system.",
+            "url": "https://www.helpnetsecurity.com/2026/02/12/windows-notepad-markdown-feature-opens-door-to-rce-cve-2026-20841/",
+            "image": "https://img.helpnetsecurity.com/wp-content/uploads/2024/08/08114927/microsoft-windows2.webp",
+            "publishedAt": "2026-02-12T14:47:41Z"
         },
         {
-            "title": "Apple Acquires New Database App",
-            "description": "Apple acquired Canadian graph database company Kuzu last year, it has emerged. The acquisition, spotted by AppleInsider, was completed in October 2025 for an undisclosed sum. The company's website was subsequently taken down and its Github repository was archived, as is commonplace for Apple acquisitions. Kuzu was \"an embedded graph database built for query speed, scalability, and easy of use\". It offered Kuzu Explorer, a browser-based database that displayed datapoints as linked nodes.",
-            "url": "https://www.macrumors.com/2026/02/11/apple-acquires-new-database-app/",
-            "image": "https://images.macrumors.com/t/yFW3VMvOO_OCLJnNnBNawPXm2zU=/2048x/article-new/2026/01/Apple-Logo-Black.jpeg",
-            "publishedAt": "2026-02-11T14:44:42Z"
+            "title": "MindWare Announces 2026 Product Innovations and Celebrates 8 million Qwirkle Games Sold",
+            "description": "New Innovations to be showcased at New York Toy Fair, Booth #6107",
+            "url": "https://aijourn.com/mindware-announces-2026-product-innovations-and-celebrates-8-million-qwirkle-games-sold/",
+            "image": "https://aijourn.com/wp-content/uploads/2026/02/MindWare_Toys_Logo.jpg",
+            "publishedAt": "2026-02-12T14:46:59Z"
         },
         {
-            "title": "From Tech to Runway: TORRAS Ostand Cases Redefine Phone Case Fashion",
-            "description": "/PRNewswire/ -- Leading fashion trends is no longer the exclusive territory of luxury houses. More and more tech and digital products are evolving from...",
-            "url": "https://www.prnewswire.com/news-releases/from-tech-to-runway-torras-ostand-cases-redefine-phone-case-fashion-302685252.html",
-            "image": "https://mma.prnewswire.com/media/2902047/TORRAS_NYFW.jpg?p=facebook",
-            "publishedAt": "2026-02-11T14:43:00Z"
+            "title": "Report: AMD Breaks 40% Server Revenue Share for the First Time",
+            "description": "It is official: AMD is now capturing 40% of the entire server CPU market revenue share, according to data from Mercury Research. In the final quarter of 2025, AMD EPYC server CPUs managed to capture 41.3% of the revenue in the server/data center market that hyperscalers are spending on. This is a 1....",
+            "url": "https://www.techpowerup.com/346287/report-amd-breaks-40-server-revenue-share-for-the-first-time",
+            "image": "https://www.techpowerup.com/img/l33bPnPnJ1T0CkbR.jpg",
+            "publishedAt": "2026-02-12T14:43:48Z"
         },
         {
-            "title": "Scaling to 100+ as a Director: Lessons From Growing Engineering Organizations",
-            "description": "Thiago Ghisi discusses his journey scaling engineering orgs to 100+ people. He shares a 3-level impact framework and explains how to evolve from a \"solver\" to a \"driver\" of organizational growth.",
-            "url": "https://www.infoq.com/presentations/scaling-engineering-teams/",
-            "image": "https://res.infoq.com/presentations/scaling-engineering-teams/en/card_header_image/thiago-ghisi-twitter-card-1769589727635.jpg",
-            "publishedAt": "2026-02-11T14:42:02Z"
+            "title": "Google\u2019s Practical AI Playbook for Banks and Fintechs",
+            "description": "Karen Zhang explains how Google is supporting organisations from small fintechs to large financial institutions with AI",
+            "url": "https://ffnews.com/fintech-tv/googles-practical-ai-playbook-for-banks-and-fintechs/",
+            "image": "https://ffnews.com/wp-content/uploads/2026/02/Googles-Practical-AI-Playbook-for-Banks-and-Fintechs.jpg",
+            "publishedAt": "2026-02-12T14:40:53Z"
         },
         {
-            "title": "Viltrox's Air prime lenses are now available in silver\u2026 but only for Fujifilm X-mount",
-            "description": "Viltrox has released the 35mm and 56mm f/1.7 Air APS-C prime lenses for Fujifilm X-mount in an eye-catching silver color",
-            "url": "https://www.digitalcameraworld.com/cameras/lenses/viltroxs-air-prime-lenses-are-now-available-in-silver-but-only-for-fujifilm-x-mount",
-            "image": "https://cdn.mos.cms.futurecdn.net/mdR3oP3L3mxsVwU2LmHsQa-2560-80.jpg",
-            "publishedAt": "2026-02-11T14:38:45Z"
+            "title": "High-tech strategy reveals secret behind Roman game of stones",
+            "description": "The purpose of a carved block of limestone found in an ancient bathhouse baffled researchers until AI and scans revealed traces of players\u2019 tactical moves",
+            "url": "https://www.thetimes.com/world/europe/article/high-tech-strategy-roman-board-game-hkbg5c3vj",
+            "image": "https://www.thetimes.com/imageserver/image/%2F18d9ac75-fa26-4018-b90e-63fa97f417e0.jpg?crop=1600%2C900%2C0%2C0&resize=1200",
+            "publishedAt": "2026-02-12T14:40:19Z"
         },
         {
-            "title": "Creat your own Pokemon paradise with the latest in Nintendo's life-sim games",
-            "description": "After an hour rebuilding my own deserted island back from the brink, it's safe to say our favourite pocket ...",
-            "url": "https://www.9news.com.au/technology/pokemon-pokopia-nintendo-switch-2/5f82dd86-b26e-41ce-b3f7-689cf80f140b",
-            "image": "https://imageresizer.static9.net.au/DvJIA-rnrNd6LMHshvu9q-fWDrU=/1200x628/smart/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F19b18f29-2381-4f61-8e15-29ef9e3a3113",
-            "publishedAt": "2026-02-11T14:38:08Z"
+            "title": "Lil Gator\u2019s Biggest Adventure Is Out Now",
+            "description": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+            "url": "https://www.gamespress.com/en-GB/Lil-Gators-Biggest-Adventure-Is-Out-Now",
+            "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2025/09/190948-913cd27c/Cover-Art.jpg?w=360&mode=max&otf=y&quality=90&format=jpg&bgcolor=white&sky=22f54381dbe3b5a0f3431d6ed207f38d25ed2cbea601c0165bc0291f0b98ae9f",
+            "publishedAt": "2026-02-12T14:34:55Z"
         }
     ]
 }
