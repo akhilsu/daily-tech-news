@@ -1,75 +1,75 @@
 {
-    "date": "2026-02-17",
+    "date": "2026-02-18",
     "articles": [
         {
-            "title": "3 Things You Should Always Plug Into Your TV's HDMI ARC Port",
-            "description": "HDMI eARC offers more bandwidth for premium audio formats like Dolby Atmos. Learn which devices belong on that port and what cables to use.",
-            "url": "https://www.bgr.com/2099170/things-should-plug-into-tv-hdmi-arc-port/",
-            "image": "https://www.bgr.com/img/gallery/3-things-you-should-always-plug-into-your-tvs-hdmi-arc-port/l-intro-1770844474.jpg",
-            "publishedAt": "2026-02-16T14:47:00Z"
+            "title": "Galaxy S26 Ultra 'Privacy Display' settings leak [Gallery]",
+            "description": "Samsung's upcoming Galaxy S26 Ultra looks like it'll pack a \"Privacy Display\" as its biggest feature, and the settings have now leaked.",
+            "url": "https://9to5google.com/2026/02/17/samsung-galaxy-s26-ultra-privacy-display-settings-leak/",
+            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/galaxy-s26-ultra-leakmail-17.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2026-02-17T14:50:00Z"
         },
         {
-            "title": "New Technique Cuts Quantum Simulation Time By Exploiting Data Patterns",
-            "description": "Researchers have developed a new technique, Compressed Shadow Tomography, which significantly reduces the number of measurements needed to characterise quantum systems by combining randomised data collection with efficient data compression, achieving potential savings scaling with the number of time steps analysed.",
-            "url": "https://quantumzeitgeist.com/quantum-technique-cuts-simulation-time-exploiting/",
-            "image": "https://quantumzeitgeist.com/wp-content/uploads/Image_fx-10-47.jpg",
-            "publishedAt": "2026-02-16T14:46:04Z"
+            "title": "Researchers Calculate Resonant State Of Four Atoms Appearing In Cold Atom Scattering",
+            "description": "Researchers have precisely calculated the properties of a near-bound state of four ultra-cold atoms, revealing a resonant structure in their interactions significantly influenced by the finite range of atomic forces.",
+            "url": "https://quantumzeitgeist.com/calculate-resonant-state-four-atoms/",
+            "image": "https://quantumzeitgeist.com/wp-content/uploads/Image_fx-23-40.jpg",
+            "publishedAt": "2026-02-17T14:49:46Z"
         },
         {
-            "title": "AI Model Gains Agency Over Its Own Memory, Managing Context Like A Human",
-            "description": "Researchers have developed StateLM, a new artificial intelligence model capable of actively managing its own memory using internal tools for context pruning, indexing and note-taking, resulting in significant performance improvements, up to 52% accuracy, on complex tasks requiring long-term reasoning and information recall.",
-            "url": "https://quantumzeitgeist.com/ai-model-gains-agency-its-own/",
-            "image": "https://quantumzeitgeist.com/wp-content/uploads/Image_fx-141.jpg",
-            "publishedAt": "2026-02-16T14:46:02Z"
+            "title": "Superconductors\u2019 Heat Transfer Linked To Quantum Geometry And External Fields",
+            "description": "Researchers have discovered that manipulating magnetic fields around a material can influence its ability to conduct heat, revealing a link between quantum geometry and thermal transport and establishing new limits for the efficiency of heat dissipation in superconducting materials.",
+            "url": "https://quantumzeitgeist.com/quantum-superconductors-heat-transfer-linked-geometry/",
+            "image": "https://quantumzeitgeist.com/wp-content/uploads/Image_fx-56-27.jpg",
+            "publishedAt": "2026-02-17T14:49:44Z"
         },
         {
-            "title": "70mai launches new 4K A810S dash cam with built-in GPS and ADAS",
-            "description": "70mai has unveiled the new 4K A810S two-channel dash cam in the global market with its in-house Night Owl Vision technology. The dash cam features 4K recording, a 3-inch IPS display, AI motion detection, a built-in GPS and ADAS, and WiFi 6 connectivity for high-speed transfers.",
-            "url": "https://www.notebookcheck.net/70mai-launches-new-4K-A810S-dash-cam-with-built-in-GPS-and-ADAS.1227572.0.html",
-            "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/70mai-A810S-2.jpg",
-            "publishedAt": "2026-02-16T14:46:00Z"
+            "title": "Acoustic Stress Modelling Delivers Stable, Long-Term Heat Predictions In Solids",
+            "description": "Researchers have demonstrated that a simplified model accurately predicts stable heat distribution in stressed materials, even with complex temperature-dependent behaviour, by proving the existence of a unique and exponentially stabilising solution to a related mathematical problem.",
+            "url": "https://quantumzeitgeist.com/acoustic-stress-modelling-delivers-stable/",
+            "image": "https://quantumzeitgeist.com/wp-content/uploads/Image_fx-22-43.jpg",
+            "publishedAt": "2026-02-17T14:49:06Z"
         },
         {
-            "title": "MSI\u2019s $5,090 RTX 5090 Lightning Z cracks from thermal shock during 2,500W BIOS test",
-            "description": "MSI\u2019s $5,090 RTX 5090 Lightning Z was built for extreme overclocking \u2014 and it delivered, breaking a Geekbench 5 world record at over 1,000W and 3.5 GHz under liquid nitrogen. But an aggressive 2,500W XOC BIOS and a sudden thermal imbalance ultimately cracked one GPU core, turning a record attempt into a costly casualty.",
-            "url": "https://www.notebookcheck.net/MSI-s-5-090-RTX-5090-Lightning-Z-cracks-from-thermal-shock-during-2-500W-BIOS-test.1227583.0.html",
-            "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/MSIs-5090-RTX-5090-Lightning-Z-cracks-from-thermal-shock-during-2500W-BIOS-test.png",
-            "publishedAt": "2026-02-16T14:46:00Z"
+            "title": "Apple exec Eddy Cue on company\u2019s plan to take on YouTube and Spotify with Podcasts update: \u2018We\u2019re putting creators in\u2026\u2019",
+            "description": "Tech News News: Apple has announced it will bring a new integrated video podcast experience to Apple Podcasts soon. This comes as the company moves to compete more di.",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/apple-exec-eddy-cue-on-companys-plan-to-take-on-youtube-and-spotify-with-podcasts-update-were-putting-creators-in/articleshow/128469788.cms",
+            "image": "https://static.toiimg.com/thumb/msid-128469755,width-1280,height-720,imgsize-1032490,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-02-17T14:49:00Z"
         },
         {
-            "title": "Learning Halts After Three Successes, Certifying Accuracy Through Measurement Runs",
-            "description": "Researchers have demonstrated that, in quantum machine learning with limited feedback, the reliability of verifying a successful outcome can become a greater obstacle than the amount of data required, particularly when even minor errors in labelling occur.",
-            "url": "https://quantumzeitgeist.com/learning-accuracy-halts-after-three-successes-certifying/",
-            "image": "https://quantumzeitgeist.com/wp-content/uploads/Image_fx-18-45.jpg",
-            "publishedAt": "2026-02-16T14:45:48Z"
+            "title": "T-Mobile customers can take 50% off a Fire TV Stick 4K Select today",
+            "description": "If you are a T-Mobile subscriber you can get a pretty sweet deal on a Fire TV Stick 4K Select.",
+            "url": "https://www.pocket-lint.com/t-mobile-subscribers-can-take-50-off-a-fire-tv-stick-today/",
+            "image": "https://static0.pocketlintimages.com/wordpress/wp-content/uploads/2025/11/fire-tv-stick-4k-select-1.jpg?w=1600&h=900&fit=crop",
+            "publishedAt": "2026-02-17T14:47:37Z"
         },
         {
-            "title": "Focused Ion Beam Technique Steers Spin Waves Via Lattice Distortions",
-            "description": "Researchers have demonstrated that focused ion beam irradiation steers spin waves in yttrium iron garnet by creating lattice dislocations and associated magnetoelastic effects, enabling precise control over their propagation and paving the way for advanced wave-based computing.",
-            "url": "https://quantumzeitgeist.com/focused-ion-beam-technique-steers/",
-            "image": "https://quantumzeitgeist.com/wp-content/uploads/Image_fx-16-46.jpg",
-            "publishedAt": "2026-02-16T14:45:48Z"
+            "title": "Preview: Due February 18",
+            "description": "We expect December durable goods orders to fall by 5.0% after a 5.3% increase in November, the reversal led by aircraft after a strong November increa",
+            "url": "https://continuumeconomics.com/a/7ece9df4/preview-due-february-18-us-december-durable-goods-orders-aircraft-to-slip-but-ex-transport-trend-is-positive",
+            "image": "https://continuumeconomics.com/favicon.png",
+            "publishedAt": "2026-02-17T14:45:00Z"
         },
         {
-            "title": "Parallel Processing Speeds Up Complex Calculations With Relaxed Data Consistency",
-            "description": "Researchers have demonstrated that the least fixed points of multiple functions can be computed accurately and efficiently using parallel processing with simple overwriting techniques, even with limited synchronisation and without relying on complex merging or contraction methods.",
-            "url": "https://quantumzeitgeist.com/parallel-processing-speeds-complex-calculations/",
-            "image": "https://quantumzeitgeist.com/wp-content/uploads/Image_fx-14-46.jpg",
-            "publishedAt": "2026-02-16T14:45:48Z"
+            "title": "DJI Osmo Pocket 4 Video Leaked In Malaysia",
+            "description": "The DJI Osmo Pocket 4 is no longer just a rumor circulating in forums and Telegram groups. It has appeared in the real world.",
+            "url": "https://dronexl.co/2026/02/17/dji-osmo-pocket-4-video-leaked-imalaysia/",
+            "image": "https://dronexl.co/wp-content/uploads/2026/02/Screenshot-2026-02-17-at-8.46.03-AM-gigapixel-text-shapes-1x.jpg",
+            "publishedAt": "2026-02-17T14:42:42Z"
         },
         {
-            "title": "Subtle Disorder Within Layered Materials Alters Electrical Flow Between Atomic Planes",
-            "description": "Researchers have discovered that even minor disruptions between the layers in cuprate materials significantly influence their electrical behaviour, potentially offering a method to enhance superconductivity by managing this interlayer disorder.",
-            "url": "https://quantumzeitgeist.com/subtle-disorder-within-layered-materials/",
-            "image": "https://quantumzeitgeist.com/wp-content/uploads/Image_fx-17-45.jpg",
-            "publishedAt": "2026-02-16T14:45:48Z"
+            "title": "paced FPS Roguelite Galactic Vault Blasts Into Action on March 10th\"",
+            "description": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+            "url": "https://www.gamespress.com/Fast-paced-FPS-Roguelite-Galactic-Vault-Blasts-Into-Action-on-March-10",
+            "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/02/161532-e8133c11/Galactic_Vault_1920x1080_key_art.jpg?w=360&mode=max&otf=y&quality=90&format=jpg&bgcolor=white&sky=d1a86e808fc2be55524de845b3d7eacdf0a21dae1ad444000aa3e73dc21c4bec",
+            "publishedAt": "2026-02-17T14:41:12Z"
         },
         {
-            "title": "Robot Planner Tackles Complex Household Tasks With Ambiguous Instructions",
-            "description": "Researchers have developed Any House Any Task (AHAT), a new robotic planning system employing a language model and reinforcement learning to interpret ambiguous human instructions and generate complex, long-term action plans for household environments, demonstrably outperforming existing methods in scalability and task completion.",
-            "url": "https://quantumzeitgeist.com/robot-planner-tackles-complex-household/",
-            "image": "https://quantumzeitgeist.com/wp-content/uploads/Image_fx-8-43.jpg",
-            "publishedAt": "2026-02-16T14:40:38Z"
+            "title": "paced FPS Roguelite Galactic Vault Blasts Into Action on March 10th\"",
+            "description": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+            "url": "https://www.gamespress.com/en-GB/Fast-paced-FPS-Roguelite-Galactic-Vault-Blasts-Into-Action-on-March-10",
+            "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/02/161532-e8133c11/Galactic_Vault_1920x1080_key_art.jpg?w=360&mode=max&otf=y&quality=90&format=jpg&bgcolor=white&sky=d1a86e808fc2be55524de845b3d7eacdf0a21dae1ad444000aa3e73dc21c4bec",
+            "publishedAt": "2026-02-17T14:41:12Z"
         }
     ]
 }
