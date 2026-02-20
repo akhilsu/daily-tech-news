@@ -1,75 +1,75 @@
 {
-    "date": "2026-02-19",
+    "date": "2026-02-20",
     "articles": [
         {
-            "title": "Olimex Opens Orders for the \"Most Comprehensive and Feature-Rich ESP32-P4 Board on the Market\"",
-            "description": "The open-hardware ESP32-P4-PC packs two 400MHz RISC-V cores, 32MB of PSRAM, 16MB of flash with microSD expansion, and native Ethernet.",
-            "url": "https://www.hackster.io/news/olimex-opens-orders-for-the-most-comprehensive-and-feature-rich-esp32-p4-board-on-the-market-aff3d084d659",
-            "image": "https://hackster.imgix.net/uploads/attachments/1930859/_vZcusVQypZ.blob?auto=compress%2Cformat&w=600&h=450&fit=min",
-            "publishedAt": "2026-02-18T14:46:15Z"
-        },
-        {
-            "title": "Martijn Braam's PiCam Tweaks a Raspberry Pi 4 and HQ Camera Module for Broadcast Video",
-            "description": "DIY camera delivers low-latency streaming over HDMI and the network, with a clever Python-powered dual-display setup.",
-            "url": "https://www.hackster.io/news/martijn-braam-s-picam-tweaks-a-raspberry-pi-4-and-hq-camera-module-for-broadcast-video-870291d542e2",
-            "image": "https://hackster.imgix.net/uploads/attachments/1930783/_6QaHLCeWbq.blob?auto=compress%2Cformat&w=600&h=450&fit=min",
-            "publishedAt": "2026-02-18T14:46:13Z"
-        },
-        {
-            "title": "The Bullet Heaven Where You Have to Program to Survive is Leaving Early Access in March!\"",
+            "title": "Xenoblade Chronicles X: Definitive Edition - Nintendo Switch 2 Edition Brings Enhanced Visuals to its Massive World, Available Today!",
             "description": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-            "url": "https://www.gamespress.com/NetAttack-Pushed-to-Prod---The-Bullet-Heaven-Where-You-Have-to-Program",
-            "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/02/171853-9888d1ff/NetAttack_1920x1080_key_art.jpg?w=360&mode=max&otf=y&quality=90&format=jpg&bgcolor=white&sky=af9049a082fdf08f0f7c755e56df8910201331abf2d69a97ff29e59ade39d348",
-            "publishedAt": "2026-02-18T14:45:46Z"
+            "url": "https://www.gamespress.com/en-GB/Xenoblade-Chronicles-X-Definitive-Edition-Nintendo-Switch-2-Edition-Br",
+            "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/02/191441-8b970afb/XenobladeXDE_SW2_image007.png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=df37fda2135261494d652b77ed705cd709e5a6459542399c87d55893e4aaebf8",
+            "publishedAt": "2026-02-19T14:44:03Z"
         },
         {
-            "title": "Transform into a Gryphon and Soar: Action RPG \"The Adventure of Natsuki Hinomiya\" Launches March 3 on Steam",
+            "title": "Co-founders behind Reface and Prisma join hands to improve on-device model inference with Mirai",
+            "description": "Mirai raised a $10 million seed to improve how AI models run on devices like smartphones and laptops.",
+            "url": "https://techcrunch.com/2026/02/19/co-founders-behind-reface-and-prisma-join-hands-to-improve-on-device-model-inference-with-mirai/",
+            "image": "https://techcrunch.com/wp-content/uploads/2026/02/mirai-logo2.png?resize=1200,675",
+            "publishedAt": "2026-02-19T14:43:58Z"
+        },
+        {
+            "title": "What is Raya? All about the 'exclusive' dating app",
+            "description": "What is Raya? And other FAQs about the dating app, answered",
+            "url": "https://mashable.com/article/what-is-raya-dating-app",
+            "image": "https://helios-i.mashable.com/imagery/articles/012BWz9KD7snKXk9GOS7Jci/hero-image.fill.size_1200x675.v1771447462.jpg",
+            "publishedAt": "2026-02-19T14:41:06Z"
+        },
+        {
+            "title": "Samsung moves to prevent leaks for Galaxy S27 lineup",
+            "description": "Samsung smartphones are possibly some of the most-leaked products in the world. The company is reportedly implementing measures to stop the public from obtaining details about the features and design of the next Galaxy flagship six months ahead of its launch \u2013 just in time for the Galaxy S27 leak season.",
+            "url": "https://www.notebookcheck.net/Samsung-moves-to-prevent-leaks-for-Galaxy-S27-lineup.1230141.0.html",
+            "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Galaxy-S27-Samsung-ergreift-Massnahmen-gegen-Leaks.jpg",
+            "publishedAt": "2026-02-19T14:41:00Z"
+        },
+        {
+            "title": "Samsung\u2019s 40\" Smart TV (2025) Now Matches Its Black Friday Low, Priced Like a No-Name TV",
+            "description": "This TV has plenty of features and is 25% off.",
+            "url": "https://gizmodo.com/samsungs-40-smart-tv-2025-now-matches-its-black-friday-low-priced-like-a-no-name-tv-2000723341",
+            "image": "https://gizmodo.com/app/uploads/2026/02/tv-deal-1200x675.jpg",
+            "publishedAt": "2026-02-19T14:40:22Z"
+        },
+        {
+            "title": "Bubble-Bouncing Precision Platformer Bobls Launches Full Level Editor and Co-Op Campaign Demo",
             "description": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-            "url": "https://www.gamespress.com/Transform-into-a-Gryphon-and-Soar-Action-RPG-The-Adventure-of-Natsuki-",
+            "url": "https://www.gamespress.com/Bubble-Bouncing-Precision-Platformer-Bobls-Launches-Full-Level-Editor-",
             "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
-            "publishedAt": "2026-02-18T14:45:46Z"
+            "publishedAt": "2026-02-19T14:39:03Z"
         },
         {
-            "title": "The Bullet Heaven Where You Have to Program to Survive is Leaving Early Access in March!\"",
+            "title": "All aboard for the Port of Jumanah!",
             "description": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-            "url": "https://www.gamespress.com/en-US/NetAttack-Pushed-to-Prod---The-Bullet-Heaven-Where-You-Have-to-Program",
-            "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/02/171853-9888d1ff/NetAttack_1920x1080_key_art.jpg?w=360&mode=max&otf=y&quality=90&format=jpg&bgcolor=white&sky=af9049a082fdf08f0f7c755e56df8910201331abf2d69a97ff29e59ade39d348",
-            "publishedAt": "2026-02-18T14:45:46Z"
+            "url": "https://www.gamespress.com/All-aboard-for-the-Port-of-Jumanah",
+            "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/02/191402-7d35529e/poj_keyart_landscape_-_Copy.png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=74611caf7571e4f32f43cf9d861f39f3c72a05a31ef3a38b4d2e8e8243174cc0",
+            "publishedAt": "2026-02-19T14:39:03Z"
         },
         {
-            "title": "Transform into a Gryphon and Soar: Action RPG \"The Adventure of Natsuki Hinomiya\" Launches March 3 on Steam",
+            "title": "The Galaxy S26 pricing saga is getting out of hand, and there's no one to blame but Samsung",
+            "description": "Is anyone else more bothered by Samsung's indecision than the actual S26 series price hikes at this point?",
+            "url": "https://www.phonearena.com/news/galaxy-s26-pricing-saga-getting-out-of-hand-no-one-to-blame-but-samsung-editorial_id178326",
+            "image": "https://m-cdn.phonearena.com/images/article/178326-wide-two_1200/The-Galaxy-S26-pricing-saga-is-getting-out-of-hand-and-theres-no-one-to-blame-but-Samsung.jpg",
+            "publishedAt": "2026-02-19T14:35:55Z"
+        },
+        {
+            "title": "Video games are losing the \"attention war\" to gambling, porn, and crypto, according to industry report",
+            "description": "A new industry report from Epyllion has broken down the video games industry's battle in the attention economy, which it is struggling with.",
+            "url": "https://www.eurogamer.net/video-games-are-losing-the-attention-war-to-gambling-porn-and-crypto-according-to-industry-report",
+            "image": "https://assetsio.gnwcdn.com/HD-GI.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "publishedAt": "2026-02-19T14:34:16Z"
+        },
+        {
+            "title": "Shai Matheson and Devora Wilde to Host the Future Games Show Spring Showcase Powered By HyperX on March 12",
             "description": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-            "url": "https://www.gamespress.com/en-GB/Transform-into-a-Gryphon-and-Soar-Action-RPG-The-Adventure-of-Natsuki-",
+            "url": "https://www.gamespress.com/Shai-Matheson-and-Devora-Wilde-to-Host-the-Future-Games-Show-Spring-Sh",
             "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
-            "publishedAt": "2026-02-18T14:45:46Z"
-        },
-        {
-            "title": "Swan Song Opens Its Music Box With an Updated Demo and Trailer",
-            "description": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-            "url": "https://www.gamespress.com/en-GB/Swan-Song-Opens-Its-Music-Box-With-an-Updated-Demo-and-Trailer",
-            "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/02/172017-95db80d8/Swan_Song_1920X1080_key_art.jpg?w=360&mode=max&otf=y&quality=90&format=jpg&bgcolor=white&sky=93f246dd5cfd6230b9a86ce5050d5c0cdbe955d0c20618ea12d1fe7168b2a77f",
-            "publishedAt": "2026-02-18T14:45:46Z"
-        },
-        {
-            "title": "AsteroidOS 2.0 Brings an Open, Linux-Based Replacement OS to More Smartwatches Than Ever",
-            "description": "New release brings with it performance improvements, always-on display support, new apps, and broader support.",
-            "url": "https://www.hackster.io/news/asteroidos-2-0-brings-an-open-linux-based-replacement-os-to-more-smartwatches-than-ever-c0a9cc6d7d1b",
-            "image": "https://hackster.imgix.net/uploads/attachments/1930800/_o6KEtqmb9D.blob?auto=compress%2Cformat&w=600&h=450&fit=min",
-            "publishedAt": "2026-02-18T14:45:07Z"
-        },
-        {
-            "title": "Sony Plans To Minimize PlayStation 5 Hardware Price Increases By Focusing On \"Monetizing\" Existing Installed Base",
-            "description": "According to the Sony CFO, the company plans to minimize the impact RAM price will have on PlayStation 5 hardware by monetizing the existing userbase",
-            "url": "https://wccftech.com/playstation-5-price-increases-monetizing-install-base/",
-            "image": "https://cdn.wccftech.com/wp-content/uploads/2026/02/PlayStation-5-Monetizing-Existing-Users.jpg",
-            "publishedAt": "2026-02-18T14:45:00Z"
-        },
-        {
-            "title": "Microsoft says Office bug exposed customers' confidential emails to Copilot AI",
-            "description": "Microsoft said the bug meant that its Copilot AI chatbot was reading and summarizing paying customers' confidential emails, bypassing data protection policies.",
-            "url": "https://techcrunch.com/2026/02/18/microsoft-says-office-bug-exposed-customers-confidential-emails-to-copilot-ai/",
-            "image": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2041281128-e1712563728365.jpg?resize=1200,676",
-            "publishedAt": "2026-02-18T14:44:28Z"
+            "publishedAt": "2026-02-19T14:34:01Z"
         }
     ]
 }
