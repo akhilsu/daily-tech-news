@@ -1,75 +1,75 @@
 {
-    "date": "2026-02-20",
+    "date": "2026-02-21",
     "articles": [
         {
-            "title": "Xenoblade Chronicles X: Definitive Edition - Nintendo Switch 2 Edition Brings Enhanced Visuals to its Massive World, Available Today!",
+            "title": "Pahk ya Boston accent right here",
+            "description": "How are ya? A tough winter has brightened with the voices on the Globe\u2019s Boston Accent Hotline.",
+            "url": "https://www.bostonglobe.com/2026/02/20/newsletters/starting-point/",
+            "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/FDFD7ZFPTKBMHM7SIZRUEPSUXU.jpg?auth=0317ac4c2c5268e1d0c600e74e477f4db2c93c2552be54e7bdd46ec3a8958293&width=1440",
+            "publishedAt": "2026-02-20T14:36:43Z"
+        },
+        {
+            "title": "Automata Might Finally Get A Sequel",
+            "description": "The action-RPG might finally get a sequel",
+            "url": "https://kotaku.com/nier-automata-3-sequel-square-enix-yoko-taro-2000671960",
+            "image": "https://kotaku.com/app/uploads/2026/02/nier-automata-1200x675.jpg",
+            "publishedAt": "2026-02-20T14:36:06Z"
+        },
+        {
+            "title": "Mackenzie-Childs Is Launching Hair Accessories at Target",
+            "description": "From Courtly Check to claw clips, the beloved heritage brand is teaming up with Goody and Wet Brush on a limited-edition collection starting at $9.99.",
+            "url": "https://sg.news.yahoo.com/mackenzie-childs-launching-hair-accessories-143600105.html",
+            "image": "https://s.yimg.com/ny/api/res/1.2/b3LQlInS.BtEE2KzoGDG.A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/woman_s_day_132/2a322e909cdc81bc6336e898c5ed4aca",
+            "publishedAt": "2026-02-20T14:36:00Z"
+        },
+        {
+            "title": "New RTX 5090 Ti hints at minor spec bump with a notable increase in power consumption",
+            "description": "Moore\u2019s Law is Dead has acquired new information about Nvidia\u2019s upcoming flagship graphics card. The RTX 5090 Ti/ Blackwell Titan is only marginally faster than the RTX 5090, but it conumes remarkably more power.",
+            "url": "https://www.notebookcheck.net/New-RTX-5090-Ti-hints-at-minor-spec-bump-with-a-notable-increase-in-power-consumption.1230880.0.html",
+            "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/titan-blackwell.jpg",
+            "publishedAt": "2026-02-20T14:35:00Z"
+        },
+        {
+            "title": "Tuesday\u2019s triangle in Taurus",
+            "description": "On Tuesday night, just after dinner, step outside and look east. The Moon will be at first quarter, half illuminated, as though someone has taken a...",
+            "url": "https://www.odt.co.nz/lifestyle/magazine/tuesday%E2%80%99s-triangle-taurus",
+            "image": "https://www.odt.co.nz/sites/default/files/styles/odt_story_opengraph_1200w/public/story/2026/02/skywatch-15-march-2025.jpg?itok=YgTqi4rb",
+            "publishedAt": "2026-02-20T14:30:00Z"
+        },
+        {
+            "title": "Quantum Circuits Bypass Scaling Limits With New Design",
+            "description": "Researchers have developed a novel quantum circuit architecture, the Multi-Layer Fully-Connected VQC, which achieves linear scalability and outperforms classical machine learning models on a complex 300-asset option portfolio pricing task through end-to-end learning without classical feature compression.",
+            "url": "https://quantumzeitgeist.com/quantum-circuits-bypass-scaling-limits/",
+            "image": "https://quantumzeitgeist.com/wp-content/uploads/Image_fx-31-47.jpg",
+            "publishedAt": "2026-02-20T14:28:17Z"
+        },
+        {
+            "title": "Call of Duty and PlayStation 5 Lead U.S. Video Game Sales in a Quiet January",
+            "description": "Final Fantasy 7's multiplatform release had a pretty good month too.",
+            "url": "https://in.ign.com/call-of-duty-black-ops-7/253793/news/call-of-duty-and-playstation-5-lead-us-video-game-sales-in-a-quiet-january",
+            "image": "https://sm.ign.com/t/ign_in/news/c/call-of-du/call-of-duty-and-playstation-5-lead-us-video-game-sales-in-a_p9v8.1200.jpg",
+            "publishedAt": "2026-02-20T14:26:15Z"
+        },
+        {
+            "title": "Navigate Smarter: 25 Google Maps Secrets I Swear By When Traveling",
+            "description": "Google Maps now requires you to sign in to get all the perks, but it's probably worth it. Use these tips to remember parking spots, access maps offline, share your location, and more.",
+            "url": "https://www.pcmag.com/explainers/google-maps-secret-tips-i-swear-by-when-traveling",
+            "image": "https://i.pcmag.com/imagery/articles/05S06CtzfbOKjiM7I8ubEpy-1.fit_lim.size_1200x630.v1771540565.jpg",
+            "publishedAt": "2026-02-20T14:26:07Z"
+        },
+        {
+            "title": "Ocean Pop! : Calypso Collision In Steam Next Fest",
             "description": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-            "url": "https://www.gamespress.com/en-GB/Xenoblade-Chronicles-X-Definitive-Edition-Nintendo-Switch-2-Edition-Br",
-            "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/02/191441-8b970afb/XenobladeXDE_SW2_image007.png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=df37fda2135261494d652b77ed705cd709e5a6459542399c87d55893e4aaebf8",
-            "publishedAt": "2026-02-19T14:44:03Z"
+            "url": "https://www.gamespress.com/en-GB/Ocean-Pop-Calypso-Collision-In-Steam-Next-Fest",
+            "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/02/061407-efafe7be/OPCC_STEAM_MAIN_CAPSULE.png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=6bdc7b82b9e9a9179635241860a867a5917e60160fed92163d533fe80e58db05",
+            "publishedAt": "2026-02-20T14:23:44Z"
         },
         {
-            "title": "Co-founders behind Reface and Prisma join hands to improve on-device model inference with Mirai",
-            "description": "Mirai raised a $10 million seed to improve how AI models run on devices like smartphones and laptops.",
-            "url": "https://techcrunch.com/2026/02/19/co-founders-behind-reface-and-prisma-join-hands-to-improve-on-device-model-inference-with-mirai/",
-            "image": "https://techcrunch.com/wp-content/uploads/2026/02/mirai-logo2.png?resize=1200,675",
-            "publishedAt": "2026-02-19T14:43:58Z"
-        },
-        {
-            "title": "What is Raya? All about the 'exclusive' dating app",
-            "description": "What is Raya? And other FAQs about the dating app, answered",
-            "url": "https://mashable.com/article/what-is-raya-dating-app",
-            "image": "https://helios-i.mashable.com/imagery/articles/012BWz9KD7snKXk9GOS7Jci/hero-image.fill.size_1200x675.v1771447462.jpg",
-            "publishedAt": "2026-02-19T14:41:06Z"
-        },
-        {
-            "title": "Samsung moves to prevent leaks for Galaxy S27 lineup",
-            "description": "Samsung smartphones are possibly some of the most-leaked products in the world. The company is reportedly implementing measures to stop the public from obtaining details about the features and design of the next Galaxy flagship six months ahead of its launch \u2013 just in time for the Galaxy S27 leak season.",
-            "url": "https://www.notebookcheck.net/Samsung-moves-to-prevent-leaks-for-Galaxy-S27-lineup.1230141.0.html",
-            "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Galaxy-S27-Samsung-ergreift-Massnahmen-gegen-Leaks.jpg",
-            "publishedAt": "2026-02-19T14:41:00Z"
-        },
-        {
-            "title": "Samsung\u2019s 40\" Smart TV (2025) Now Matches Its Black Friday Low, Priced Like a No-Name TV",
-            "description": "This TV has plenty of features and is 25% off.",
-            "url": "https://gizmodo.com/samsungs-40-smart-tv-2025-now-matches-its-black-friday-low-priced-like-a-no-name-tv-2000723341",
-            "image": "https://gizmodo.com/app/uploads/2026/02/tv-deal-1200x675.jpg",
-            "publishedAt": "2026-02-19T14:40:22Z"
-        },
-        {
-            "title": "Bubble-Bouncing Precision Platformer Bobls Launches Full Level Editor and Co-Op Campaign Demo",
-            "description": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-            "url": "https://www.gamespress.com/Bubble-Bouncing-Precision-Platformer-Bobls-Launches-Full-Level-Editor-",
-            "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
-            "publishedAt": "2026-02-19T14:39:03Z"
-        },
-        {
-            "title": "All aboard for the Port of Jumanah!",
-            "description": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-            "url": "https://www.gamespress.com/All-aboard-for-the-Port-of-Jumanah",
-            "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/02/191402-7d35529e/poj_keyart_landscape_-_Copy.png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=74611caf7571e4f32f43cf9d861f39f3c72a05a31ef3a38b4d2e8e8243174cc0",
-            "publishedAt": "2026-02-19T14:39:03Z"
-        },
-        {
-            "title": "The Galaxy S26 pricing saga is getting out of hand, and there's no one to blame but Samsung",
-            "description": "Is anyone else more bothered by Samsung's indecision than the actual S26 series price hikes at this point?",
-            "url": "https://www.phonearena.com/news/galaxy-s26-pricing-saga-getting-out-of-hand-no-one-to-blame-but-samsung-editorial_id178326",
-            "image": "https://m-cdn.phonearena.com/images/article/178326-wide-two_1200/The-Galaxy-S26-pricing-saga-is-getting-out-of-hand-and-theres-no-one-to-blame-but-Samsung.jpg",
-            "publishedAt": "2026-02-19T14:35:55Z"
-        },
-        {
-            "title": "Video games are losing the \"attention war\" to gambling, porn, and crypto, according to industry report",
-            "description": "A new industry report from Epyllion has broken down the video games industry's battle in the attention economy, which it is struggling with.",
-            "url": "https://www.eurogamer.net/video-games-are-losing-the-attention-war-to-gambling-porn-and-crypto-according-to-industry-report",
-            "image": "https://assetsio.gnwcdn.com/HD-GI.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-            "publishedAt": "2026-02-19T14:34:16Z"
-        },
-        {
-            "title": "Shai Matheson and Devora Wilde to Host the Future Games Show Spring Showcase Powered By HyperX on March 12",
-            "description": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-            "url": "https://www.gamespress.com/Shai-Matheson-and-Devora-Wilde-to-Host-the-Future-Games-Show-Spring-Sh",
-            "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
-            "publishedAt": "2026-02-19T14:34:01Z"
+            "title": "Apple's First Foldable iPhone Set to Launch in September 2026",
+            "description": "Apple plans to launch its first foldable iPhone, expected to debut in September 2026, with new design and features.",
+            "url": "https://thecsrjournal.in/apples-first-foldable-iphone-set-to-launch-in-september-2026/",
+            "image": "https://thecsrjournal.in/wp-content/uploads/2026/02/Apple-iPhone-Fold.jpg",
+            "publishedAt": "2026-02-20T14:21:41Z"
         }
     ]
 }
