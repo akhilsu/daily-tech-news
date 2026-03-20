@@ -1,75 +1,75 @@
 {
-    "date": "2026-03-19",
+    "date": "2026-03-20",
     "articles": [
         {
-            "title": "New GoPro GP3 Image Sensor Could Power Next",
-            "description": "GoPro has released a teaser showcasing the GP3 Image Sensor, hinting at improved video performance, AI processing, and next-generation camera capabilities.",
-            "url": "https://www.imaging-resource.com/news/new-gopro-gp3-image-sensor-could-power-next-gen-cameras/",
-            "image": "https://media.imaging-resource.com/2026/03/18143507/gopro-gp3-sensor.jpg",
-            "publishedAt": "2026-03-18T14:51:22Z"
+            "title": "DarkSword: Researchers uncover another iOS exploit kit",
+            "description": "DarkSword is an iOS exploit toolkit used since late 2025 to hack iPhones via zero-day flaws and steal sensitive data and cryptocurrency.",
+            "url": "https://www.helpnetsecurity.com/2026/03/19/darksword-ios-exploit-iphone/",
+            "image": "https://img.helpnetsecurity.com/wp-content/uploads/2025/08/13155936/apple_ios-1500.webp",
+            "publishedAt": "2026-03-19T14:41:49Z"
         },
         {
-            "title": "Sony 55-inch OLED slides back to its lowest price again",
-            "description": "If you're upgrading to OLED for unbeatable contrast in dark rooms or want a TV that pairs perfectly with a PlayStation 5, the Sony 55 Inch BRAVIA XR8B",
-            "url": "https://www.wepc.com/news/sony-55-inch-oled-slides-back-to-its-lowest-price-again/",
-            "image": "https://www.wepc.com/wp-content/uploads/2026/03/Sony-55-Inch-OLED-slides-back-to-its-lowest-price-once-again.jpg",
-            "publishedAt": "2026-03-18T14:51:03Z"
+            "title": "Telnet vulnerability opens door to remote code execution as root",
+            "description": "The flaw in a legacy Telnet implementation enables pre-auth remote code execution, exposing affected systems to full compromise.",
+            "url": "https://www.networkworld.com/article/4147679/telnet-vulnerability-opens-door-to-remote-code-execution-as-root-2.html",
+            "image": "https://www.networkworld.com/wp-content/uploads/2026/03/4147679-0-96034200-1773931265-ethernetalert.jpg?quality=50&strip=all&w=1024",
+            "publishedAt": "2026-03-19T14:41:14Z"
         },
         {
-            "title": "Quack?! Duck Side of the Moon Takes Flight on PC & Nintendo Switch, May 7th!",
+            "title": "Critically-Acclaimed Kena: Bridge of Spirits Arrives on Nintendo Switch\u2122 2 This March",
             "description": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-            "url": "https://www.gamespress.com/Quack-Duck-Side-of-the-Moon-Takes-Flight-on-PC-Nintendo-Switch-May-7th",
-            "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/03/171520-59e50e38/Duck_Side_of_the_Moon_Key_Art_1920x1080.jpg?w=360&mode=max&otf=y&quality=90&format=jpg&bgcolor=white&sky=7ae6ac1b80686eb1cc02a96ed30f963e2681c79dc26dc8540c61127abf1b4135",
-            "publishedAt": "2026-03-18T14:46:09Z"
+            "url": "https://www.gamespress.com/Critically-Acclaimed-Kena-Bridge-of-Spirits-Arrives-on-Nintendo-Switch",
+            "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2020/06/11230754-6be1ef71-a2a9-4b17-a004-9030e127520f/Kena_BOS_GameArt.jpg?w=360&mode=max&otf=y&quality=90&format=jpg&bgcolor=white&sky=3cfad7baf8962d973001483bf445a012c1e80eb1cf27c34e6e86770c5e3e8c92",
+            "publishedAt": "2026-03-19T14:38:38Z"
         },
         {
-            "title": "Value meets quality: Why the Samsung Galaxy S26 series stands out on T-Mobile",
-            "description": "This article is sponsored by T-Mobile",
-            "url": "https://www.androidpolice.com/the-samsung-galaxy-s26-series-stands-out-on-t-mobile/",
-            "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/03/a-group-of-friends-enjoying-a-summer-festival-with-their-smartphones-1920-x-1080.png?w=1600&h=900&fit=crop",
-            "publishedAt": "2026-03-18T14:43:09Z"
-        },
-        {
-            "title": "Merrell 1TRL trades the trail for Shoreditch to launch Moab Slide Woven",
-            "description": "The outdoor shoewear brand welcomed its latest drop with a special night at East London\u2019s Oranj",
-            "url": "https://www.dazeddigital.com/fashion/article/69899/1/merrell-1trl-trades-the-trail-for-shoreditch-to-launch-moab-slide-woven",
-            "image": "https://images-prod.dazeddigital.com/1200/0-604-1772-1181/azure/dazed-prod/1440/1/1441508.jpg",
-            "publishedAt": "2026-03-18T14:43:00Z"
-        },
-        {
-            "title": "Best Amazon Big Spring Sale Apple Watch deals 2026: Save on Series 11 and SE 3 models",
-            "description": "Check out the best early Apple Watch deals to shop ahead of Amazon's 2026 Big Spring Sale, including deals on Series 11 and SE 3 models.",
-            "url": "https://mashable.com/article/best-amazon-spring-sale-apple-watch-deals-2026",
-            "image": "https://helios-i.mashable.com/imagery/articles/00SEWch5Bdnpq34lLRKAF6z/hero-image.fill.size_1200x675.v1773825400.jpg",
-            "publishedAt": "2026-03-18T14:42:52Z"
-        },
-        {
-            "title": "A radical new way to alkylate aromatic rings",
-            "description": "Chemists made a photocatalytic discovery when their control reaction led to an unexpected product",
-            "url": "https://cen.acs.org/synthesis/catalysis/synthesis-friedel-crafts/104/web/2026/03",
-            "image": "https://s7d1.scene7.com/is/image/CENODS/Anti-friedel-crafts-reaction---390541:Widescreen?$responsive$&qlt=90,0&resMode=sharp2&fmt=webp",
-            "publishedAt": "2026-03-18T14:41:49Z"
-        },
-        {
-            "title": "Nordcurrent Labs Unveils Defender of the Crown: The Legend Returns at Future Games Show",
+            "title": "Critically-Acclaimed Kena: Bridge of Spirits Arrives on Nintendo Switch\u2122 2 This March",
             "description": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-            "url": "https://www.gamespress.com/Nordcurrent-Labs-Unveils-Defender-of-the-Crown-The-Legend-Returns-at-F",
-            "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/03/121145-417149c0/BTB_DOTC_KeyArt.png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=e5e535d6b16e65af04ea107d17477efa5b839c0b8ec849a8f5cc3b03b8f46434",
-            "publishedAt": "2026-03-18T14:41:08Z"
+            "url": "https://www.gamespress.com/en-GB/Critically-Acclaimed-Kena-Bridge-of-Spirits-Arrives-on-Nintendo-Switch",
+            "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2020/06/11230754-6be1ef71-a2a9-4b17-a004-9030e127520f/Kena_BOS_GameArt.jpg?w=360&mode=max&otf=y&quality=90&format=jpg&bgcolor=white&sky=3cfad7baf8962d973001483bf445a012c1e80eb1cf27c34e6e86770c5e3e8c92",
+            "publishedAt": "2026-03-19T14:38:38Z"
         },
         {
-            "title": "iPhone 18 Pro Launching Later This Year With These 12 New Features",
-            "description": "While the iPhone 18 Pro and iPhone 18 Pro Max are not expected to launch for another six months or so, there are already plenty of rumors about the devices. It was initially reported that the iPhone 18 Pro models would have fully under-screen Face ID, with only a front camera visible in the top-left corner of the screen. However, the latest rumors indicate that only one Face ID component will be moved under the screen on the devices, which will result in merely a smaller Dynamic Island.",
-            "url": "https://www.macrumors.com/2026/03/18/iphone-18-pro-rumors-features-list/",
-            "image": "https://images.macrumors.com/t/lYf14IFj-_I1liH_JpkCoQvPBPw=/2500x/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
-            "publishedAt": "2026-03-18T14:39:59Z"
-        },
-        {
-            "title": "Mumblecore narrative game In Their Shoes launches today",
+            "title": "Nintendo Download: From the Diamond to Deadzone",
             "description": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-            "url": "https://www.gamespress.com/Mumblecore-narrative-game-In-Their-Shoes-launches-today",
+            "url": "https://www.gamespress.com/Nintendo-Download-From-the-Diamond-to-Deadzone",
+            "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2018/11/29154912-a82199c5-035c-40de-a3d3-55fcc2c9680c/nintendo-logo.png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=c592b1ebbe9148d0acb10affa72008d947ec4ef97c7d99858a5e480681ae1712",
+            "publishedAt": "2026-03-19T14:38:38Z"
+        },
+        {
+            "title": "Bone-rattling Auto-battling Dungeon Crawler \u2018Skull Horde\u2019 Launches April 10 on PC",
+            "description": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+            "url": "https://www.gamespress.com/Bone-rattling-Auto-battling-Dungeon-Crawler-Skull-Horde-Launches-April",
             "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
-            "publishedAt": "2026-03-18T14:37:30Z"
+            "publishedAt": "2026-03-19T14:38:38Z"
+        },
+        {
+            "title": "Shenmue III Enhanced",
+            "description": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+            "url": "https://www.gamespress.com/en-US/Shenmue-III-Enhanced",
+            "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/03/191323-35d903e6/SM3_Enhanced_Logo.png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=cb821ad6f16b6fcf83eadf1c5c29e831b08909a555c42f4c3a3c58f7c20e88b4",
+            "publishedAt": "2026-03-19T14:38:38Z"
+        },
+        {
+            "title": "LeBron\u2019s Easy, Like Sunday Morning, for Beats by Dre x Nike",
+            "description": "LeBron James and Lionel Richie\u2014that sounds like a duo that could shake things up real good.",
+            "url": "https://musebyclios.com/music/lebrons-easy-like-sunday-morning-for-beats-by-dre-x-nike/",
+            "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/03/19104457/beats-2.jpg",
+            "publishedAt": "2026-03-19T14:35:17Z"
+        },
+        {
+            "title": "The iPhone 17e proves MagSafe charging speeds don't matter",
+            "description": "The 17e takes an hour longer to charge wirelessly than the 17. But I don't care.",
+            "url": "https://www.macworld.com/article/3093516/the-iphone-17e-proves-magsafe-charging-speeds-dont-matter.html",
+            "image": "https://www.macworld.com/wp-content/uploads/2026/03/Apple-iPhone-17e-review-2.jpg?quality=50&strip=all&w=1024",
+            "publishedAt": "2026-03-19T14:35:00Z"
+        },
+        {
+            "title": "Expedience Software Joins Microsoft AI Cloud Partner Program to Deliver Copilot-Powered Proposal Automation in Microsoft Word",
+            "description": "Expedience Software, proposal automation solutions for Microsoft Word, announced that it has joined the Microsoft AI Cloud Partner Program",
+            "url": "https://aithority.com/it-and-devops/cloud/expedience-software-joins-microsoft-ai-cloud-partner-program-to-deliver-copilot-powered-proposal-automation-in-microsoft-word/",
+            "image": "https://aithority.com/wp-content/uploads/2026/03/mlb-3d-rendering-artificial-inte-1.jpg",
+            "publishedAt": "2026-03-19T14:33:59Z"
         }
     ]
 }
