@@ -1,75 +1,75 @@
 {
-    "date": "2026-03-28",
+    "date": "2026-03-29",
     "articles": [
         {
-            "title": "Apple has finally discontinued the Mac Pro desktop after years of fitful effort",
-            "description": "M2 Ultra Mac Pro is no longer for sale, and Apple says no replacement is planned.",
-            "url": "https://arstechnica.com/gadgets/2026/03/apple-has-finally-discontinued-the-mac-pro-desktop-after-years-of-fitful-effort/",
-            "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/Mac-Pro-main-view-scaled-1-1152x648-1774591771.jpg",
-            "publishedAt": "2026-03-27T14:47:03Z"
+            "title": "Google's new Gemini API Agent Skill patches the knowledge gap AI models have with their own SDKs",
+            "description": "AI models don't know about their own updates after training. Google's new \"Agent Skill\" shows how a simple fix can dramatically improve coding results.",
+            "url": "https://the-decoder.com/googles-new-gemini-api-agent-skill-patches-the-knowledge-gap-ai-models-have-with-their-own-sdks/",
+            "image": "https://the-decoder.com/wp-content/uploads/2026/03/Gemini_API_Skills_Banner_v2.original-scaled.png",
+            "publishedAt": "2026-03-28T15:22:44Z"
         },
         {
-            "title": "PlayStation Raises Price of PS5 to $650 in U.S.",
-            "description": "PlayStation will increase the price of its PS5 gaming console in the U.S. to $650 beginning April 2, part of a global price hike across several Sony products.",
-            "url": "https://variety.com/2026/gaming/news/playstation-raises-price-ps5-650-1236701463/",
-            "image": "https://variety.com/wp-content/uploads/2023/08/amazon-ps5-deal.jpg?w=1000&h=563&crop=1",
-            "publishedAt": "2026-03-27T14:43:00Z"
+            "title": "The Macbook Neo proves Qualcomm made a critical error with its newest Snapdragon chips",
+            "description": "Not one, but three flagship chips want your attention. Not all of them deserve it",
+            "url": "https://www.androidpolice.com/the-macbook-neo-proves-qualcomm-made-a-critical-error-with-its-newest-snapdragon-chips/",
+            "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2024/09/qualcomm-generic-4-newapwatermark-1.jpg?w=1600&h=900&fit=crop",
+            "publishedAt": "2026-03-28T15:15:10Z"
         },
         {
-            "title": "Buy Now: PlayStation 5 Price Increasing by Up to $150, Starting Next Week",
-            "description": "It's the second price increase for the PlayStation consoles after an initial price bump in August. Sony blames 'continued pressures in the global economic landscape.'",
-            "url": "https://au.pcmag.com/gaming-systems/116796/buy-now-playstation-5-price-increasing-by-up-to-150-starting-next-week",
-            "image": "https://sm.pcmag.com/t/pcmag_au/news/b/buy-now-pl/buy-now-playstation-5-price-increasing-by-up-to-150-starting_vd73.1200.jpg",
-            "publishedAt": "2026-03-27T14:40:47Z"
+            "title": "Slay the Spire 2 beta patch rolls back some prior changes following player feedback",
+            "description": "Slay the Spire 2 has pushed out another beta patch, reverting a number of changes the prior patch introduced, including\u2026",
+            "url": "https://www.eurogamer.net/slay-the-spire-2-beta-patch-rolls-back-some-prior-changes-following-player-feedback",
+            "image": "https://assetsio.gnwcdn.com/slay-the-spire-2_48A4LJT.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "publishedAt": "2026-03-28T15:11:12Z"
         },
         {
-            "title": "Sony announces global price rises for PS5 consoles from April 2, 2026",
-            "description": "Cost of base and digital consoles rise by $100, while PS5 Pro experiences $150 increase",
-            "url": "https://www.gamesindustry.biz/sony-announces-global-price-rises-for-ps5-consoles-from-april-2-2026",
-            "image": "https://assetsio.gnwcdn.com/PS5-Pro---Tokyo-Game-Show.JPG?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-            "publishedAt": "2026-03-27T14:40:26Z"
+            "title": "Are hashtags dead? Experts say AI is replacing them",
+            "description": "Hashtags are losing relevance as AI reshapes content discovery. Learn what marketers should focus on instead.",
+            "url": "https://www.contentgrip.com/hashtags-vs-ai-content-discovery-shift/",
+            "image": "https://www.contentgrip.com/content/images/size/w1200/2026/03/Are-hashtags-dead-Industry-leaders-explain-why-AI-is-replacing-them-in-content-discovery.webp",
+            "publishedAt": "2026-03-28T15:04:44Z"
         },
         {
-            "title": "Galaxy phones are getting AirDrop support now",
-            "description": "Samsung has figured out a way to add AirDrop to the Galaxy series, and it isn\u2019t some finicky workaround \u2013...",
-            "url": "https://9to5google.com/how-to-airdrop-with-samsung-galaxy/",
-            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/samsung-airdrop.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-            "publishedAt": "2026-03-27T14:40:21Z"
+            "title": "Smartphone Data for Early IPAH Detection",
+            "description": "Can smartphone data detect idiopathic pulmonary arterial hypertension earlier? New research suggests digital tools could transform screening. Read more.",
+            "url": "https://www.emjreviews.com/cardiology/news/smartphone-data-shows-promise-for-early-ipah-detection/",
+            "image": "https://www.emjreviews.com/wp-content/uploads/2026/03/3pm-Cardio-2.jpg",
+            "publishedAt": "2026-03-28T15:04:31Z"
         },
         {
-            "title": "Google unveils Lyria 3 Pro with extended AI music generation capabilities",
-            "description": "Google has announced an upgraded version of its AI music generation system, introducing Lyria 3 Pro, a model designed to create longer and more structured tracks compared with its predecessor released only weeks earlier.",
-            "url": "https://www.musicinafrica.net/magazine/google-unveils-lyria-3-pro-extended-ai-music-generation-capabilities",
-            "image": "https://www.musicinafrica.net/sites/default/files/images/article/202603/francoiskadjandproducer.jpg",
-            "publishedAt": "2026-03-27T14:38:44Z"
+            "title": "Texas Showdown 2026 early results, stream ft. MenaRD, SonicFox, Saint, Bleed, KingReyJr, Anakin, JoeCrush, Coosco, Inzem, Incendiate, Big Mo and more",
+            "description": "Update: This story has been updated with day 1 results.This weekend is the 25th anniversary of Texas Showdown with its 2026 installment taking place in Houston, Texas, U.S.A.Notable players attending include WBG|MenaRD, SonicFox, Z10|Saint ...",
+            "url": "https://www.eventhubs.com/news/2026/mar/26/texas-showdown-2026-results/",
+            "image": "https://media.eventhubs.com/images/2026/03/27_texasbannert.webp",
+            "publishedAt": "2026-03-28T15:01:29Z"
         },
         {
-            "title": "Xtra Edge Launches as a Lightweight Action Camera with 4K, Stabilization, and Sub-$200 Spring Pricing",
-            "description": "Xtra has introduced the Xtra Edge, a lightweight action camera that combines 4K capture, Hyper stabilization, waterproof performance, and sub-$200 spring pricing for travel, cycling, and everyday adventure",
-            "url": "https://www.manilatimes.net/2026/03/27/tmt-newswire/globenewswire/xtra-edge-launches-as-a-lightweight-action-camera-with-4k-stabilization-and-sub-200-spring-pricing/2309496",
-            "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/03/27/991679.jpg",
-            "publishedAt": "2026-03-27T14:38:30Z"
+            "title": "These U.S. States Plan to Offer iPhone's Driver's License Feature",
+            "description": "In select U.S. states, residents can add their driver's license or state ID to the Apple Wallet app on the iPhone and Apple Watch, and then use it to display proof of identity or age at select airports and businesses, and in select apps. The feature is currently available in 13 U.S. states and Puerto Rico, and it is expected to launch in at least seven more in the future. To set up the feature, open the Wallet app and tap on the plus sign in the top-right corner.",
+            "url": "https://www.macrumors.com/2026/03/28/future-iphone-drivers-license-states/",
+            "image": "https://images.macrumors.com/t/LzqpdH2debz2nl21zYgkA777-80=/2500x/article-new/2024/04/apple-wallet-drivers-license-feature-iPhone-15-pro.jpg",
+            "publishedAt": "2026-03-28T15:01:00Z"
         },
         {
-            "title": "Sony raises PS5 price by \u00a390 in the UK",
-            "description": "The changes will see the recommended retail price of the PS5 rise from \u00a3479.99 to \u00a3569.99 in the UK.",
-            "url": "https://www.bbc.co.uk/news/articles/czx9852nkexo",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d201/live/6d2be880-29f0-11f1-81d4-f1e3c77fafb4.jpg",
-            "publishedAt": "2026-03-27T14:38:03Z"
+            "title": "First Western Digital, now Sony: The tech giant suspends SD card sales",
+            "description": "A sign of the times.",
+            "url": "https://sea.mashable.com/tech/43409/first-western-digital-now-sony-the-tech-giant-suspends-sd-card-sales",
+            "image": "https://sm.mashable.com/t/mashable_sea/article/f/first-west/first-western-digital-now-sony-the-tech-giant-suspends-sd-ca_m8ga.1200.jpg",
+            "publishedAt": "2026-03-28T15:00:52Z"
         },
         {
-            "title": "Eddie AI Updates Released - Visit Their Booth at NAB 2026",
-            "description": "Eddie AI will demo its timeline\u2011based editing workflow at NAB 2026. Here\u2019s where to find them and what\u2019s new.",
-            "url": "https://www.cined.com/eddie-ai-updates-released-visit-their-booth-at-nab-2026/",
-            "image": "https://www.cined.com/content/uploads/2026/03/Untitled-1-8.jpeg",
-            "publishedAt": "2026-03-27T14:37:30Z"
+            "title": "USB-C is falling into the same trap as HDMI",
+            "description": "USB-C is on a slippery slope alongside HDMI.",
+            "url": "https://www.pocket-lint.com/usb-c-hdmi-problem/",
+            "image": "https://static0.pocketlintimages.com/wordpress/wp-content/uploads/wm/2025/08/macbook-pro-usb-c.jpg?w=1600&h=900&fit=crop",
+            "publishedAt": "2026-03-28T15:00:19Z"
         },
         {
-            "title": "How to Factory Reset iPhone Without Apple ID Password",
-            "description": "An iPhone that\u2019s tied to an Apple ID you can\u2019t access puts you in a difficult spot, especially when a factory reset requires that password. This often happens",
-            "url": "https://www.tech-critter.com/how-to-factory-reset-iphone-without-apple-id-password/",
-            "image": "https://www.tech-critter.com/wp-content/uploads/2026/03/image-10.webp",
-            "publishedAt": "2026-03-27T14:36:35Z"
+            "title": "Your SSD's manufacturer gave you a free tool that's better than anything Microsoft offers",
+            "description": "You already own the best SSD tool, you just never installed it",
+            "url": "https://www.makeuseof.com/ssds-manufacturer-gave-free-tool/",
+            "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/02/samsung-t9-portable-ssd.jpg?w=1600&h=900&fit=crop",
+            "publishedAt": "2026-03-28T15:00:18Z"
         }
     ]
 }
