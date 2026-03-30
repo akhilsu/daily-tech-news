@@ -1,75 +1,75 @@
 {
-    "date": "2026-03-29",
+    "date": "2026-03-30",
     "articles": [
         {
-            "title": "Google's new Gemini API Agent Skill patches the knowledge gap AI models have with their own SDKs",
-            "description": "AI models don't know about their own updates after training. Google's new \"Agent Skill\" shows how a simple fix can dramatically improve coding results.",
-            "url": "https://the-decoder.com/googles-new-gemini-api-agent-skill-patches-the-knowledge-gap-ai-models-have-with-their-own-sdks/",
-            "image": "https://the-decoder.com/wp-content/uploads/2026/03/Gemini_API_Skills_Banner_v2.original-scaled.png",
-            "publishedAt": "2026-03-28T15:22:44Z"
+            "title": "Apple Preparing 'Most Significant Overhaul in the iPhone's History'",
+            "description": "Bloomberg's Mark Gurman has high expectations for Apple's first foldable iPhone. In his Power On newsletter today, he said the foldable iPhone will be \"the most significant overhaul in the iPhone's history\". \"iPhone 4, iPhone 6 and iPhone X were clearly a big deal, but this is a whole new design,\" he said.",
+            "url": "https://www.macrumors.com/2026/03/29/biggest-iphone-overhaul-ever-rumor/",
+            "image": "https://images.macrumors.com/t/eWEIWALXdBnURstsWvQt_kFYs58=/2091x/article-new/2025/09/iphone-17-pro-dark-blue-1.jpg",
+            "publishedAt": "2026-03-29T15:18:47Z"
         },
         {
-            "title": "The Macbook Neo proves Qualcomm made a critical error with its newest Snapdragon chips",
-            "description": "Not one, but three flagship chips want your attention. Not all of them deserve it",
-            "url": "https://www.androidpolice.com/the-macbook-neo-proves-qualcomm-made-a-critical-error-with-its-newest-snapdragon-chips/",
-            "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2024/09/qualcomm-generic-4-newapwatermark-1.jpg?w=1600&h=900&fit=crop",
-            "publishedAt": "2026-03-28T15:15:10Z"
+            "title": "Scientists break lignin\u2019s strongest bonds to turn wood waste into fuel",
+            "description": "From lab models to real biomass, this process shows how lignin can be efficiently turned into valuable chemical products.",
+            "url": "https://interestingengineering.com/science/lignin-bonds-wood-waste-valuable-fuel",
+            "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/03/lignin-breakdown.jpg",
+            "publishedAt": "2026-03-29T15:16:00Z"
         },
         {
-            "title": "Slay the Spire 2 beta patch rolls back some prior changes following player feedback",
-            "description": "Slay the Spire 2 has pushed out another beta patch, reverting a number of changes the prior patch introduced, including\u2026",
-            "url": "https://www.eurogamer.net/slay-the-spire-2-beta-patch-rolls-back-some-prior-changes-following-player-feedback",
-            "image": "https://assetsio.gnwcdn.com/slay-the-spire-2_48A4LJT.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-            "publishedAt": "2026-03-28T15:11:12Z"
+            "title": "Aqara Smart Lock U400 Review: Hands-free Unlocking at Its Best",
+            "description": "Aqara\u2019s newest smart lock gets universal tap-to-unlock, but only iPhones and Apple Watches let you skip that step and just walk on in.",
+            "url": "https://gizmodo.com/aqara-smart-lock-u400-review-hands-free-unlocking-at-its-best-2000735549",
+            "image": "https://gizmodo.com/app/uploads/2026/03/aqara-smart-lock-u400-review-1-1200x675.jpg",
+            "publishedAt": "2026-03-29T15:00:34Z"
         },
         {
-            "title": "Are hashtags dead? Experts say AI is replacing them",
-            "description": "Hashtags are losing relevance as AI reshapes content discovery. Learn what marketers should focus on instead.",
-            "url": "https://www.contentgrip.com/hashtags-vs-ai-content-discovery-shift/",
-            "image": "https://www.contentgrip.com/content/images/size/w1200/2026/03/Are-hashtags-dead-Industry-leaders-explain-why-AI-is-replacing-them-in-content-discovery.webp",
-            "publishedAt": "2026-03-28T15:04:44Z"
+            "title": "Xbox, Now's The Perfect Time To Put This Brilliant Last-Gen COD On Game Pass",
+            "description": "It's exploded in popularity! - So far, Microsoft has been rather sporadic when it comes to putting Call of Duty titles on Xbox Game Pass. They've committed t...",
+            "url": "https://www.purexbox.com/features/xbox-nows-the-perfect-time-to-put-this-brilliant-last-gen-cod-on-game-pass",
+            "image": "https://images.purexbox.com/96395639b1ece/large.jpg",
+            "publishedAt": "2026-03-29T15:00:00Z"
         },
         {
-            "title": "Smartphone Data for Early IPAH Detection",
-            "description": "Can smartphone data detect idiopathic pulmonary arterial hypertension earlier? New research suggests digital tools could transform screening. Read more.",
-            "url": "https://www.emjreviews.com/cardiology/news/smartphone-data-shows-promise-for-early-ipah-detection/",
-            "image": "https://www.emjreviews.com/wp-content/uploads/2026/03/3pm-Cardio-2.jpg",
-            "publishedAt": "2026-03-28T15:04:31Z"
+            "title": "How Tesla\u2019s FSD Builds a 3D World from Pixels (Part 3)",
+            "description": "How Tesla FSD Works Part 3: how FSD uses vision to build a 3D world, understanding object occupancy and road surfaces from 2D camera images.",
+            "url": "https://www.notateslaapp.com/news/2773/how-teslas-fsd-builds-a-3d-world-from-pixels-part-3",
+            "image": "https://www.notateslaapp.com/img/containers/article_images/2025/patent_fig_3a.png/d9efaf0f9389eae72504edb95ac234da/patent_fig_3a.jpg",
+            "publishedAt": "2026-03-29T15:00:00Z"
         },
         {
-            "title": "Texas Showdown 2026 early results, stream ft. MenaRD, SonicFox, Saint, Bleed, KingReyJr, Anakin, JoeCrush, Coosco, Inzem, Incendiate, Big Mo and more",
-            "description": "Update: This story has been updated with day 1 results.This weekend is the 25th anniversary of Texas Showdown with its 2026 installment taking place in Houston, Texas, U.S.A.Notable players attending include WBG|MenaRD, SonicFox, Z10|Saint ...",
-            "url": "https://www.eventhubs.com/news/2026/mar/26/texas-showdown-2026-results/",
-            "image": "https://media.eventhubs.com/images/2026/03/27_texasbannert.webp",
-            "publishedAt": "2026-03-28T15:01:29Z"
+            "title": "MetaClaw framework trains AI agents while you're in meetings by checking your Google Calendar",
+            "description": "Researchers from four US universities have built a framework that improves AI agents during operation. It checks the user's Google calendar to figure out when to train.",
+            "url": "https://the-decoder.com/metaclaw-framework-trains-ai-agents-while-youre-in-meetings-by-checking-your-google-calendar/",
+            "image": "https://the-decoder.com/wp-content/uploads/2026/03/metaclaw_calendar.png",
+            "publishedAt": "2026-03-29T14:50:21Z"
         },
         {
-            "title": "These U.S. States Plan to Offer iPhone's Driver's License Feature",
-            "description": "In select U.S. states, residents can add their driver's license or state ID to the Apple Wallet app on the iPhone and Apple Watch, and then use it to display proof of identity or age at select airports and businesses, and in select apps. The feature is currently available in 13 U.S. states and Puerto Rico, and it is expected to launch in at least seven more in the future. To set up the feature, open the Wallet app and tap on the plus sign in the top-right corner.",
-            "url": "https://www.macrumors.com/2026/03/28/future-iphone-drivers-license-states/",
-            "image": "https://images.macrumors.com/t/LzqpdH2debz2nl21zYgkA777-80=/2500x/article-new/2024/04/apple-wallet-drivers-license-feature-iPhone-15-pro.jpg",
-            "publishedAt": "2026-03-28T15:01:00Z"
+            "title": "Epic Lays Off Terminally Ill Employee Who Can't Get Life Insurance",
+            "description": "The family is asking for help as it navigates the unthinkable",
+            "url": "https://kotaku.com/epic-games-layoffs-fortnite-brain-cancer-2000682941",
+            "image": "https://kotaku.com/app/uploads/2026/03/tims.jpg",
+            "publishedAt": "2026-03-29T14:42:26Z"
         },
         {
-            "title": "First Western Digital, now Sony: The tech giant suspends SD card sales",
-            "description": "A sign of the times.",
-            "url": "https://sea.mashable.com/tech/43409/first-western-digital-now-sony-the-tech-giant-suspends-sd-card-sales",
-            "image": "https://sm.mashable.com/t/mashable_sea/article/f/first-west/first-western-digital-now-sony-the-tech-giant-suspends-sd-ca_m8ga.1200.jpg",
-            "publishedAt": "2026-03-28T15:00:52Z"
+            "title": "Microsoft Issues Critical WinRE and Setup Updates Ahead of 2026 Secure Boot Certificate Expiration",
+            "description": "Microsoft has rolled out two new dynamic updates, KB5081494 and KB5083482, designed for Windows 11 versions 24H2 and 25H2. Released on March 26, 2026, these patches deliver essential enhancements to setup binaries and the Windows Recovery Environment.",
+            "url": "https://cybersecuritynews.com/microsoft-critical-winre-update/",
+            "image": "http://cybersecuritynews.com/wp-content/uploads/2026/03/Microsoft-Critical-WinRE-Update.webp",
+            "publishedAt": "2026-03-29T14:39:06Z"
         },
         {
-            "title": "USB-C is falling into the same trap as HDMI",
-            "description": "USB-C is on a slippery slope alongside HDMI.",
-            "url": "https://www.pocket-lint.com/usb-c-hdmi-problem/",
-            "image": "https://static0.pocketlintimages.com/wordpress/wp-content/uploads/wm/2025/08/macbook-pro-usb-c.jpg?w=1600&h=900&fit=crop",
-            "publishedAt": "2026-03-28T15:00:19Z"
+            "title": "Quantum Communication Decisively Beats Classical Limits In Data Transfer",
+            "description": "For decades, a clear distinction between how efficiently quantum and classical systems could communicate has remained elusive. Now, a new result demonstrates that quantum communication can solve a specific problem with exponentially fewer resources than its classical counterpart in a restricted model. This resolves a long-standing open problem and unlocks potential advances in cryptography and distributed computing.",
+            "url": "https://quantumzeitgeist.com/quantum-communication-nof-lower-bounds/",
+            "image": "https://quantumzeitgeist.com/wp-content/uploads/quantum-communication-decisively-beats-classical-limits-in-data-transfer.jpg",
+            "publishedAt": "2026-03-29T14:35:52Z"
         },
         {
-            "title": "Your SSD's manufacturer gave you a free tool that's better than anything Microsoft offers",
-            "description": "You already own the best SSD tool, you just never installed it",
-            "url": "https://www.makeuseof.com/ssds-manufacturer-gave-free-tool/",
-            "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/02/samsung-t9-portable-ssd.jpg?w=1600&h=900&fit=crop",
-            "publishedAt": "2026-03-28T15:00:18Z"
+            "title": "Galaxy S26 phone owners in the U.S. no longer need workarounds to share files with iPhones",
+            "description": "If you own a Galaxy S26 series phone, go check your updates right now.",
+            "url": "https://www.phonearena.com/news/galaxy-s26-phone-owners-in-the-u.s.-no-longer-need-workarounds-to-share-files-with-iphones_id179249",
+            "image": "https://m-cdn.phonearena.com/images/article/179249-wide-two_1200/Galaxy-S26-phone-owners-in-the-U.S.-no-longer-need-workarounds-to-share-files-with-iPhones.jpg",
+            "publishedAt": "2026-03-29T14:32:44Z"
         }
     ]
 }
