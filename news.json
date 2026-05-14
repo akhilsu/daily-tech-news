@@ -1,75 +1,75 @@
 {
-    "date": "2026-05-13",
+    "date": "2026-05-14",
     "articles": [
         {
-            "title": "Panasonic Announces New LUMIX L10 Fixed Lens Camera",
-            "description": "Panasonic announces the LUMIX L10 fixed lens camera, celebrating 25 years of LUMIX with premium design, Leica optics, and advanced imaging performance.",
-            "url": "https://na.panasonic.com/news/panasonic-announces-lumix-l10-fixed-lens-camera",
-            "image": "https://na.panasonic.com/hs-fs/hubfs/L10t_slantoff-png.png?width=1000&height=750&name=L10t_slantoff-png.png",
-            "publishedAt": "2026-05-12T16:02:27Z"
+            "title": "The Talos Principle 3 announced for PC and PS5",
+            "description": "The third and final installment of the Talos Principle is here, challenging players with a new, intriguing storyline and plenty of puzzles.",
+            "url": "https://www.polygon.com/the-talos-principle-3-reveal-trailer/",
+            "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/talos3_sshot02.png?w=1600&h=900&fit=crop",
+            "publishedAt": "2026-05-13T16:00:27Z"
         },
         {
-            "title": "A Pilates master trainer says anyone who works at a desk should use these three moves to promote a pain-free posture",
-            "description": "Use these gentle stretches to mobilize your spine, chest and shoulders",
-            "url": "https://www.fitandwell.com/exercise/pilates/a-pilates-master-trainer-says-anyone-who-works-at-a-desk-should-use-these-three-moves-to-promote-a-pain-free-posture",
-            "image": "https://cdn.mos.cms.futurecdn.net/Mo3puQP2yEM5SghJKsSKsE-2121-80.jpg",
-            "publishedAt": "2026-05-12T16:00:00Z"
+            "title": "The Talos Principle 3 is bringing the Serious Sam studio's acclaimed philosophical puzzle series to an end, and it's coming soon to PC and PS5",
+            "description": "Following a remaster of the first game, The Talos Principle 3 has been announced by Devolver Digital and Serious Sam studio Croteam for PC and PS5.",
+            "url": "https://www.eurogamer.net/the-talos-principle-3-announcement",
+            "image": "https://assetsio.gnwcdn.com/Talos3_KeyArt_Tease.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "publishedAt": "2026-05-13T16:00:00Z"
         },
         {
-            "title": "Lumix celebrates 25th birthday with a new premium compact camera and it's got a proper viewfinder!",
-            "description": "The Panasonic Lumix L10 is a new premium compact camera that still believes in the viewfinder",
-            "url": "https://www.digitalcameraworld.com/cameras/compact-cameras/lumix-celebrates-25th-birthday-with-a-new-premium-compact-camera-and-its-got-a-proper-viewfinder",
-            "image": "https://cdn.mos.cms.futurecdn.net/CwFcWZd4XLiCfcXXMTRhV4-2560-80.jpg",
-            "publishedAt": "2026-05-12T16:00:00Z"
+            "title": "iOS 26's Visited Places Feature Is Logging Everywhere You Go. Here's How to Stop It",
+            "description": "Apple Maps now keeps a running history of everywhere you go. Here's how to disable it, delete your history or limit how long it's stored.",
+            "url": "https://www.cnet.com/tech/services-and-software/ios-26s-visited-places-feature-is-logging-everywhere-you-go-heres-how-to-stop-it/",
+            "image": "https://www.cnet.com/a/img/resize/2e21a778d497077175a9550445c0d6afc62a104e/hub/2025/10/01/465dad1b-53d3-4653-bc4a-e458eaad313a/ios-26-cnet-6.png?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2026-05-13T16:00:00Z"
         },
         {
-            "title": "This New PS5 Controller May Solve DualSense's Stick Drift Issues, But It Comes with a $220 Cost",
-            "description": "Scuf Omega available now - The PS5's DualSense is an excellent controller for many reasons, but it's not without its flaws, one of which is the thorny issue ...",
-            "url": "https://www.pushsquare.com/news/2026/05/this-new-ps5-controller-may-solve-dualsenses-stick-drift-issues-but-it-comes-with-a-usd220-cost",
-            "image": "https://images.pushsquare.com/a2e73dd38f20d/large.jpg",
-            "publishedAt": "2026-05-12T16:00:00Z"
+            "title": "VidCruiter Launches AI Interview Scoring, Setting a New Standard for Transparent, Defensible AI in Hiring",
+            "description": "/PRNewswire/ - VidCruiter, a leading video interviewing platform trusted by more than 125,000 hiring professionals worldwide, today announced the launch of AI...",
+            "url": "https://www.prnewswire.com/news-releases/vidcruiter-launches-ai-interview-scoring-setting-a-new-standard-for-transparent-defensible-ai-in-hiring-302770963.html",
+            "image": "https://mma.prnewswire.com/media/2978406/VidCruiter_Inc__VidCruiter_Launches_AI_Interview_Scoring__Settin.jpg?p=facebook",
+            "publishedAt": "2026-05-13T16:00:00Z"
         },
         {
-            "title": "Sony Electronics Launches REON POCKET PRO Plus Wearable Thermo Device with Advanced Cooling and Heating Technology",
-            "description": "The latest company information, including net asset values, performance, holding & sectors weighting, changes in voting rights, and directors and dealings.",
-            "url": "https://markets.ft.com/data/announce/detail?dockey=600-202605121200PR_NEWS_USPRX____LA56625-1",
-            "image": "https://mma.prnewswire.com/media/2977207/REON_POCKET_PRO_Plus.jpg",
-            "publishedAt": "2026-05-12T16:00:00Z"
+            "title": "What Security Leaders Say About the First AI-Developed Zero-Day Exploit",
+            "description": "Google Threat Intelligence Group (GTIG) identified a threat actor deploying a zero-day exploit believed to be developed with AI. This marks the first time GTIG has discovered such a threat, and suggests that newer AI models could be leveraged to create exploits rather than simply discover them.",
+            "url": "https://www.securitymagazine.com/articles/102298-what-security-leaders-say-about-the-first-ai-developed-zero-day-exploit",
+            "image": "https://www.securitymagazine.com/ext/resources/2026/05/13/Coding-by-Walkator.png?height=635&t=1778685541&width=1200",
+            "publishedAt": "2026-05-13T16:00:00Z"
         },
         {
-            "title": "Panasonic Announces New Updates for the LUMIX Lab App and LUMIX S9",
-            "description": "/PRNewswire/ -- Panasonic has introduced new updates for its LUMIX Lab app as well as the firmware for the full-frame mirrorless LUMIX S9, providing users with...",
-            "url": "https://www.prnewswire.com/news-releases/panasonic-announces-new-updates-for-the-lumix-lab-app-and-lumix-s9-302769814.html",
-            "image": "https://mma.prnewswire.com/media/367529/panasonic_Logo.jpg?p=facebook",
-            "publishedAt": "2026-05-12T16:00:00Z"
+            "title": "Digital Comics Platform Neon Ichiban Launches New App And Features",
+            "description": "The latest version of the app from former comiXology founders ups the stakes in the competitive digital comics/manga market.",
+            "url": "https://sg.news.yahoo.com/digital-comics-platform-neon-ichiban-160000271.html",
+            "image": "https://s.yimg.com/os/en/forbes_contributor_845/8fdcf8a2c93484d5d0f13511f307b06e",
+            "publishedAt": "2026-05-13T16:00:00Z"
         },
         {
-            "title": "Coupa Acquires Rossum to Accelerate End-to-End Autonomous Spend Management",
-            "description": "/PRNewswire/ -- Coupa, the leading platform for autonomous spend management, today announced it has acquired Rossum, the AI-first market leader in intelligent...",
-            "url": "https://www.prnewswire.co.uk/news-releases/coupa-acquires-rossum-to-accelerate-end-to-end-autonomous-spend-management-302769043.html",
-            "image": "https://mma.prnewswire.com/media/2977453/Coupa_Software_Rossum_Image.jpg?p=facebook",
-            "publishedAt": "2026-05-12T16:00:00Z"
+            "title": "Digital Comics Platform Neon Ichiban Launches New App And Features",
+            "description": "The latest version of the app from former comiXology founders ups the stakes in the competitive digital comics/manga market.",
+            "url": "https://www.forbes.com/sites/robsalkowitz/2026/05/13/digital-comics-platform-neon-ichiban-launches-new-app-and-features/",
+            "image": "https://imageio.forbes.com/specials-images/imageserve/69fcab0bcd50a53adcff81a5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2026-05-13T16:00:00Z"
         },
         {
-            "title": "Panasonic Announces New LUMIX L10 Fixed Lens Camera",
-            "description": "/PRNewswire/ -- Panasonic is proud to introduce the LUMIX L10 (DC\u2011L10), a new fixed lens camera created for photographers who value intuitive control, refined...",
-            "url": "https://www.prnewswire.com/news-releases/panasonic-announces-new-lumix-l10-fixed-lens-camera-302769817.html",
-            "image": "https://mma.prnewswire.com/media/2977324/Panasonic_Corporation_of_North_America_New_LUMIX_L10_Fixed_Lens_Camera_Gold.jpg?p=facebook",
-            "publishedAt": "2026-05-12T16:00:00Z"
-        },
-        {
-            "title": "Vadzo Imaging Breaks Down Global Shutter vs Rolling Shutter: Evaluating Motion Accuracy and HDR Performance with Quad HDR Insights",
-            "description": "When a fast-moving subject corrupts the frame, no algorithm fixes what the sensor failed to capture. Vadzo Imaging examines how global shutter and rolling shutter architecture determines motion accuracy, Quad HDR performance, and deployment outcomes across the Falcon Series portfolio.",
-            "url": "https://www.newswire.com/news/vadzo-imaging-breaks-down-global-shutter-vs-rolling-shutter-evaluating-22770362",
+            "title": "Vadzo Imaging Explains Color Science in Embedded Vision: Achieving Precise Color Accuracy for Industrial and Medical Applications",
+            "description": "Vadzo Imaging explains how color science and ISP processing impact color accuracy in embedded vision systems used for industrial, medical, and autonomous applications. The release highlights the Falcon-821CRS and Falcon-1335CRS USB camera products designed for HDR imaging, precise color reproduction, and real-time image optimization. The company demonstrates how reliable color fidelity improves performance across robotics, medical imaging, kiosk vision, drone cameras, and smart surveillance systems.",
+            "url": "https://www.newswire.com/news/vadzo-imaging-explains-color-science-in-embedded-vision-achieving-22779392",
             "image": "https://cdn.nwe.io/files/x",
-            "publishedAt": "2026-05-12T16:00:00Z"
+            "publishedAt": "2026-05-13T16:00:00Z"
         },
         {
-            "title": "Sony Electronics Launches REON POCKET PRO Plus Wearable Thermo Device with Advanced Cooling and Heating Technology",
-            "description": "/PRNewswire/ -- Sony Electronics Inc. today announced the REON POCKET PRO Plus, an innovative wearable thermo device, designed to deliver enhanced personal...",
-            "url": "https://www.prnewswire.com/news-releases/sony-electronics-launches-reon-pocket-pro-plus-wearable-thermo-device-with-advanced-cooling-and-heating-technology-302769284.html",
-            "image": "https://mma.prnewswire.com/media/2977207/REON_POCKET_PRO_Plus.jpg?p=facebook",
-            "publishedAt": "2026-05-12T16:00:00Z"
+            "title": "Sony Xperia 1 VIII Arrives at \u00a31,399 With Free \u00a3349 Headphones and One Major Camera Trade-Off",
+            "description": "The only 2026 flagship still keeping the headphone jack, microSD slot, and physical camera shutter alive.",
+            "url": "https://www.techloy.com/sony-xperia-1-viii-arrives-at-1-399-with-free-349-headphones-and-one-major-camera-trade-off/",
+            "image": "https://storage.ghost.io/c/c1/a6/c1a6d111-d951-41ad-a392-c1e841210b93/content/images/size/w1200/2026/05/7085_overview3-M-2.jpg",
+            "publishedAt": "2026-05-13T15:58:15Z"
+        },
+        {
+            "title": "PS Plus May 2026 Game Catalogue officially revealed, featuring Red Dead Redemption 2, Star Wars Outlaws, and more",
+            "description": "Sony has announced the next set of games that will be added to the PlayStation Plus Game Catalogue in May 2026. A total of eight new games are being added, and they will be available for both Extra and Premium users.",
+            "url": "https://www.notebookcheck.net/PS-Plus-May-2026-Game-Catalogue-officially-revealed-featuring-Red-Dead-Redemption-2-Star-Wars-Outlaws-and-more.1296075.0.html",
+            "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/PS-Plus-Game-Catalogue-May-2026.jpg",
+            "publishedAt": "2026-05-13T15:58:00Z"
         }
     ]
 }
