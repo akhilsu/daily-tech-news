@@ -1,75 +1,75 @@
 {
-    "date": "2026-05-31",
+    "date": "2026-06-01",
     "articles": [
         {
-            "title": "OnePlus is practically begging you to get the OnePlus 15 with this lovely discount and a freebie",
-            "description": "This is one of the top smartphones money can buy, so don't miss out!",
-            "url": "https://www.phonearena.com/news/oneplus-15-oneplus-deal-100-usd-off-free-earbuds_id180737",
-            "image": "https://m-cdn.phonearena.com/images/article/180737-wide-two_1200/OnePlus-is-practically-begging-you-to-get-the-OnePlus-15-with-this-lovely-discount-and-a-freebie.jpg",
-            "publishedAt": "2026-05-30T16:30:01Z"
+            "title": "MSI takes aim at Apple with new Pro Max PCs and monitors",
+            "description": "MSI is looking to eat up a slice of the Apple market with its new Pro Max series systems, spanning across desktops, all-in-one PCs and even OLED monitors. The desktop lineup starts with the Pro Max 80 series, using a compact chassis with support for discrete Nvidia GeForce RTX graphics. Connectivity includes up to nine",
+            "url": "https://www.kitguru.net/desktop-pc/joao-silva/msi-takes-aim-at-apple-with-new-pro-max-pcs-and-monitors/",
+            "image": "https://www.kitguru.net/wp-content/uploads/2026/05/rjcxty7vilgjajxxgcecm-732x330.jpg",
+            "publishedAt": "2026-05-31T17:01:17Z"
         },
         {
-            "title": "'What a joke': Github Copilot's new token-based billing spurs consternation among devs",
-            "description": "The golden age of Microsoft's Github Copilot appears to be at an end.",
-            "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
-            "image": "https://techcrunch.com/wp-content/uploads/2023/11/github-copilot-chat-2.webp?w=1200",
-            "publishedAt": "2026-05-30T16:30:00Z"
+            "title": "Geometric Future debuts Model 9 Ultra Tower and more at Computex",
+            "description": "Geometric Future is bringing a wide range of new PC cases and cooling hardware to Computex 2026, including its next flagship tower case and early prototypes of upcoming designs. The company is also showing updates across its PSU, cooling and compact\u2011case lineups. The Model 9 leads the pack as the company\u2019s new flagship ultra\u2011tower. The",
+            "url": "https://www.kitguru.net/components/cases/joao-silva/geometric-future-debuts-model-9-ultra-tower-and-more-at-computex/",
+            "image": "https://www.kitguru.net/wp-content/uploads/2026/05/M9.6391-732x330.jpg",
+            "publishedAt": "2026-05-31T17:01:15Z"
         },
         {
-            "title": "Alexey Vanzhula releases Modeler 26.3 for Houdini",
-            "description": "Check out the new features in this varied update to the popular toolkit for hard surface and organic modeling in Houdini.",
-            "url": "https://www.cgchannel.com/2026/05/alexey-vanzhula-releases-modeler-26-for-houdini/",
-            "image": "https://www.cgchannel.com/wp-content/uploads/2026/02/260630_Modeler263_f-610x305.jpg",
-            "publishedAt": "2026-05-30T16:21:34Z"
+            "title": "This used sports sedan gives you BMW power and Lexus luxury for under $30,000",
+            "description": "A bargain sports sedan that punches far above its price tag.",
+            "url": "https://www.howtogeek.com/used-sports-sedan-bmw-power-lexus-luxury-under-30000/",
+            "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/05/17032_2022_stinger_gt.jpg?w=1600&h=900&fit=crop",
+            "publishedAt": "2026-05-31T17:00:19Z"
         },
         {
-            "title": "Microsoft and Nvidia reportedly team up on AI PCs that run actual agents instead of Copilot",
-            "description": "Nvidia is pushing into the PC market with its own chips as the main processor. The first Windows computers from Dell and Microsoft's Surface line are set to be unveiled next week at Computex and Build. Microsoft is also planning new software likely based on the OpenClaw framework that lets AI agents handle tasks locally on Windows PCs, a second shot after the Copilot+ PC concept largely flopped.",
-            "url": "https://the-decoder.com/microsoft-and-nvidia-reportedly-team-up-on-ai-pcs-that-run-actual-agents-instead-of-copilot/",
-            "image": "https://the-decoder.com/wp-content/uploads/2026/05/openclaw_microsoft.jpg",
-            "publishedAt": "2026-05-30T16:21:01Z"
+            "title": "AI crosses catalyst boundaries to uncover new route for green hydrogen",
+            "description": "Discovering new catalysts is one of the central challenges in developing clean-energy technologies such as green hydrogen production. Yet catalyst discovery has traditionally remained confined within individual material families, limiting researchers' ability to transfer knowledge across chemically distinct systems.",
+            "url": "https://phys.org/news/2026-05-ai-catalyst-boundaries-uncover-route.html",
+            "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/researchers-use-ai-to-2.jpg",
+            "publishedAt": "2026-05-31T17:00:01Z"
         },
         {
-            "title": "I've used Android desktop mode for years, and the Googlebook may fix my biggest complaint",
-            "description": "The missing desktop feature may finally arrive",
-            "url": "https://www.androidpolice.com/googlebook-fixes-one-thing-about-android-desktop-mode/",
-            "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/05/googlebook-main-1.jpg?w=1600&h=900&fit=crop",
-            "publishedAt": "2026-05-30T16:15:10Z"
+            "title": "Samsung Messages Is Going Away for Good. Here's How to Save Everything First",
+            "description": "The transition from Samsung Messages to Google Messages is simple if you start now and a headache if you wait until July.",
+            "url": "https://www.cnet.com/tech/mobile/the-transition-from-samsung-messages-to-google-messages-is-simple-if-you-start-now-and-a-headache-if-you-wait-until-july/",
+            "image": "https://www.cnet.com/a/img/resize/e2499b41644449b4f6ad945f5d565619fa82b841/hub/2026/04/06/d131c6cf-e3ed-4b8d-99fc-330c944a174e/file.png?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2026-05-31T17:00:00Z"
         },
         {
-            "title": "The Chick and the Pig in Algonquin now open for dine-in service",
-            "description": "The dining area of Algonquin restaurant The Chick and the Pig is now open and ready to serve guests with a spacious bar and game room.",
-            "url": "https://www.shawlocal.com/thescene/dining/2026/05/30/algonquins-the-chick-and-the-pig-now-open-for-dine-in-service/",
-            "image": "https://www.shawlocal.com/resizer/v2/YSFPR3AKTVDSJOVCLR5KSABFNM.JPG?auth=2e8e839076726b72b9b9c08ed8d80fb3162ee9fc40e92293f3136dde21fa2e37&width=1200&height=630&smart=true",
-            "publishedAt": "2026-05-30T16:14:00Z"
+            "title": "RetinaDesk Reviews 5K and 6K Displays from a Mac Perspective",
+            "description": "Shopping for a 5K or 6K Retina display for your Mac? Parish Khan\u2019s RetinaDesk site offers detailed, Mac-focused reviews of every monitor that hits Apple\u2019s 218 PPI density threshold, plus comparison tools and buying guides\u2014all tested on current Apple silicon hardware.",
+            "url": "https://tidbits.com/2026/05/31/retinadesk-reviews-5k-and-6k-displays-from-a-mac-perspective/",
+            "image": "https://tidbits.com/uploads/2026/05/RetinaDesk-scaled.jpg",
+            "publishedAt": "2026-05-31T16:53:26Z"
         },
         {
-            "title": "Landmark Money for a Landshark Porsche",
-            "description": "So-so 928s are everywhere, but great ones like this are few and far between. When they come up for sale, bidders fight hard for them.",
-            "url": "https://www.hagerty.com/media/market-trends/landmark-money-for-a-landshark-porsche/",
-            "image": "https://hagerty-media-prod.imgix.net/2026/05/1994-Porsche-928-GTS-1.jpg?auto=format%2Ccompress&ixlib=php-3.3.0",
-            "publishedAt": "2026-05-30T16:06:52Z"
+            "title": "Compact Tracking Devices",
+            "description": "GoTag - Designer Swaroop Indani developed GoTag as a concept GPS tracker that prioritizes form and tactile interaction alongside everyday functionality. Th...",
+            "url": "https://www.trendhunter.com/trends/gotag",
+            "image": "https://cdn.trendhunterstatic.com/phpthumbnails/615/615811/615811_1_1200.jpeg",
+            "publishedAt": "2026-05-31T16:52:48Z"
         },
         {
-            "title": "Logitech launches customizable G512 X gaming keyboard in teh Philippines",
-            "description": "LOGITECH G has introduced the G512 X TMR Analog/Mechanical Gaming Keyboard in the Philippines, targeting PC gamers and keyboard enthusiasts looking for more customizable controls.",
-            "url": "https://www.manilatimes.net/2026/05/31/business/sunday-business-it/logitech-launches-customizable-g512-x-gaming-keyboard-in-teh-philippines/2355048",
-            "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/05/30/1078164.jpg",
-            "publishedAt": "2026-05-30T16:03:00Z"
+            "title": "NVIDIA's Upcoming N1x SoC Fails To Match Apple's 2023-Launching M3 Max Chip In Pre-Release Geekbench 6 Scores",
+            "description": "The pre-release Geekbench 6 scores for NVIDIA's N1x processors are painting a somewhat underwhelming picture right now.",
+            "url": "https://wccftech.com/nvidias-upcoming-n1x-soc-fails-to-match-apples-2023-launching-m3-max-chip-in-pre-release-geekbench-6-scores/",
+            "image": "https://cdn.wccftech.com/wp-content/uploads/2026/05/NVIDIA-N1x-1920x1048.jpg",
+            "publishedAt": "2026-05-31T16:49:00Z"
         },
         {
-            "title": "I ignored Task Manager's Details tab for years - here's what I was missing about my PC's performance",
-            "description": "Task Manager hides more than you think.",
-            "url": "https://www.makeuseof.com/i-ignored-task-managers-details-tab-for-years/",
-            "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/05/details-tab-open-in-task-manager-on-a-asus-vivobook-s-14-flip.jpg?w=1600&h=900&fit=crop",
-            "publishedAt": "2026-05-30T16:00:19Z"
+            "title": "YouTube Premium adds auto-speed and on-the-go mode for podcast listeners",
+            "description": "Tech News News: YouTube is rolling out three new Premium features built around podcasts, with an auto-speed tool that adjusts playback on its own as the headline addi.",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/youtube-premium-adds-auto-speed-and-on-the-go-mode-for-podcast-listeners/articleshow/131422546.cms",
+            "image": "https://static.toiimg.com/thumb/msid-131422572,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-05-31T16:49:00Z"
         },
         {
-            "title": "Are You Happy with Your PS Plus Essential Games for June 2026?",
-            "description": "Plus or minus? - June 2026's PS Plus Essential games have been revealed, but are they everything you ever wanted? As always, that's what we're here to find o...",
-            "url": "https://www.pushsquare.com/features/poll-are-you-happy-with-your-ps-plus-essential-games-for-june-2026",
-            "image": "https://images.pushsquare.com/bf4c77307b121/large.jpg",
-            "publishedAt": "2026-05-30T16:00:00Z"
+            "title": "8000 CL42 memory with 256GB capacity for Intel Core Ultra 200S platform",
+            "description": "Origin Code Vortex 4R CUDIMM targets Intel Core Ultra 200S Plus desktops Origin Code has announced a new 4R CUDIMM DDR5 memory kit for Intel desktop",
+            "url": "https://videocardz.com/newz/origin-code-unveils-4r-cudimm-ddr5-8000-cl42-memory-with-256gb-capacity-for-intel-core-ultra-200s-platform",
+            "image": "https://cdn.videocardz.com/1/2026/05/Origin-Code-shows-256GB-DDR5-8000-4R-CUDIMM-kit-for-Intel-Z890-1.jpg",
+            "publishedAt": "2026-05-31T16:46:07Z"
         }
     ]
 }
