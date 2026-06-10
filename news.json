@@ -1,75 +1,75 @@
 {
-    "date": "2026-06-09",
+    "date": "2026-06-10",
     "articles": [
         {
-            "title": "Back to the North: GRYPHLINE Gives Sneak Peek Into the Future of Arknights: Endfield",
+            "title": "Apple's foldable iPhone could be just around the corner",
+            "description": "The iOS 27 developer beta includes code that references the fold state and screen angle of a device.",
+            "url": "https://techcrunch.com/2026/06/09/apples-foldable-iphone-could-be-just-around-the-corner/",
+            "image": "https://techcrunch.com/wp-content/uploads/2022/08/CMC_2923.jpg?resize=1200,893",
+            "publishedAt": "2026-06-09T16:22:56Z"
+        },
+        {
+            "title": "Makera Z1 Now Available for Global Pre-Order, Bringing Entry-Level CNC with Pro-Level Power",
+            "description": "MIDDLETOWN, Del., June 10, 2026 /PRNewswire/ -- Makera, a global leader in intelligent desktop CNC technology, announced that global pre-orders for the highly anticipated Makera Z1 Desktop CNC are now open on the official website on June 9. Following a record-shattering Kickstarter campaign in 2025 that raised over $10.24 million in just 45 days, crowdfunding orders have begun shipping steadily and in succession, Makera Z1 is now available to creators worldwide.",
+            "url": "https://www.manilatimes.net/2026/06/10/tmt-newswire/pr-newswire/makera-z1-now-available-for-global-pre-order-bringing-entry-level-cnc-with-pro-level-power/2362047",
+            "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/06/10/1092274.jpg",
+            "publishedAt": "2026-06-09T16:22:45Z"
+        },
+        {
+            "title": "Upgraded Pixel network switching",
+            "description": "Ahead of the summer travel season, Google Fi Wireless is boosting its international capabilities across five areas.",
+            "url": "https://9to5google.com/2026/06/09/google-fi-international-travel-updates/",
+            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/Google-Fi-Wireless-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2026-06-09T16:20:00Z"
+        },
+        {
+            "title": "'DK Challenge' Will Put Your NSO & Bananza Skills To The Test For A Limited Time",
+            "description": "With a Mario-themed Bananza event in tow - We heard rumours of some incoming NSO challenges yesterday, and in today's Direct, they materialised. The 'DK Cha...",
+            "url": "https://www.nintendolife.com/news/2026/06/dk-challenge-will-put-your-nso-and-bananza-skills-to-the-test-for-a-limited-time",
+            "image": "https://images.nintendolife.com/5c776e2999bf4/large.jpg",
+            "publishedAt": "2026-06-09T16:20:00Z"
+        },
+        {
+            "title": "New film tells story behind U2's Bad",
+            "description": "A new feature documentary is to tell the story of Andy 'Guck' Rowen, the Dublin man whose experiences helped inspire U2's Bad.",
+            "url": "https://www.rte.ie/entertainment/2026/0609/1577560-new-film-tells-story-behind-u2s-bad/",
+            "image": "https://www.rte.ie/images/00247df4-1600.jpg",
+            "publishedAt": "2026-06-09T16:18:50Z"
+        },
+        {
+            "title": "40-year-old with 'dumb phone' says 'it's not easy,' but 'the rewards are worth it'",
+            "description": "Cheryl Geliebter prefers her flip phone to a smartphone because, she says, \"having the internet in front of me is not going to be a good thing.\"",
+            "url": "https://www.cnbc.com/2026/06/09/40-year-old-with-dumb-phone-says-its-not-easy-but-the-rewards-are-worth-it.html",
+            "image": "https://image.cnbcfm.com/api/v1/image/108318209-1780932932098-106_4989.JPG?v=1781021254&w=1920&h=1080",
+            "publishedAt": "2026-06-09T16:15:06Z"
+        },
+        {
+            "title": "Apple\u2019s iOS 27 goes all agentic on compromised passwords",
+            "description": "iBiz might not win the AI race, but analysts say it's focusing on features people may actually use",
+            "url": "https://www.theregister.com/personal-tech/2026/06/09/apples-ios-27-goes-all-agentic-on-compromised-passwords/5252957",
+            "image": "https://image.theregister.com/252544.jpg?imageId=252544&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+            "publishedAt": "2026-06-09T16:13:31Z"
+        },
+        {
+            "title": "Apple is embracing the fantasy of AI photo editing",
+            "description": "It seems Apple no longer believes that photos should accurately capture reality, after announcing new AI editing features at WWDC.",
+            "url": "https://www.theverge.com/tech/946850/apple-ai-photo-editing-tools-ios27-wwdc-2026-deepfakes",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Apple-generative-AI-photo-editing-lede.jpg?quality=90&strip=all&crop=0,14.033409967608,100,71.933180064785",
+            "publishedAt": "2026-06-09T16:13:14Z"
+        },
+        {
+            "title": "'Kingdom Hearts 4' unveils new trailer after years of silence",
+            "description": "Kingdom Hearts fans have been waiting for years for an update on the fourth installment of the action-role-playing game.\nSince 2022, when the game was first announced, fans had been looking for any...",
+            "url": "https://www.thenews.com.pk/latest/1405337-kingdom-hearts-4-gets-key-update-after-years-of-silence",
+            "image": "https://www.thenews.com.pk/assets/uploads/2026-06-09/1405337_091217_updates.jpg",
+            "publishedAt": "2026-06-09T16:13:00Z"
+        },
+        {
+            "title": "STEP INTO A WORLD OF FUN IN HELLO KITTY PARTY LAND COMING 29 OCTOBER 2026 ON NINTENDO SWITCH",
             "description": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-            "url": "https://www.gamespress.com/en-US/Back-to-the-North-GRYPHLINE-Gives-Sneak-Peek-Into-the-Future-of-Arknig",
-            "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/06/060053-491b399f/_Back_to_the_North_Preview_Trailer_Thumbnail.png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=af3248bcc41bd6e45a908155b768263a21b0bf30d2268ba4649d4ac764fc9d86",
-            "publishedAt": "2026-06-08T16:12:05Z"
-        },
-        {
-            "title": "Google Colab CLI fuses local terminals with cloud GPUs",
-            "description": "Google has launched Colab CLI to bridge the gap between your local terminal and powerful cloud environments.",
-            "url": "https://www.developer-tech.com/news/google-colab-cli-local-terminal-cloud-gpus/",
-            "image": "https://www.developer-tech.com/wp-content/uploads/2026/06/google-colab-cli-developers-cloud-development-ai-agents-tool-agentic.jpg",
-            "publishedAt": "2026-06-08T16:10:19Z"
-        },
-        {
-            "title": "Amazon Offloads Beats Pill at Its Lowest Price, the Cheapest Speaker in Apple's Audio Lineup",
-            "description": "For a limited time, you can save $50 on the Beats Pill portable speaker over at Amazon.",
-            "url": "https://gizmodo.com/amazon-offloads-beats-pill-at-its-lowest-price-the-cheapest-speaker-in-apples-audio-lineup-2000768221",
-            "image": "https://gizmodo.com/app/uploads/2026/06/BeatsPillBluetooth-1200x675.jpg",
-            "publishedAt": "2026-06-08T16:10:13Z"
-        },
-        {
-            "title": "3D Genome Structure Guides Early Development Choices",
-            "description": "New research tracks how cells prepare gene regulatory decisions that will define their fate during the earliest stages of human development. The study",
-            "url": "https://www.miragenews.com/3d-genome-structure-guides-early-development-1688262/",
-            "image": "https://cdn1.miragenews.com/tmp_cache?cdn=images.unsplash.com%2Fphoto-1532619675605-1ede6c2ed2b0%3Fixlib%3Drb-4.0.3%26amp%3Bixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26amp%3Bauto%3Dformat%26amp%3Bfit%3Dcrop%26amp%3Bw%3D1170%26amp%3Bq%3D80",
-            "publishedAt": "2026-06-08T16:07:00Z"
-        },
-        {
-            "title": "Globalstar to Start Launching C-3 Satellites for iPhones Next Year",
-            "description": "Globalstar, Apple's partner on satellite connectivity and soon to be acquired by Amazon, plans on launching the first 12 satellites for C-3 in 'early to mid-2027.'",
-            "url": "https://www.pcmag.com/news/globalstar-to-start-launching-c-3-satellites-for-iphones-next-year",
-            "image": "https://i.pcmag.com/imagery/articles/02Jgsa6MCNTJK0Btyr5plIi-1.fit_lim.size_1200x630.v1780929080.jpg",
-            "publishedAt": "2026-06-08T16:06:51Z"
-        },
-        {
-            "title": "Bio-Rad Launches New Line of Thermal Cyclers for PCR Applications",
-            "description": "Bio-Rad Laboratories announced the launch of the PTC Harmony Thermal Cycler line, designed to provide optimized workflows.",
-            "url": "https://clpmag.com/lab-equipment/bio-rad-launches-new-line-thermal-cyclers-pcr-applications/",
-            "image": "https://clpmag.com/wp-content/uploads/2026/06/image-2-scaled.png",
-            "publishedAt": "2026-06-08T16:06:50Z"
-        },
-        {
-            "title": "Globalstar to Start Launching C-3 Satellites for iPhones Next Year",
-            "description": "Globalstar, Apple's partner on satellite connectivity and soon to be acquired by Amazon, plans on launching the first 12 satellites for C-3 in 'early to mid-2027.'",
-            "url": "https://au.pcmag.com/mobile-phones/118142/globalstar-to-start-launching-c-3-satellites-for-iphones-next-year",
-            "image": "https://sm.pcmag.com/t/pcmag_au/news/g/globalstar/globalstar-to-start-launching-c-3-satellites-for-iphones-nex_1tww.1200.jpg",
-            "publishedAt": "2026-06-08T16:06:22Z"
-        },
-        {
-            "title": "Google's NotebookLM can now write code and analyze data for you",
-            "description": "Big improvements are rolling out to NotebookLM",
-            "url": "https://www.androidpolice.com/googles-notebooklm-can-now-write-code-analyze-data/",
-            "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/06/notebooklm-research.png?w=1600&h=900&fit=crop",
-            "publishedAt": "2026-06-08T16:04:02Z"
-        },
-        {
-            "title": "Only 2 Games Are Brave Enough to Go Up Against the Might of GTA 6 This November",
-            "description": "Nuclear holiday.",
-            "url": "https://sea.ign.com/barbie-rewind/243952/only-2-games-are-brave-enough-to-go-up-against-the-might-of-gta-6-this-november",
-            "image": "https://sm.ign.com/t/ign_ap/news/o/only-2-gam/only-2-games-are-brave-enough-to-go-up-against-the-might-of_1fxe.1200.jpg",
-            "publishedAt": "2026-06-08T16:03:57Z"
-        },
-        {
-            "title": "Creating New Cosmetics for Master Chief That Honor the Halo Legacy",
-            "description": "Take a look at the new weapon and armor cosmetics for Master Chief coming to Halo: Campaign Evolved as part of the Premium Edition or Collector\u2019s Edition.",
-            "url": "https://news.xbox.com/en-us/2026/06/08/halo-campaign-evolved-prorder-alpha-halo-armory-pack-skins/",
-            "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/06/Hero-Customization-abffa6681daaaba38c9d.jpg",
-            "publishedAt": "2026-06-08T16:02:18Z"
+            "url": "https://www.gamespress.com/STEP-INTO-A-WORLD-OF-FUN-IN-HELLO-KITTY-PARTY-LAND-COMING-29-OCTOBER-2",
+            "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+            "publishedAt": "2026-06-09T16:08:13Z"
         }
     ]
 }
