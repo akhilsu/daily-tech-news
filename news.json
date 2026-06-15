@@ -1,75 +1,75 @@
 {
-    "date": "2026-06-14",
+    "date": "2026-06-15",
     "articles": [
         {
-            "title": "Microsoft paid $20 million to protect one letter from Linux",
-            "description": "The story of Lindows is a very interesting tale.",
-            "url": "https://www.xda-developers.com/microsoft-paid-20-million-one-letter/",
-            "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/lindows-os-featured.jpg?w=1600&h=900&fit=crop",
-            "publishedAt": "2026-06-13T16:30:22Z"
+            "title": "After Rome, Piergiorgio Bucci wins CSIO5* Rolex Grand Prix La Baule!",
+            "description": "This year, the prestigious CSIO5* 1.60m Rolex Grand Prix of La Baule once again delivered top-tier equestrian sport of the highest caliber. With a select field at the start, the course proved to be a massive challenge. Only s...",
+            "url": "https://equnews.com/article/showjumping-en/after-rome-piergiorgio-bucci-wins-csio5-rolex-grand-prix-la-baule",
+            "image": "http://equnews.s3-eu-west-1.amazonaws.com/2026/06/piergiorgio-bucci.JPG",
+            "publishedAt": "2026-06-14T17:04:00Z"
         },
         {
-            "title": "Your smart home is killing your Wi-Fi - here's the solution nobody talks about",
-            "description": "It can save your setup nightmares.",
-            "url": "https://www.makeuseof.com/lorawan-antenna-nodes-sensors/",
-            "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2026/06/slinkdsco.jpg?w=1600&h=900&fit=crop",
-            "publishedAt": "2026-06-13T16:30:18Z"
+            "title": "Mac Users Can Pay $45 Just Once To Lock In a Lifetime of Microsoft Office",
+            "description": "Designed for Mac users who need Office apps but are tired of recurring fees, this Microsoft Office Home & Business 2021 deal gives you access to them forever for 79% off!",
+            "url": "https://www.pcmag.com/deals/mac-users-can-pay-45-just-once-to-lock-in-a-lifetime-of-microsoft-office",
+            "image": "https://i.pcmag.com/imagery/articles/067c8PANxy2TO2sKwkVmyUU-1.fit_lim.size_1200x630.v1781215308.png",
+            "publishedAt": "2026-06-14T17:00:24Z"
         },
         {
-            "title": "legged robot to walk on Arctic ice floes",
-            "description": "The Lynx S10's ability to navigate dust, heavy rain, and unstable terrain makes it a game-changer for emergency responders.",
-            "url": "https://interestingengineering.com/culture/lynxs10-first-quadruped-robot-to-walk-across-arctic",
-            "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/06/modified-Lynx-S10.jpg",
-            "publishedAt": "2026-06-13T16:28:00Z"
+            "title": "Stop guessing which local AI models fit your hardware - this free tool does it for you",
+            "description": "A huge friction point with self-hosted AI, solved",
+            "url": "https://www.xda-developers.com/open-source-tool-is-the-first-step-before-trying-out-local-ai-llms-llmfit/",
+            "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/llama-cpp-laptop-llmfit-pc.jpg?w=1600&h=900&fit=crop",
+            "publishedAt": "2026-06-14T17:00:22Z"
         },
         {
-            "title": "Timeless Menswear Fashion Silhouettes",
-            "description": "Save Khaki United is a popular menswear brand with a long history. Having operated from New York City since 2006, the company prides itself on manufacturing\u2026",
-            "url": "https://www.trendhunter.com/trends/save-khaki-united",
-            "image": "https://cdn.trendhunterstatic.com/phpthumbnails/617/617845/617845_1_1200.jpeg",
-            "publishedAt": "2026-06-13T16:16:28Z"
+            "title": "I saved money on a Blu-ray player with this simple substitution",
+            "description": "You might already have an excellent 4K Blu-ray player.",
+            "url": "https://www.pocket-lint.com/4k-blu-ray-players-too-expensive/",
+            "image": "https://static0.pocketlintimages.com/wordpress/wp-content/uploads/wm/2026/04/4k-ultra-hd-blu-ray-vs-blu-ray-2.jpg?w=1600&h=900&fit=crop",
+            "publishedAt": "2026-06-14T17:00:20Z"
         },
         {
-            "title": "Toyota\u2019s Wildest Corolla Is Coming To America Packing Race Car DNA",
-            "description": "This wild new street-legal track weapon marks the first time a GRMN-badged Corolla will be sold in North America, but numbers will be limited.",
-            "url": "https://www.forbes.com/sites/peterlyon/2026/06/13/toyotas-wildest-corolla-is-coming-to-america-packing-race-car-dna/",
-            "image": "https://imageio.forbes.com/specials-images/imageserve/6a2d7c8d27b7181b45892be3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2026-06-13T16:16:25Z"
+            "title": "My PC had annoying frame drops I couldn't explain - until I found this hidden CPU BIOS setting",
+            "description": "Your CPU is half-asleep even during the most heavy workloads \u2014 here's how to wake it up.",
+            "url": "https://www.makeuseof.com/pc-had-frame-drops-couldnt-explain-until-found-hidden-cpu-bios-setting/",
+            "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/04/cyberpunk-2077-dynamic-mfg.jpg?w=1600&h=900&fit=crop",
+            "publishedAt": "2026-06-14T17:00:19Z"
         },
         {
-            "title": "I stopped paying for Whoop thanks to this open source app",
-            "description": "This app freed me from Whoop's subscription",
-            "url": "https://www.androidpolice.com/i-tried-open-source-whoop-app/",
-            "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/06/whoop-4-green-in-hand.jpg?w=1600&h=900&fit=crop",
-            "publishedAt": "2026-06-13T16:15:13Z"
+            "title": "I let Google's Call Assistant handle my phone for a week to see if any real callers got through",
+            "description": "A week on Maximum with no real call missed",
+            "url": "https://www.androidpolice.com/googles-call-assistant-handle-phone-for-a-week-see-if-real-callers-got-through/",
+            "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/06/person-using-a-pixel-phone-with-call-screening-showing-spam-blocked-and-real-call-alerts.png?w=1600&h=900&fit=crop",
+            "publishedAt": "2026-06-14T17:00:10Z"
         },
         {
-            "title": "Elden Ring Director Reveals Spiritual Successor Titles Are In Development",
-            "description": "The master of RPGs is set to strike again",
-            "url": "https://www.gamingbible.com/news/elden-ring-director-spiritual-successor-title-066801-20260613",
-            "image": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltbc1876152fcd9f07/blta416b47d443ccdc6/6a2d813859b194925fe006a5/Elden_Ring_Spiritual_Successor.jpg",
-            "publishedAt": "2026-06-13T16:14:01Z"
+            "title": "Why Not Yserver? It\u2019s Xserver, But Rust-y.",
+            "description": "If you're not into Wayland as a display manager, it seems like your options are slowly dwindling. Xorg isn't exactly a hotbed of activity, and the one fork everyone knows about is best known as a poli...",
+            "url": "https://hackaday.com/2026/06/14/why-not-yserver-its-xserver-but-rust-y/",
+            "image": "https://hackaday.com/wp-content/uploads/2026/06/yserver-compiz-screenshot.png",
+            "publishedAt": "2026-06-14T17:00:00Z"
         },
         {
-            "title": "GTA 6 PC Release Date Leak Suggests Rockstar Could Skip The Usual Long Wait",
-            "description": "GTA 6 PC release date leak hints at a February 2027 launch, just months after the November console debut. Check everything here.",
-            "url": "https://www.gadgetbridge.com/gta-6-pc-release-date/",
-            "image": "https://www.gadgetbridge.com/wp-content/uploads/2026/06/GTA-6.webp",
-            "publishedAt": "2026-06-13T16:11:51Z"
+            "title": "'Every day, a child is exposed to two pieces of inappropriate or harmful content': I've spent hours researching the best phone for my son \u2014 here are the safest options I've found, from iPhones to 'dum",
+            "description": "Helping you find the right solution for your child's safety \u2014 and social life",
+            "url": "https://www.techradar.com/phones/ive-spent-hours-researching-the-best-phone-for-my-son-here-are-the-safest-options-ive-found-from-iphones-to-dumbphones",
+            "image": "https://cdn.mos.cms.futurecdn.net/Z8GDJKjjp4LYfcBHZ8LJgM-2121-80.jpg",
+            "publishedAt": "2026-06-14T17:00:00Z"
         },
         {
-            "title": "This $79K Lotus 340R Is an Ultra",
-            "description": "The Lotus 340R is a rare sight, but for the price of a Dark Horse, someone got one of the lightest, most fun cars around.",
-            "url": "https://www.hagerty.com/media/market-trends/hagerty-insider/this-79k-lotus-340r-is-an-ultra-rare-roller-skate/",
-            "image": "https://hagerty-media-prod.imgix.net/2026/06/3ONYoymz-pLTpyWr.jpeg?auto=format%2Ccompress&ixlib=php-3.3.0",
-            "publishedAt": "2026-06-13T16:08:25Z"
+            "title": "Sunday Preview - Hedonites head into battle along with a new General\u2019s Handbook",
+            "description": "Next week\u2019s pre-orders include Hedonites of Slaanesh, Skaven, and a new edition of False Gods.",
+            "url": "https://www.warhammer-community.com/en-gb/articles/0y4dh0xg/sunday-preview-hedonites-head-into-battle-along-with-a-new-generals-handbook/",
+            "image": "https://assets.warhammer-community.com/articles/0-2026/june/wc08-06/sundaypreview-jul30-1-feature-cinuqzn66p.jpg",
+            "publishedAt": "2026-06-14T16:59:51Z"
         },
         {
-            "title": "Nintendo reportedly look set to net so little from their Palworld lawsuit you'll wonder why they bothered",
-            "description": "We're talking only a fiver finger sum, here.",
-            "url": "https://www.rockpapershotgun.com/nintendo-reportedly-look-set-to-net-so-little-from-their-palworld-lawsuit-youll-wonder-why-they-bothered",
-            "image": "https://assetsio.gnwcdn.com/palworld-arena-mode-tease.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-            "publishedAt": "2026-06-13T16:07:30Z"
+            "title": "HP Malaysia Launches New Lineup Of Laptops, Desktops, Workstations & LaserJet Pro Printer",
+            "description": "HP Malaysia launched seven new devices at HP Elevate 2026, ranging from enterprise notebooks, workstations, a gaming laptop, and a multifunction printer.",
+            "url": "https://pokde.net/gadget/laptop/hp-elevate-2026-laptop-pc-launch",
+            "image": "https://cdn.pokde.net/wp-content/uploads/2026/06/15004223/hpelevate2026cover.jpg",
+            "publishedAt": "2026-06-14T16:48:49Z"
         }
     ]
 }
