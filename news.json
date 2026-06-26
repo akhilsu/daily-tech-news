@@ -1,75 +1,75 @@
 {
-    "date": "2026-06-25",
+    "date": "2026-06-26",
     "articles": [
         {
-            "title": "\u201cAbelard, Announce That Warhammer 40,000: Rogue Trader Has Sold More Than 2 Million Copies!\"",
+            "title": "Wiser App: The Power of Micro-Learning",
+            "description": "Attention spans are shrinking, content is everywhere, and people want to learn more while reading less than ever.\u2026",
+            "url": "https://pctechmag.com/2026/06/wiser-app-the-power-of-micro-learning/",
+            "image": "https://pctechmag.com/wp-content/uploads/2026/06/Screenshot-2026-06-25-at-9.06.49-PM.jpg",
+            "publishedAt": "2026-06-25T16:12:08Z"
+        },
+        {
+            "title": "Lightweight Email Apps",
+            "description": "Managing email efficiently is essential, especially for users on devices with limited storage or slower internet connections -- Gmail Go is a lightweight\u2026",
+            "url": "https://www.trendhunter.com/trends/gmail-go",
+            "image": "https://cdn.trendhunterstatic.com/phpthumbnails/619/619561/619561_1_1200.jpeg",
+            "publishedAt": "2026-06-25T16:08:46Z"
+        },
+        {
+            "title": "Lenovo Tab Plus Gen 2 Launches In Malaysia Featuring A Giant Speaker Hump At The Back",
+            "description": "Lenovo has announced the Tab Plus Gen 2 in Malaysia, a 12.1-inch entertainment tablet featuring a JBL 9-unit speaker system, 2.5K display with Dolby Vision, and a 360-degree rotating kickstand, priced from RM2,099.",
+            "url": "https://pokde.net/gadget/tablet/lenovo-tab-plus-gen-2-launch",
+            "image": "https://cdn.pokde.net/wp-content/uploads/2026/06/26000525/lenovotabplusgen2cover.jpg",
+            "publishedAt": "2026-06-25T16:06:39Z"
+        },
+        {
+            "title": "Google Finance Debuts App and Investment Tracking Capabilities",
+            "description": "Google has introduced new investing capabilities and a new Android app for Google Finance, including an updated portfolios tool.",
+            "url": "https://www.pymnts.com/google/2026/google-finance-debuts-app-and-investment-tracking-capabilities/",
+            "image": "https://www.pymnts.com/wp-content/uploads/2026/06/Google-Finance-app.png",
+            "publishedAt": "2026-06-25T16:04:48Z"
+        },
+        {
+            "title": "BP3, Takedown, Circle of Slaughter",
+            "description": "We've got a new roadmap, new info about the paid DLC of Bounty Pack 3 and the endgame Takedown raid that's free for all players, and more.",
+            "url": "https://borderlands.2k.com/borderlands-4/news/bounty-pack-3-takedown-circle-of-slaughter-out-now/",
+            "image": "https://assets.2k.com/1a6ngf98576c/4zXpfbA9xO397sI262TrDm/6bbefd7d76850e74bcfda880dd76cf10/BL4_KA.png",
+            "publishedAt": "2026-06-25T16:03:57Z"
+        },
+        {
+            "title": "\" ROMEO IS A DEAD MAN \u2019s First Big Update \u201cROMEO\u2019S UPDATED, MAN\u201d now live on Steam!\"",
             "description": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-            "url": "https://www.gamespress.com/es/Abelard-Announce-That-Warhammer-40000-Rogue-Trader-Has-Sold-More-Than-",
+            "url": "https://www.gamespress.com/en-US/ROMEO-IS-A-DEAD-MAN-s-First-Big-Update-ROMEOS-UPDATED-MAN-now-live-on-",
             "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
-            "publishedAt": "2026-06-24T16:09:55Z"
+            "publishedAt": "2026-06-25T16:01:48Z"
         },
         {
-            "title": "\u201cAbelard, Announce That Warhammer 40,000: Rogue Trader Has Sold More Than 2 Million Copies!\"",
+            "title": "Up to 80% Off Across the Steam Summer Sale!",
             "description": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-            "url": "https://www.gamespress.com/tr/Abelard-Announce-That-Warhammer-40000-Rogue-Trader-Has-Sold-More-Than-",
+            "url": "https://www.gamespress.com/en-GB/Up-to-80-Off-Across-the-Steam-Summer-Sale",
             "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
-            "publishedAt": "2026-06-24T16:09:55Z"
+            "publishedAt": "2026-06-25T16:01:47Z"
         },
         {
-            "title": "Google Tests 'Strongest Match' Labels On Search Ads",
-            "description": "Google is testing 'Strongest match' and 'Strong match' labels on Search ads in the US. Here's what the relevance badge means for your PPC campaigns.",
-            "url": "https://www.searchenginejournal.com/google-strongest-match-search-ad-labels-test/580378/",
-            "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/06/google-strongest-match-testing-label_06242026-699.png",
-            "publishedAt": "2026-06-24T16:07:37Z"
+            "title": "ZeroSpace Hits 250,000 Wishlists Ahead of July 20 Early Access Launch",
+            "description": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+            "url": "https://www.gamespress.com/en-US/ZeroSpace-Hits-250000-Wishlists-Ahead-of-July-20-Early-Access-Launch",
+            "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/06/251405-1937a867/image_-_2026-06-23T140315.135.png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=dba3b80ff75cad66d0a322c9cf1e928cc0355b20ed20790f249b2630c15efefc",
+            "publishedAt": "2026-06-25T16:01:32Z"
         },
         {
-            "title": "22 New GTA 6 Gameplay Details Revealed",
-            "description": "Fishing, Fencing, fixing up classic cars and much, much more.",
-            "url": "https://sea.ign.com/grand-theft-auto-vi-rumored-title/244651/22-new-gta-6-gameplay-details-revealed",
-            "image": "https://sm.ign.com/t/ign_ap/feature/2/22-new-gta/22-new-gta-6-gameplay-details-revealed_8677.1200.jpg",
-            "publishedAt": "2026-06-24T16:05:20Z"
+            "title": "LDPlayer 14 officially launches, redefining the Android gaming experience on PC",
+            "description": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+            "url": "https://www.gamespress.com/en-US/LDPlayer-14-officially-launches-redefining-the-Android-gaming-experien",
+            "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/06/251313-3b21f944/ldplayer14live.png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=9d9bc50369c7a239fb7b64f53cde4ee0755f06a3254fb942582a7eb8c233b0f2",
+            "publishedAt": "2026-06-25T16:01:32Z"
         },
         {
-            "title": "Fortnite Begins Reselling Old Battle Pass Skins in Next Update",
-            "description": "Absolute Doom for your wallet.",
-            "url": "https://sea.ign.com/fortnite/244652/fortnite-begins-reselling-old-battle-pass-skins-in-next-update",
-            "image": "https://sm.ign.com/t/ign_ap/news/f/fortnite-b/fortnite-begins-reselling-old-battle-pass-skins-in-next-upda_dutd.1200.jpg",
-            "publishedAt": "2026-06-24T16:05:20Z"
-        },
-        {
-            "title": "iQOO Neo11s is coming very soon, here are its main specs",
-            "description": "These have just been leaked in China. iQOO launched the Neo11 in China last October, and now it's apparently working on a new variation of this device,...",
-            "url": "https://www.gsmarena.com/iqoo_neo11s_is_coming_very_soon_here_are_its_main_specs-news-73420.php",
-            "image": "https://fdn.gsmarena.com/imgroot/news/26/06/iqoo-neo11s-details-leak/-952x498w6/gsmarena_000.jpg",
-            "publishedAt": "2026-06-24T16:00:02Z"
-        },
-        {
-            "title": "CLASH OF CLANS BRINGS INTERACTIVE CLASH FOR THE STACHE CHALLENGE ROOM EXPERIENCE TO SAN DIEGO",
-            "description": "/PRNewswire/ -- Clash of Clans is taking on San Diego this summer! Clash of Clans - Clash for the Stache invites fans of all ages to step into a real Clash...",
-            "url": "https://www.prnewswire.com/news-releases/clash-of-clans-brings-interactive-clash-for-the-stache-challenge-room-experience-to-san-diego-302809479.html",
-            "image": "https://mma.prnewswire.com/media/2999244/Supercell_Clash_for_the_Stache.jpg?p=facebook",
-            "publishedAt": "2026-06-24T16:00:00Z"
-        },
-        {
-            "title": "Motorola set to unveil 13-inch tablet with Snapdragon 8s Gen 4 and 144 Hz display",
-            "description": "In just a few days, Motorola will launch a brand-new tablet that, with its 144 Hz, 13-inch touchscreen, a detachable keyboard with a trackpad, and a fast ARM chip from the Snapdragon 8 series, can also serve as a laptop replacement.",
-            "url": "https://www.notebookcheck.net/Motorola-set-to-unveil-13-inch-tablet-with-Snapdragon-8s-Gen-4-and-144-Hz-display.1328159.0.html",
-            "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Moto-Pad-70-Pro.jpg.jpg",
-            "publishedAt": "2026-06-24T15:59:00Z"
-        },
-        {
-            "title": "GTA 6 Price, Single Player Revealed Ahead of Pre-orders",
-            "description": "Rockstar Games has finally revealed the price for \"Grand Theft Auto VI\" -- and the fact the game will be a \"single-player experience\" at launch.",
-            "url": "https://variety.com/2026/gaming/news/gta-6-price-single-player-pre-orders-1236789407/",
-            "image": "https://variety.com/wp-content/uploads/2026/06/GTA-6.png?w=1000&h=563&crop=1",
-            "publishedAt": "2026-06-24T15:55:00Z"
-        },
-        {
-            "title": "Rockstar Made GTA 6 $80 With No Disc, Is It Worth It?",
-            "description": "GTA 6 will cost $79.99 with no disc in the box, just a download code. Here's why Rockstar's move could change how much we pay to own games.",
-            "url": "https://www.techloy.com/gta-6-price-no-disc/",
-            "image": "https://storage.ghost.io/c/c1/a6/c1a6d111-d951-41ad-a392-c1e841210b93/content/images/size/w1200/2026/06/photo-1599604079629-bb0dfe72f847.jpeg",
-            "publishedAt": "2026-06-24T15:47:58Z"
+            "title": "Bungie confirms layoffs following final Destiny update",
+            "description": "Bungie has confirmed that it is undergoing a major downsizing effort, marking the end of Destiny 2 development and a significant shift in the studio's future plans. The announcement follows the release of Destiny 2's final content update earlier this month. As reported by Insider Gaming, PlayStation Studios head Hermen Hulst informed staff in an",
+            "url": "https://www.kitguru.net/gaming/matthew-wilson/bungie-confirms-layoffs-following-final-destiny-update/",
+            "image": "https://www.kitguru.net/wp-content/uploads/2021/08/Destiny-2-732x330.jpg",
+            "publishedAt": "2026-06-25T16:00:59Z"
         }
     ]
 }
