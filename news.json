@@ -1,75 +1,75 @@
 {
-    "date": "2026-07-12",
+    "date": "2026-07-13",
     "articles": [
         {
-            "title": "We got an exclusive first look at Nopia, the viral chord synth and \"harmony machine\" that broke the internet",
-            "description": "Creators Martin Grieco and Roc\u00edo Gal visit the MusicRadar studio to show us what Nopia can do and reveal its price ahead of the instrument's release later this year",
-            "url": "https://www.musicradar.com/music-tech/we-got-an-exclusive-first-look-at-nopia-the-viral-chord-synth-and-harmony-machine-that-broke-the-internet",
-            "image": "https://cdn.mos.cms.futurecdn.net/PWV5uwd9kgCPQWVybPKdCS-1280-80.jpg",
-            "publishedAt": "2026-07-11T15:37:23Z"
+            "title": "Ubisoft's Black Flag remake is a symptom, not a strategy",
+            "description": "Assassin's Creed Black Flag Resynced is a good remake. It exists because Ubisoft cancelled six games and needs something to sell",
+            "url": "https://thenextweb.com/news/ubisoft-black-flag-remake-nostalgia-business",
+            "image": "https://media.thenextweb.com/2026/06/claude-guillemot-ubisoft-co-founder-dies-plane-crash-69.avif",
+            "publishedAt": "2026-07-12T15:34:00Z"
         },
         {
-            "title": "Assassin's Creed Black Flag Resynced opens to 2 million sales on launch day",
-            "description": "Ubisoft tends not to share sales figures publicly \u2013 which means we can't even compare it to the sales of prior Assassin's Creed games, let alone its peers.",
-            "url": "https://www.eurogamer.net/assassins-creed-black-flag-resynced-2-million-sales",
-            "image": "https://assetsio.gnwcdn.com/Main-Image-2-Edward-Smiling-Finding-Treasure.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-            "publishedAt": "2026-07-11T15:32:39Z"
+            "title": "Minecraft's New Cushion Is Reinventing Pretty Much Everything",
+            "description": "Mojang, please don't nerf the cushion",
+            "url": "https://kotaku.com/minecraft-adds-the-ability-to-sit-17-years-later-and-its-reinventing-everything-2000714330",
+            "image": "https://kotaku.com/app/uploads/2026/07/sitting.jpg",
+            "publishedAt": "2026-07-12T15:30:56Z"
         },
         {
-            "title": "Your music app's high-res lossless setting is doing nothing your ears can hear",
-            "description": "Files beyond CD quality sound impressive on paper, but they're unnecessary for almost everyone.",
-            "url": "https://www.makeuseof.com/your-high-res-lossless-setting-is-doing-nothing/",
-            "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/12/hi-res-lossless-apple-music.jpg?w=1600&h=900&fit=crop",
-            "publishedAt": "2026-07-11T15:30:18Z"
+            "title": "The 5 coolest open-source projects I've discovered in 2026",
+            "description": "Big AI breakthroughs aren't the only interesting things happening.",
+            "url": "https://www.howtogeek.com/coolest-open-source-projects-discovered-2026/",
+            "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/07/ollama-website-open-models-run-any-app-or-agent.jpg?w=1600&h=900&fit=crop",
+            "publishedAt": "2026-07-12T15:30:17Z"
         },
         {
-            "title": "Kelly Slater\u2019s Pro Surfer Clip Explodes Online 24 Years Later: \u2018Better Than Games Today\u2019 (Video)",
-            "description": "The beloved 2002 surfing video game is enjoying a viral resurgence thanks to its stunningly realistic waves.",
-            "url": "https://tech.yahoo.com/gaming/articles/kelly-slater-pro-surfer-clip-152646383.html",
-            "image": "https://s.yimg.com/lo/mysterio/api/fda93f1383da64ce4580eb664eb9e07faeb80d61b4a39795c5065d517b06d3cb/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsurfer_magazine_140%2Fd00683f7696e52786a7342fe41fa504b",
-            "publishedAt": "2026-07-11T15:26:46Z"
+            "title": "A Dietitian Reveals 5 Red Flags",
+            "description": "Veena V, Chief Clinical Dietician at Aster Whitefield Hospital, Bengaluru, warns that consumers are frequently misled by catchy marketing trends when purchasing popular protein supplements. She outlines five major red flags: high added sugar content, overly long ingredient lists full of artificial additives, hidden stimulants like caffeine, using powders as improper meal replacements, and consuming extra protein without tracking daily bodily requirements.",
+            "url": "https://indianexpress.com/article/lifestyle/health/5-protein-shake-red-flags-to-know-10775449/",
+            "image": "https://images.indianexpress.com/2026/07/protein-shake-2.jpg",
+            "publishedAt": "2026-07-12T15:30:00Z"
         },
         {
-            "title": "Huawei building 12-inch chip wafer plant to deal with DRAM shortage",
-            "description": "Huawei is reportedly teaming up with the Chinese government to build a new 12-inch chip wafer plant that can help it cut off some pressure fr",
-            "url": "https://www.huaweicentral.com/huawei-building-12-inch-chip-wafer-plant/",
-            "image": "https://www.huaweicentral.com/wp-content/uploads/2026/04/Huawei-AI-chip.jpg",
-            "publishedAt": "2026-07-11T15:22:13Z"
+            "title": "Samsung sparks privacy debate with new health data consent request for AI models",
+            "description": "Samsung Health users are being asked to allow their activity, medical and other personal health data to be used in AI training, sparking fresh privacy.",
+            "url": "https://eastleighvoice.co.ke/technology/378500/samsung-sparks-privacy-debate-with-new-health-data-consent-request-for-ai-models",
+            "image": "https://publish.eastleighvoice.co.ke/mugera_lock/uploads/2026/07/eastleighvoice-co-ke-2026-july-12-145208.webp",
+            "publishedAt": "2026-07-12T15:29:24Z"
         },
         {
-            "title": "My favorite Gemini alternative isn't ChatGPT or Copilot; it's way more productive",
-            "description": "The AI tool that actually clicked",
-            "url": "https://www.androidpolice.com/favorite-gemini-alternative-is-not-chatgpt-or-copilot-it-is-way-more-productive/",
-            "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/07/claude-is-best-gemini-alternative.png?w=1600&h=900&fit=crop",
-            "publishedAt": "2026-07-11T15:15:10Z"
+            "title": "Progress Told ShareFile Customers to Pull the Plug on Their Servers. Here's What We Know.",
+            "description": "Progress urged ShareFile Storage Zone customers to shut down internet-facing servers immediately over a credible threat under investigation",
+            "url": "https://securityaffairs.com/195194/hacking/progress-told-sharefile-customers-to-pull-the-plug-on-their-servers-heres-what-we-know.html",
+            "image": "https://securityaffairs.com/wp-content/uploads/2026/07/image-35.png",
+            "publishedAt": "2026-07-12T15:22:30Z"
         },
         {
-            "title": "Lenovo launches affordable MacBook Neo rival with thin and light design",
-            "description": "The Lecoo Air 14 powered by Intel Wildcat Lake is now available in China. Lenovo introduced it in May 2026, and this affordable MacBook Neo rival has 12GB of RAM, weighs 990g, and is 12.95mm thick. Its initial price is CNY 4,088, around $603.",
-            "url": "https://www.notebookcheck.net/Lenovo-launches-affordable-MacBook-Neo-rival-with-thin-and-light-design.1340194.0.html",
-            "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Lenovo-launches-Lecoo-Air-14-with-Intel-Wildcat-Lake.jpg",
-            "publishedAt": "2026-07-11T15:15:00Z"
+            "title": "God of War Laufey studio hints at 2027 release window following tweet that assures players it \"will be available on disc\"",
+            "description": "We may not know the precise release date of the upcoming God of War Laufey, but a new tweet suggests we'll get it before the end of 2027.",
+            "url": "https://www.eurogamer.net/god-of-war-laufey-disc-confirmed",
+            "image": "https://assetsio.gnwcdn.com/god-of-war-laufey.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "publishedAt": "2026-07-12T15:18:51Z"
         },
         {
-            "title": "Huawei Mate 80 series sales rapidly crossed 7.5 million units",
-            "description": "Huawei Mate 80 series continues to surprise consumers with its sales figures, and the flagship lineup has now crossed 7.5 million units in th",
-            "url": "https://www.huaweicentral.com/huawei-mate-80-series-sales-rapidly-crossed-7-5-million-units/",
-            "image": "https://www.huaweicentral.com/wp-content/uploads/2026/03/Mate80ProMax3.jpg",
-            "publishedAt": "2026-07-11T15:09:52Z"
+            "title": "Shane Sweetnam and James Kann Cruz winner of the Falsterbo Rolex Grand Prix",
+            "description": "A total of twelve combinations qualified today for the Jump-Off in the 1.60m CSIO5* Rolex Grand Prix at the Falsterbo Horse Show. Last at the start, Ireland's Shane Sweetnam jumped to the win aboard his Irish bred, James Kann cruz (Kannan).",
+            "url": "https://equnews.com/article/showjumping-en/shane-sweetnam-and-james-kann-cruz-winner-of-the-falsterbo-rolex-grand-prix",
+            "image": "http://equnews.s3-eu-west-1.amazonaws.com/2026/07/24348.jpg",
+            "publishedAt": "2026-07-12T15:16:12Z"
         },
         {
-            "title": "PlayStation Boss Says Sony Ending Discs Is 'Kind Of Sad'",
-            "description": "'I think there's probably a whole lot of financial analysis that went behind this decision'",
-            "url": "https://kotaku.com/former-playstation-boss-sony-game-discs-sad-2000714799",
-            "image": "https://kotaku.com/app/uploads/2021/06/554f2d880cae9dbbafd2dabfd6ad16ab-1200x675.jpg",
-            "publishedAt": "2026-07-11T15:08:54Z"
+            "title": "I started using Gemini with Samsung Notes; it's been a game-changer",
+            "description": "Samsung Notes is smarter than ever",
+            "url": "https://www.androidpolice.com/started-using-gemini-with-samsung-notes-it-is-been-game-changer/",
+            "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/07/using-gemini-with-samsung-notes.png?w=1600&h=900&fit=crop",
+            "publishedAt": "2026-07-12T15:15:10Z"
         },
         {
-            "title": "Ubisoft warns of risk of releasing games too late, 'when market anticipation has waned'",
-            "description": "Tracking the most notable changes in Ubisoft's new annual report. The company also cut a claim that micro-transactions can make games \u201cmore fun.\u201d",
-            "url": "https://www.gamefile.news/p/ubisoft-2026-annual-report-changes",
-            "image": "https://substackcdn.com/image/fetch/$s_!UJdy!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1ac14719-aa14-4348-8488-48073839ffbb_2010x1222.png",
-            "publishedAt": "2026-07-11T15:08:05Z"
+            "title": "Here's Why Apple is Reportedly Skipping M6 Pro and M6 Max Chips",
+            "description": "According to Bloomberg's Mark Gurman, Apple will be releasing a regular M6 chip, but it has no plans to offer higher-end M6 Pro and M6 Max chips. In his Power On newsletter today, he said the reason for this break in tradition is AI. \"Apple had been planning major neural-processing upgrades for the M7 family and ultimately decided those improvements were important enough to justify accelerating the next generation rather than completing the M6 lineup,\" he explained.",
+            "url": "https://www.macrumors.com/2026/07/12/why-apple-is-skipping-m6-pro-m6-max-chips/",
+            "image": "https://images.macrumors.com/t/dZpr2AHe9O20SSyJxJudUyjwyTw=/1600x/article-new/2026/07/M6-Pro-M6-Max-Mockup.jpg",
+            "publishedAt": "2026-07-12T15:12:02Z"
         }
     ]
 }
