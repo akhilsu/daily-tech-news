@@ -1,75 +1,75 @@
 {
-    "date": "2026-08-05",
+    "date": "2026-08-06",
     "articles": [
         {
-            "title": "Fortune's Weave Direct",
-            "description": "Nintendo dropped 20 minutes of gameplay and information about the upcoming Fire Emblem: Fortune's Weave.",
-            "url": "https://www.cgmagonline.com/news/fire-emblem-fortunes-weave-direct/",
-            "image": "https://www.cgmagonline.com/wp-content/uploads/2026/08/everything-shown-at-the-fire-emblem-fortunes-weave-direct-6577.jpg",
-            "publishedAt": "2026-08-04T15:16:33Z"
+            "title": "Best iPad deal: Get an 11-inch A16 Apple iPad for $399.99 at Amazon",
+            "description": "As of August 4, get the 11-inch A16 iPad for just $399.99 at Amazon.",
+            "url": "https://mashable.com/tech/august-4-apple-ipad-deal",
+            "image": "https://helios-i.mashable.com/imagery/articles/07ctbCLzMGdATDnXTp5k81t/hero-image.fill.size_1200x675.v1785857282.png",
+            "publishedAt": "2026-08-05T15:19:56Z"
         },
         {
-            "title": "Fender launches Motion Controllers integrated with Fender Studio Pro",
-            "description": "Fender has launched a new line of professional creative controllers named Fender Motion, which integrate with its Studio Pro DAW.",
-            "url": "https://musictech.com/news/gear/fender-motion-controllers-studio-pro-integration/",
-            "image": "https://musictech.com/wp-content/uploads/2026/08/fender-motion@2000x1500-1068x801.jpg",
-            "publishedAt": "2026-08-04T15:12:18Z"
+            "title": "Two More Games Revealed For Xbox Game Pass In September 2026",
+            "description": "Have a look at what's to come next month - August may have just begun, but we're taking an early gander at what's ahead for September 2026's Xbox Game Pass l...",
+            "url": "https://www.purexbox.com/news/2026/08/two-more-games-revealed-for-xbox-game-pass-in-september-2026",
+            "image": "https://images.purexbox.com/2ce02a40060d8/large.jpg",
+            "publishedAt": "2026-08-05T15:19:51Z"
         },
         {
-            "title": "IPhone 18 Pro Max Leak Hints At Major Upgrades",
-            "description": "A new iPhone 18 Pro Max leak points to a 5,567mAh battery, A20 Pro chip, 12GB RAM, upgraded cameras, a smaller Dynamic Island and a 2026 launch.",
-            "url": "https://ascendants.in/industry_events/iphone-18-pro-max-leak-battery-a20-pro-camera-upgrades/",
-            "image": "https://ascendants.in/wp-content/uploads/2026/08/iphone-18-pro-max-leaks-and-updates.jpeg",
-            "publishedAt": "2026-08-04T15:12:10Z"
-        },
-        {
-            "title": "Two new lightweight Casio G-Shock watches launching globally",
-            "description": "The Casio G-Shock BGA-290SA-6A and BGA-290SA-7A watches have been listed on the brand\u2019s international website. This is a relatively lightweight Baby-G model, with a hybrid watch face and 10 ATM water resistance.",
-            "url": "https://www.notebookcheck.net/Two-new-lightweight-Casio-G-Shock-watches-launching-globally.1359992.0.html",
-            "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Casio-BGA-290SA-7A-and-BGA-290SA-6A-watches.jpg",
-            "publishedAt": "2026-08-04T15:12:00Z"
-        },
-        {
-            "title": "Microsoft Paint is now one of the weirdest ways to play Doom.",
-            "description": "The humble drawing app has gotten several useful upgrades over the past few years, but Mark Russinovich, the Microsoft\u00a0Azure CTO, has found a way for Paint to play Doom\u2026 kind of. Instead of actually running the game, DoomPaint loads rendered frames into the app from the Windows clipboard at a very playable 35fps.\n[Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/doompaint.jpg?quality=90&strip=all]",
-            "url": "https://www.theverge.com/tech/975044/microsoft-paint-play-doom-mark-russinovich",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/doompaint.jpg?quality=90&strip=all&crop=0%2C15.281645687126%2C100%2C69.436708625747&w=1200",
-            "publishedAt": "2026-08-04T15:11:43Z"
-        },
-        {
-            "title": "WarmySender AI Automates Cold Email, LinkedIn and Instagram Outreach",
-            "description": "Let ChatGPT, Claude, and other MCP-compatible assistants build, launch, and adjust cold-email, LinkedIn, and Instagram campaigns within safe sending limits \u2014 and new platform data shows the approach pays: verifying recipients before sending cuts bounce rates by more than 96.67%%. WarmySender, the all-in-one outreach platform, today detailed how marketers can run their outreach on autopilot",
-            "url": "https://www.martechcube.com/warmysender-ai-automates-cold-email-linkedin-and-instagram-outreach/",
-            "image": "https://www.martechcube.com/wp-content/uploads/2025/12/mtc-favicon.svg",
-            "publishedAt": "2026-08-04T15:10:06Z"
-        },
-        {
-            "title": "Wrestling Manager Officially Enters the Ring on Android, Letting Players Build Their Own Wrestling Empire",
+            "title": "\"DreadXP Unveils VILE: Exhumed Physical Edition in Celebration of Gripping, Story",
             "description": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-            "url": "https://www.gamespress.com/tr/Wrestling-Manager-Officially-Enters-the-Ring-on-Android-Letting-Player",
+            "url": "https://www.gamespress.com/en-GB/DreadXP-Unveils-VILE-Exhumed-Physical-Edition-in-Celebration-of--24018",
             "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
-            "publishedAt": "2026-08-04T15:09:32Z"
+            "publishedAt": "2026-08-05T15:19:17Z"
         },
         {
-            "title": "Andes teaches its RISC-V edge platform to speak transformer",
-            "description": "Andes upgrades the AnDLA I370 for ViT, VLM, and small language models at the edge.",
-            "url": "https://www.jonpeddie.com/news/andes-teaches-its-risc-v-edge-platform-to-speak-transformer/",
-            "image": "https://www.jonpeddie.com/wp-content/uploads/2026/08/and.png",
-            "publishedAt": "2026-08-04T15:08:34Z"
+            "title": "\"DreadXP Unveils VILE: Exhumed Physical Edition in Celebration of Gripping, Story",
+            "description": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+            "url": "https://www.gamespress.com/en-US/DreadXP-Unveils-VILE-Exhumed-Physical-Edition-in-Celebration-of--24018",
+            "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+            "publishedAt": "2026-08-05T15:19:17Z"
         },
         {
-            "title": "Mafia: The Old Country expansion \u2018Man of Honor\u2019 gameplay first look trailer",
-            "description": "Publisher 2K and developer Hangar 13 have released a three-minute gameplay first look trailer for Mafia: The Old Country expansion \u201cMan of Honor.",
-            "url": "https://www.gematsu.com/2026/08/mafia-the-old-country-expansion-man-of-honor-gameplay-first-look-trailer",
-            "image": "https://www.gematsu.com/wp-content/uploads/2026/08/Mafia-DLC_08-04-26.jpg",
-            "publishedAt": "2026-08-04T15:07:49Z"
+            "title": "Introducing DERELIKT, A Narrative Retro FPS Built for Fans of Claustrophobic PS1-Era Sci-Fi",
+            "description": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+            "url": "https://www.gamespress.com/en-GB/Introducing-DERELIKT-A-Narrative-Retro-FPS-Built-for-Fans-of-Claustrop",
+            "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+            "publishedAt": "2026-08-05T15:19:17Z"
         },
         {
-            "title": "Nintendo showcases gameplay, modes of 'Fire Emblem: Fortune's Weave'",
-            "description": "Nintendo showcased its upcoming fantasy-adventure title Fire Emblem: \"Fortune's Weave\" during a livestreamed presentation on Tuesday.",
-            "url": "https://www.upi.com/Entertainment_News/2026/08/04/Nintendo-Fire-Emblem-Fortunes-Weave/5011785852964/",
-            "image": "https://cdnph.upi.com/ph/st/th/5011785852964/2026/i/17858539849730/v1.5/Nintendo-showcases-gameplay-modes-of-Fire-Emblem-Fortunes-Weave.jpg?lg=5",
-            "publishedAt": "2026-08-04T15:07:23Z"
+            "title": "Scientists Transform Hated Plastic into Premium Lubricant",
+            "description": "Virginia Tech chemist and chemical engineer Guoliang \"Greg\" Liu and his lab have developed a process that converts the plastic polyvinyl chloride",
+            "url": "https://www.miragenews.com/scientists-transform-hated-plastic-into-premium-1722382/",
+            "image": "https://cdn1.miragenews.com/tmp_cache?cdn=images.unsplash.com%2Fphoto-1512314889357-e157c22f938d%3Fixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26amp%3Bixlib%3Drb-1.2.1%26amp%3Bauto%3Dformat%26amp%3Bfit%3Dcrop%26amp%3Bw%3D1351%26amp%3Bq%3D80",
+            "publishedAt": "2026-08-05T15:19:00Z"
+        },
+        {
+            "title": "Samsung is developing a new smartwatch running on RTOS instead of Wear OS",
+            "description": "Samsung is working on a new smartwatch with a display that may be called the Galaxy Aero. It is expected to cost more than the Galaxy Fit 4 but less than the Galaxy Watch FE, and will run on RTOS rather than Wear OS.",
+            "url": "https://mezha.ua/en/news/samsung-galaxy-aero-smartwatch-313904/",
+            "image": "https://img.mezha.ua/mezha/images/doc/3/d/320646/3d0ce43c63ff73165d14bbb766e5780d.jpeg?w=1200&q=85&stamp=1785930885",
+            "publishedAt": "2026-08-05T15:18:00Z"
+        },
+        {
+            "title": "Beaten Path Revealed for PC and Consoles",
+            "description": "It's incredible that one person is making this!",
+            "url": "https://sea.ign.com/beaten-path/246437/beaten-path-revealed-for-pc-and-consoles",
+            "image": "https://sm.ign.com/t/ign_ap/news/b/beaten-pat/beaten-path-revealed-for-pc-and-consoles_22n2.1200.jpg",
+            "publishedAt": "2026-08-05T15:16:32Z"
+        },
+        {
+            "title": "Banned Steam horror game gets physical release in defiance of Valve",
+            "description": "Vile: Exhumed, the narrative FMV game removed from Steam, returns with a special edition that supports the developer as well as charity",
+            "url": "https://www.polygon.com/steam-banned-horror-game-vile-exhumed-physical-release-cara-cadaver-fmv/",
+            "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/vile-4.jpg?w=1600&h=900&fit=crop",
+            "publishedAt": "2026-08-05T15:15:22Z"
+        },
+        {
+            "title": "Samsung's 27-Inch Odyssey G5 Combines 1ms Response Time and FreeSync, Now at a Record Low",
+            "description": "The current discount drops the monitor to its lowest price ever of $150.",
+            "url": "https://gizmodo.com/samsungs-27-inch-odyssey-g5-combines-1ms-response-time-and-freesync-now-at-a-record-low-2000794207",
+            "image": "https://gizmodo.com/app/uploads/2026/08/samsung-monitor-1200x675.jpg",
+            "publishedAt": "2026-08-05T15:15:11Z"
         }
     ]
 }
