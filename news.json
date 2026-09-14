@@ -1,75 +1,75 @@
 {
-    "date": "2026-09-13",
+    "date": "2026-09-14",
     "articles": [
         {
-            "title": "Professor Layton Dev Confirms Heavy AI Use After Fans Hit Out at Multiple Game Reveals",
-            "description": "Developer Level-5 has apologized for and explained its use of generative AI after fans spotted 'AI slop' in footage of games like Professor Layton and the Curious Village, DecaPolice, and more.",
-            "url": "https://www.ign.com/articles/level-5-boss-addresses-ai-backlash-after-fans-hit-out-at-game-reveal-showcase",
-            "image": "https://assets-prd.ignimgs.com/2026/09/12/professor-layton-and-the-new-world-of-steam-1789228310265.png?width=1280&format=jpg&auto=webp&quality=80",
-            "publishedAt": "2026-09-12T16:25:13Z"
+            "title": "With a 69% positive rating, this Viking city builder is 70% off on Steam",
+            "description": "Frozenheim tasks you with gathering resources, expanding your settlement, repelling enemy attacks, and exploring a dangerous world. Blending city-builder and strategy mechanics, you'll need to build and lead a powerful Viking clan.",
+            "url": "https://www.notebookcheck.net/With-a-69-positive-rating-this-Viking-city-builder-is-70-off-on-Steam.1398237.0.html",
+            "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/With-a-69-positive-rating-this-Viking-city-builder-is-70-off-on-Steam.jpg",
+            "publishedAt": "2026-09-13T16:31:00Z"
         },
         {
-            "title": "Apple Watch Series 9 and watchOS 27: Which New Health Features Actually Arrive",
-            "description": "watchOS 27 runs on Apple Watch Series 9 and later, but Apple ties its new Health Sensing System specifically to Series 12 and Ultra 4 hardware.",
-            "url": "https://www.macobserver.com/news/apple-watch-series-9-watchos-27-which-health-features-arrive/",
-            "image": "https://www.macobserver.com/wp-content/uploads/2026/09/apple-watch-series-12-2up-260909.jpg",
-            "publishedAt": "2026-09-12T16:25:05Z"
+            "title": "My GPU subsidizes all my AI subscriptions, and it has saved me hundreds in cloud AI usage credits",
+            "description": "Thanks for saving my money from Anthropic, RTX 4070 Ti!",
+            "url": "https://www.xda-developers.com/my-gpu-subsidizes-all-my-ai-subscriptions-and-it-has-saved-me-hundreds-in-cloud-ai-usage-credits/",
+            "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/09/main-gpu-piece.JPG?w=1600&h=900&fit=crop",
+            "publishedAt": "2026-09-13T16:30:16Z"
         },
         {
-            "title": "Where Apple Intelligence Actually Works: The EU and China Questions Apple Answers",
-            "description": "Apple Intelligence works EU-wide, but Siri AI and Apple Reference Image are restricted differently there and in China. Here is what Apple has published.",
-            "url": "https://www.macobserver.com/news/apple-intelligence-eu-china-availability-faq/",
-            "image": "https://www.macobserver.com/wp-content/uploads/2026/09/apple-iphone-18-pro-photos-app-apple-reference-image-260909.jpg",
-            "publishedAt": "2026-09-12T16:16:30Z"
+            "title": "Gurman Expects Extreme iPhone Duo Shortages and Soaring Resale Prices",
+            "description": "Mark Gurman expects iPhone Duo demand to cause severe global shortages, overseas scalping and soaring resale prices worldwide by early next year.",
+            "url": "https://www.macobserver.com/news/gurman-iphone-duo-shortages-resale-prices/",
+            "image": "https://www.macobserver.com/wp-content/uploads/2026/09/iPhone-Duo-Sustained-Performance-Apples-35-Claim-vs-iPhone-17-Pro-and-the-Custom-Vapor-Chamber.jpg",
+            "publishedAt": "2026-09-13T16:26:35Z"
         },
         {
-            "title": "Five New iOS 27 Features Explained: What Apple Reference Image, Call Context and Split View Actually Do",
-            "description": "Call Context, Live Translation, Image Playground, Apple Reference Image and Split View explained using only what Apple has published about each one.",
-            "url": "https://www.macobserver.com/news/ios-27-new-features-explained-reference-image-split-view/",
-            "image": "https://www.macobserver.com/wp-content/uploads/2026/09/apple-iphone-18-pro-photos-app-apple-reference-image.jpg",
-            "publishedAt": "2026-09-12T16:16:27Z"
+            "title": "Apple Store Staff Reportedly Face Stricter Morning Meeting Rules",
+            "description": "Apple Store staff reportedly must stand, avoid drinks and devices, stay engaged, and applaud first customers as doors open five minutes early.",
+            "url": "https://www.macobserver.com/news/apple-store-staff-stricter-morning-meeting-rules/",
+            "image": "https://www.macobserver.com/wp-content/uploads/2026/08/Apple-Starts-Testing-AI-Shopping-Assistant-in-Apple-Store-App.jpg",
+            "publishedAt": "2026-09-13T16:26:35Z"
         },
         {
-            "title": "Does AirPods 5 Have Hearing Test or Hearing Protection? What Apple Lists Instead",
-            "description": "Apple's AirPods comparison page lists Hearing Test, Hearing Aid and Hearing Protection as No for both AirPods 5 models. Here is what it lists instead.",
-            "url": "https://www.macobserver.com/news/airpods-5-hearing-test-hearing-protection-what-apple-lists/",
-            "image": "https://www.macobserver.com/wp-content/uploads/2026/09/apple-airpods-5-wireless-charging-case.jpg",
-            "publishedAt": "2026-09-12T16:07:15Z"
-        },
-        {
-            "title": "What Apple's Numbers Actually Measure",
-            "description": "Apple's iPhone 18 Pro vapor chamber claim is three times the surface area, not a performance percentage, and Apple publishes no throttling figure.",
-            "url": "https://www.macobserver.com/news/iphone-18-pro-vapor-chamber-40-percent-claim-explained/",
-            "image": "https://www.macobserver.com/wp-content/uploads/2026/09/apple-iphone-18-pro-a20-pro-chip.jpg",
-            "publishedAt": "2026-09-12T16:07:15Z"
-        },
-        {
-            "title": "The Six Questions Apple's Own Pages Already Answer",
-            "description": "Apple's own pages answer the iOS 27 questions people keep asking: eligibility, day-one timing for iPhone 18 Pro, update side effects and downgrading.",
-            "url": "https://www.macobserver.com/news/ios-27-update-faq-six-questions-apple-answers/",
-            "image": "https://www.macobserver.com/wp-content/uploads/2026/09/apple-iphone-18-pro-photos-app-apple-reference-image-260909.jpg",
-            "publishedAt": "2026-09-12T16:07:15Z"
-        },
-        {
-            "title": "Siri AI FAQ: English First, Five Languages in October, and the EU Gap",
-            "description": "Siri AI launches in English only on September 14, adds five languages in October with no date, and stays off iPhone in the EU. Apple's own answers.",
-            "url": "https://www.macobserver.com/news/siri-ai-faq-english-first-eu-gap/",
+            "title": "Gurman Says AI Wearables Will Not Replace the iPhone\u2019s Screen",
+            "description": "Mark Gurman argues that AI wearables cannot replace the iPhone\u2019s screen, while the iPhone Duo makes Apple\u2019s central computing hub even stronger.",
+            "url": "https://www.macobserver.com/news/gurman-ai-wearables-will-not-replace-iphone-screen/",
             "image": "https://www.macobserver.com/wp-content/uploads/2026/09/apple-iphone-duo-siri-ai.jpg",
-            "publishedAt": "2026-09-12T16:07:15Z"
+            "publishedAt": "2026-09-13T16:26:35Z"
         },
         {
-            "title": "iPhone Duo: What Apple\u2019s Pages Say About Battery, Apple Pencil, MagSafe and Cases",
-            "description": "iPhone Duo's battery, Apple Pencil, MagSafe and case questions, checked line by line against Apple's tech specs page and its own press release.",
-            "url": "https://www.macobserver.com/news/iphone-duo-battery-pencil-magsafe-cases-what-apple-says/",
-            "image": "https://www.macobserver.com/wp-content/uploads/2026/09/apple-iphone-duo-colors-260909.jpg",
-            "publishedAt": "2026-09-12T16:07:15Z"
+            "title": "New Apple TV With Siri AI and a Faster Chip Expected This Fall",
+            "description": "Mark Gurman expects a new Apple TV this fall with Siri AI and a faster chip after Apple delayed the box to wait for its assistant overhaul coming soon.",
+            "url": "https://www.macobserver.com/news/new-apple-tv-siri-ai-faster-chip-fall-2026/",
+            "image": "https://www.macobserver.com/wp-content/uploads/2026/05/Apple-TV-4K-Is-About-to-Break-a-Record-Apple-Fans-Never-Wanted.jpg",
+            "publishedAt": "2026-09-13T16:26:35Z"
         },
         {
-            "title": "What Apple's SynthID Footnote Says",
-            "description": "Apple will add Google's SynthID watermark to some edited iPhone 18 Pro photos, but not by September 14, separate from Apple Reference Image.",
-            "url": "https://www.macobserver.com/news/iphone-18-pro-photos-ai-watermark-synthid-vs-reference-image/",
-            "image": "https://www.macobserver.com/wp-content/uploads/2026/09/apple-iphone-18-pro-photos-app-apple-reference-image.jpg",
-            "publishedAt": "2026-09-12T16:07:15Z"
+            "title": "Apple Plans a Retail Store Redesign With Dedicated Genius Bars",
+            "description": "Apple reportedly plans a global retail redesign with dedicated Genius Bars, new pickup and Today at Apple bays, and updated staff spaces worldwide.",
+            "url": "https://www.macobserver.com/news/apple-retail-store-redesign-dedicated-genius-bars/",
+            "image": "https://www.macobserver.com/wp-content/uploads/2026/07/Apple-Tests-AI-Live-Notes-for-Genius-Bar-Customer-Sessions.jpg",
+            "publishedAt": "2026-09-13T16:26:35Z"
+        },
+        {
+            "title": "Apple's Leaked iPhone Game Controllers May Launch Under Beats",
+            "description": "Apple's two leaked iPhone game controllers may launch under Beats, with the brand reportedly leading engineering, design and product planning.",
+            "url": "https://www.macobserver.com/news/apple-iphone-game-controllers-launch-under-beats/",
+            "image": "https://www.macobserver.com/wp-content/uploads/2026/08/Apples-Beats-360-Headphones-Appear-in-New-Regulatory-Filing.jpg",
+            "publishedAt": "2026-09-13T16:26:35Z"
+        },
+        {
+            "title": "UGREEN 200W Power Bank Deal: 25,000mAh Drops to $99.98",
+            "description": "UGREEN\u2019s 25,000mAh 200W power bank is down to $99.98 at Amazon, saving $40. It offers 100W from a single USB-C port and built-in cables.",
+            "url": "https://sammyguru.com/ugreen-nexode-pro-200w-power-bank-deal-99-98/",
+            "image": "https://sammyguru.com/wp-content/uploads/2026/09/UGREEN-Nexode-Pro-25000mAh.jpg",
+            "publishedAt": "2026-09-13T16:23:07Z"
+        },
+        {
+            "title": "Xiaomi TV S Mini LED 2026 arrives in the Philippines",
+            "description": "Xiaomi continues to expand its smart home ecosystem in the Philippines with the arrival of the TV S Mini LED 2026 Series, alongside the Mijia Front Load Washer 9KG and Mijia Top Load Washer 13KG, combines advanced technology, practical features, and smart connectivity across different parts of the home. At the center of Xiaomi\u2019s latest [\u2026]",
+            "url": "https://unbox.ph/news/xiaomi-tv-s-mini-led-2026-philippines/",
+            "image": "https://unbox.ph/wp-content/uploads/2026/09/Xiaomi-TV-S-Mini-LED-2026-55.jpg",
+            "publishedAt": "2026-09-13T16:20:56Z"
         }
     ]
 }
