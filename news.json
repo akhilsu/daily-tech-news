@@ -1,75 +1,75 @@
 {
-    "date": "2026-09-17",
+    "date": "2026-09-18",
     "articles": [
         {
-            "title": "AMD's own DLSS 5 rival might be exclusive to next-gen RDNA 5 GPUs",
-            "description": "AMD is reportedly developing DLSS 5-like Neural Rendering for next-gen RDNA 5 GPUs, with the demanding feature potentially exclusive to new hardware.",
-            "url": "https://www.tweaktown.com/news/113582/amds-own-dlss-5-rival-might-be-exclusive-to-next-gen-rdna-5-gpus/index.html",
-            "image": "https://static.tweaktown.com/news/1/1/113582_1_amd-has-its-own-dlss-5-like-neural-rendering-coming-with-rdna_full.png",
-            "publishedAt": "2026-09-16T16:35:09Z"
+            "title": "Flamecraft Is Available Now on Steam, PlayStation 5, XBOX and Nintendo Switch!",
+            "description": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+            "url": "https://www.gamespress.com/Flamecraft-Is-Available-Now-on-Steam-PlayStation-5-XBOX-and-Nintendo-S",
+            "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+            "publishedAt": "2026-09-17T16:20:37Z"
         },
         {
-            "title": "Content creator-favorite DJI Osmo Pocket 4 camera is over $100 off at Amazon",
-            "description": "The DJI Osmo Pocket 4 gimbal camera that content creators love is on sale at Amazon for over $100 off. This is a rare discount.",
-            "url": "https://mashable.com/tech/sept-16-dji-osmo-pocket-4-deal",
-            "image": "https://helios-i.mashable.com/imagery/articles/07JTR9JONIUQxr5TH6Oww2X/hero-image.fill.size_1200x675.v1789571192.png",
-            "publishedAt": "2026-09-16T16:33:19Z"
+            "title": "Understanding catalyst failure mechanism guides efficient sulfur conversion in all-solid-state batteries",
+            "description": "Transition-metal sulfides can accelerate sulfur reactions in all-solid-state lithium-sulfur batteries, but their own stability during cycling has received less attention. Researchers uncovered two major catalyst failure pathways and used these insights to develop a compositionally disordered catalyst. The new design suppresses phase separation and transition metal migration while maintaining carrier transport, enabling efficient sulfur conversion under demanding battery conditions.",
+            "url": "https://www.eurekalert.org/news-releases/1144392",
+            "image": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/efe80f35-e744-4b43-b52b-033db4c56eca/Rendition/thumbnail/Content/Public",
+            "publishedAt": "2026-09-17T16:20:20Z"
         },
         {
-            "title": "Shark PowerDetect UV Reveal Review: Stellar Carpet Suction Meets Subpar Mopping",
-            "description": "The pricey Shark PowerDetect UV Reveal delivers powerful suction and smart obstacle avoidance, but its mop struggles with tough messes.",
-            "url": "https://www.pcmag.com/reviews/shark-powerdetect-uv-reveal",
-            "image": "https://i.pcmag.com/imagery/reviews/00Zbo4nyTGrQeYXxSiy5xb4-1.fit_lim.size_1200x630.v1788369631.jpg",
-            "publishedAt": "2026-09-16T16:30:49Z"
+            "title": "CRAZY TAXI: WORLD TOUR\u2122 ZOOMS TO JAPAN WITH NEW MAP AND TRAILER",
+            "description": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+            "url": "https://www.gamespress.com/CRAZY-TAXI-WORLD-TOUR-ZOOMS-TO-JAPAN-WITH-NEW-MAP-AND-TRAILER",
+            "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+            "publishedAt": "2026-09-17T16:19:03Z"
         },
         {
-            "title": "Goodbye, Claude Cowork: Anthropic merges its two Claudes into one",
-            "description": "From Claude to Cowork and back again - plus, Anthropic's all-new Claude Docs.",
-            "url": "https://www.zdnet.com/innovation/claude-chat-absorbs-cowork-anthropic/",
-            "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2289791509.jpg",
-            "publishedAt": "2026-09-16T16:30:44Z"
+            "title": "50 New macOS Golden Gate Features and Changes Worth Checking Out",
+            "description": "Apple released macOS 27 Golden Gate this week, and despite the company's focus this year on refining its flagship operating system, improving performance, and nixing bugs, there are still plenty of new things to explore.",
+            "url": "https://www.macrumors.com/2026/09/17/new-features-changes-macos-27/",
+            "image": "https://images.macrumors.com/t/2-E47N76SEYvPKCVIhCCCQ4JxHQ=/2500x/article-new/2026/09/50-New-macOS-Golden-Gate-Features-and-Changes-Worth-Checking-Out-Feature.jpg",
+            "publishedAt": "2026-09-17T16:18:20Z"
         },
         {
-            "title": "Anthropic Simplifies Claude's Cowork and Design Tools",
-            "description": "You can create documents, slides and design schemas all within the main Claude window now.",
-            "url": "https://www.cnet.com/tech/services-and-software/anthropic-claude-simplify-interface-cowork-design-ai-news/",
-            "image": "https://www.cnet.com/wp-content/uploads/sites/2/1c3102e0-a439-4e66-b5da-7757c969fd80.jpg",
-            "publishedAt": "2026-09-16T16:30:04Z"
+            "title": "Apple Seeds iOS 27.2 Beta Two Days After iOS 27 Launch",
+            "description": "iOS 27.2 beta arrived just two days after iOS 27 launched, bringing delayed AI features, Siri language expansion, and a Health app refresh.",
+            "url": "https://www.gadgetreview.com/apple-seeds-ios-27-2-beta-two-days-after-ios-27-launch",
+            "image": "https://www.gadgetreview.com/wp-content/uploads/Apple-Seeds-iOS-27.2-Beta-Two-scaled.jpg",
+            "publishedAt": "2026-09-17T16:14:41Z"
         },
         {
-            "title": "This New Community Activity Widget Tells You What's Hot Right Now on PS5",
-            "description": "Let's take a look - In case you missed it, today saw the arrival of a new PS5 system software update, and one of the more interesting additions is the Commun...",
-            "url": "https://www.pushsquare.com/news/2026/09/this-new-community-activity-widget-tells-you-whats-hot-right-now-on-ps5",
-            "image": "https://images.pushsquare.com/fcbcadb9b58c1/large.jpg",
-            "publishedAt": "2026-09-16T16:30:00Z"
+            "title": "Apple Seeds iOS 27.2 Beta Two Days After iOS 27 Launch",
+            "description": "iOS 27.2 beta arrived just two days after iOS 27 launched, bringing delayed AI features, Siri language expansion, and a Health app refresh.",
+            "url": "https://tech.yahoo.com/ai/apple-intelligence/articles/apple-seeds-ios-27-2-161441005.html",
+            "image": "https://s.yimg.com/lo/mysterio/api/7188fa3f64cf7929d8e9aea600a3f99b7e77566f0d912e76bf8cc655cc33997d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgadget_review_articles_822%2Fee02d8d2cd5a25e9369099bf768435ec.jpg",
+            "publishedAt": "2026-09-17T16:14:41Z"
         },
         {
-            "title": "Anthropic merges its chat and agentic products into one AI assistant in push to build a superapp",
-            "description": "Anthropic is folding its chat and autonomous task-execution products into one Claude interface, while adding collaborative document and presentation tools.",
-            "url": "https://fortune.com/2026/09/16/anthropic-merges-its-claude-chat-and-agentic-cowork-products-into-a-single-ai-assistant-as-part-of-a-push-to-build-an-ai-superapp/",
-            "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2294579660-e1789559419751.jpg?resize=1200,600",
-            "publishedAt": "2026-09-16T16:30:00Z"
+            "title": "The Rogue Prince of Persia \u2018Anniversary\u2019 update now available",
+            "description": "Publisher Ubisoft and developer Evil Empire have released the \u201cAnniversary\u201d update for The Rogue Prince of Persia. The update adds the new Ice element\u2026",
+            "url": "https://www.gematsu.com/2026/09/the-rogue-prince-of-persia-anniversary-update-now-available",
+            "image": "https://www.gematsu.com/wp-content/uploads/2026/09/Rogue-PoP-Anniversary-Update_09-17-26.jpg",
+            "publishedAt": "2026-09-17T16:12:41Z"
         },
         {
-            "title": "Anthropic merges Claude chat and Cowork in one interface",
-            "description": "Anthropic is initially releasing these features to Pro and Max plan subscribers.",
-            "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
-            "image": "https://techcrunch.com/wp-content/uploads/2026/09/Claude-1920x1080-1.jpeg?resize=1200,675",
-            "publishedAt": "2026-09-16T16:30:00Z"
+            "title": "Flamecraft Is Available Now on Steam, PlayStation 5, XBOX and Nintendo Switch!",
+            "description": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+            "url": "https://www.gamespress.com/en-GB/Flamecraft-Is-Available-Now-on-Steam-PlayStation-5-XBOX-and-Nintendo-S",
+            "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+            "publishedAt": "2026-09-17T16:09:02Z"
         },
         {
-            "title": "You can play a mystical adventure for free on Steam - Midnight Souls playtest has started",
-            "description": "Players will be able to experience the first chapter and various mini-games.",
-            "url": "https://ixbt.games/en/news/2026/09/16/v-steam-mozno-besplatno-poigrat-v-misticeskoe-prikliucenie-startoval-pleitest-midnight-souls.html",
-            "image": "https://media.ixbt.games/1600x900/smart/jpeg/ixbt-data/1347163/media-3hgv4fkbnbadqdusjobdwmt5.png",
-            "publishedAt": "2026-09-16T16:29:17Z"
+            "title": "iPhone 18 Pro Max Test Shows Much Faster Charging From 0% to 100%",
+            "description": "Apple said the new iPhone 18 Pro models are capable of faster USB-C charging compared to the iPhone 17 Pro models, and a new video shared by the YouTube channel Xiaobai's Tech Reviews offers a closer look at the year-over-year improvement.",
+            "url": "https://www.macrumors.com/2026/09/17/iphone-18-pro-max-charging-speed-test/",
+            "image": "https://images.macrumors.com/t/wPmqdDfKmnq9LyjpRxFCccGuSHI=/1600x/article-new/2026/09/Black-iPhone-18-Pro.jpg",
+            "publishedAt": "2026-09-17T16:07:48Z"
         },
         {
-            "title": "Images for Unannounced Tiny Tina's Wonderlands and Brothers in Arms Games Leak Online",
-            "description": "Were they scrapped?",
-            "url": "https://za.ign.com/brothers-in-arms-hells-highway/241392/images-for-unannounced-tiny-tinas-wonderlands-and-brothers-in-arms-games-leak-online",
-            "image": "https://sm.ign.com/t/ign_za/news/i/images-for/images-for-unannounced-tiny-tinas-wonderlands-and-brothers-i_8qrt.1200.jpg",
-            "publishedAt": "2026-09-16T16:27:32Z"
+            "title": "Top-tier Lenovo Ryzen AI 9 HX 470 gaming laptop deal with 240Hz OLED display and RTX 5070 gets decent price cut ahead of Prime Big Deal Days",
+            "description": "The Lenovo Legion 7a Gen 11 is a monster with an OLED display and incredible hardware. Score it now for 6% less with this Amazon deal.",
+            "url": "https://www.pcguide.com/deals/top-tier-lenovo-ryzen-ai-9-hx-470-gaming-laptop-deal-with-240hz-oled-display-and-rtx-5070-gets-decent-price-cut-ahead-of-prime-big-deal-days/",
+            "image": "https://www.pcguide.com/wp-content/uploads/2026/09/Lenovo-Legion-7a-Gen-11.png",
+            "publishedAt": "2026-09-17T16:07:06Z"
         }
     ]
 }
