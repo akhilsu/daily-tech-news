@@ -1,75 +1,75 @@
 {
-    "date": "2026-09-26",
+    "date": "2026-09-27",
     "articles": [
         {
-            "title": "A Google Employee Resigned, Citing 'Real but Uncertain' AI Risk",
-            "description": "Google employee Robert O'Callahan said he couldn't \"turn a blind eye\" to the work he was doing, and that AI's dangers should be \"taken seriously.\"",
-            "url": "https://www.businessinsider.com/google-deepmind-employee-resigns-ai-safety-harm-chips-robert-ocallahan-2026-9",
-            "image": "https://i.insider.com/6ab6a57bd15f8a572974ab33?width=1200&format=jpeg",
-            "publishedAt": "2026-09-25T16:33:54Z"
+            "title": "Apple Watch Series 12",
+            "description": "When Apple unveiled the Apple Watch Series 12, two features stood out: the new Siri Recap feature, as well as...",
+            "url": "https://9to5mac.com/2026/09/26/apple-watch-series-12-one-week-later/",
+            "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/DSC03046.jpg?quality=82&strip=all&resize=1200,628",
+            "publishedAt": "2026-09-26T16:59:00Z"
         },
         {
-            "title": "NVIDIA Files Patent for AI Tool to Help Developers Diagnose GPU Performance Issues",
-            "description": "NVIDIA has filed a patent for an AI tool that could help developers diagnose and optimize GPU performance issues through a plain-language chat interface. The application, published September 17 and first spotted by Respawn First, describes a system connecting an LLM-based chat agent directly to...",
-            "url": "https://www.techpowerup.com/353095/nvidia-files-patent-for-ai-tool-to-help-developers-diagnose-gpu-performance-issues",
-            "image": "https://www.techpowerup.com/img/HjN5mVvxfZEF0lPO.jpg",
-            "publishedAt": "2026-09-25T16:31:54Z"
+            "title": "BMX jumps, bullrush and the freedom of a Kiwi childhood: Glenn Dwight",
+            "description": "Every now and then I look back at my childhood and wonder how I made it to adulthood. Not because I had particularly reckless parents. Far from it. They...",
+            "url": "https://www.nzherald.co.nz/the-country/news/bmx-jumps-bullrush-and-the-freedom-of-a-kiwi-childhood-glenn-dwight/premium/U6R7NUU6XJFEVGM5BDIMEZW7Q4/",
+            "image": "https://www.nzherald.co.nz/resizer/v2/DBDOTGAWFVCKZMP2L7WD6SGYLI.jpg?auth=8b289124154e73f0577b09e88e519349df50e7ea0475f8ea3f84c37231d64ee6&width=1200&height=675&quality=70&focal=1138%2C716&smart=false",
+            "publishedAt": "2026-09-26T16:32:42Z"
         },
         {
-            "title": "printed projects to build and customize this weekend (Sep 25",
-            "description": "Scale these projects up or down as you see fit.",
-            "url": "https://www.howtogeek.com/modular-3d-printed-projects-buildcustomize-this-weekend-sep-25-27/",
-            "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/09/megapowerbank-with-18650-batteries-exposed-by-leospacelab-on-makerworld-jpg.jpg?w=1600&h=900&fit=crop",
-            "publishedAt": "2026-09-25T16:30:14Z"
+            "title": "Which Cloud Subscription Service Offers The Best Value?",
+            "description": "Not Google, not Microsoft, not iCloud. It's IDrive that offers the best subscription service value with an assortment of plans that undercut rivals.",
+            "url": "https://www.bgr.com/2264196/which-cloud-service-has-best-value/",
+            "image": "https://www.bgr.com/img/gallery/which-cloud-subscription-service-offers-the-best-value/l-intro-1789763998.jpg",
+            "publishedAt": "2026-09-26T16:32:00Z"
         },
         {
-            "title": "Astro Bot's 276 Piece LEGO Set Immortalises the PS5 Icon with Interchangeable Eyes",
-            "description": "Available for free with the LEGO PS1 set next month - I was a big believer in Astro Bot back when he was effectively a tech demo in PS4 game The Playroom VR....",
-            "url": "https://www.pushsquare.com/news/2026/09/astro-bots-276-piece-lego-set-immortalises-the-ps5-icon-with-interchangeable-eyes",
-            "image": "https://images.pushsquare.com/72c4e353bc40e/large.jpg",
-            "publishedAt": "2026-09-25T16:30:00Z"
+            "title": "I checked my Gmail settings and found someone still had full access to read and send my emails",
+            "description": "An old permission I never thought to check.",
+            "url": "https://www.makeuseof.com/checked-gmail-settings-and-found-someone-still-had-full-access-to-read-and-send-my-emails/",
+            "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/09/gmail-delegated-badge-beside-google-security-checkup.jpg?w=1600&h=900&fit=crop",
+            "publishedAt": "2026-09-26T16:30:14Z"
         },
         {
-            "title": "Watcher of Realms, Next-Gen Fantasy RPG, Welcomes the Grey Blades in Its Latest Update",
-            "description": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-            "url": "https://www.gamespress.com/Watcher-of-Realms-Next-Gen-Fantasy-RPG-Welcomes-the-Grey-Blades-in-Its",
-            "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
-            "publishedAt": "2026-09-25T16:25:39Z"
+            "title": "5 clever ESP32 weekend projects you can only build if you own a 3D printer",
+            "description": "Printer not optional.",
+            "url": "https://www.howtogeek.com/clever-esp32-weekend-projects-you-can-only-build-if-you-own-a-3d-printer/",
+            "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/09/project-caretaker-esp32-powered-3d-robot-by-positroid-on-github.jpg?w=1600&h=900&fit=crop",
+            "publishedAt": "2026-09-26T16:30:14Z"
         },
         {
-            "title": "Meta Smart Glasses Have a New AI-Training Opt-Out",
-            "description": "Meta has changed the privacy settings on its glasses. Now, users can opt out of sending visual data to train AI.",
-            "url": "https://www.businessinsider.com/meta-glasses-ai-visual-data-opt-out-training-2026-9",
-            "image": "https://i.insider.com/6ab58ad9d15f8a572974a560?width=1200&format=jpeg",
-            "publishedAt": "2026-09-25T16:23:50Z"
+            "title": "The MacBook Models That macOS 27 Golden Gate Does Not Support",
+            "description": "macOS 27 Golden Gate is compatible with a lot of Macs, but you can't necessarily upgrade even if your Mac supported Tahoe.",
+            "url": "https://www.engadget.com/2266414/macbook-models-macos-27-golden-gate-does-not-support/",
+            "image": "https://www.engadget.com/img/gallery/the-macbook-models-that-macos-27-golden-gate-does-not-support/l-intro-1790174136.jpg",
+            "publishedAt": "2026-09-26T16:30:00Z"
         },
         {
-            "title": "Leaks reveal a new Apple HomePod mini, iPad mini, and Apple TV 4K",
-            "description": "New leaks found in Apple\u2019s code reveal some of the upgrades coming to Apple\u2019s next HomePod mini, iPad mini, and the Apple TV box.",
-            "url": "https://www.theverge.com/tech/1000772/apple-code-leak-homepod-mini-2-ipad-mini-8-apple-tv-4k",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22025413/dseifert_201107_4281_0006.0.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-25T16:22:05Z"
+            "title": "Witcher 3 Remastered Download Size, Release Times, Embargo Lift",
+            "description": "The Witcher 3 download size for the update, when to expect reviews, and more importantly, when the download will be out revealed.",
+            "url": "https://mp1st.com/news/the-witcher-3-remastered-download-size-global-release-times-review-embargo-lift-dates",
+            "image": "https://mp1st.com/wp-content/uploads/2026/09/the-witcher-3-remastered-image-1-600x338.png",
+            "publishedAt": "2026-09-26T16:28:56Z"
         },
         {
-            "title": "LEGO PlayStation",
-            "description": "LEGO has officially confirmed the rumors that it will offer an Astro Bot LEGO set as a free gift with purchase for early buyers of the LEGO PS1 set coming in October.",
-            "url": "https://www.ign.com/articles/lego-astro-bot-set-confirmed-as-free-gift-with-purchase-of-playstation",
-            "image": "https://assets-prd.ignimgs.com/2026/09/25/lego-astro-bot-blogroll-1790353291282.jpg?width=1280&format=jpg&auto=webp&quality=80",
-            "publishedAt": "2026-09-25T16:22:03Z"
+            "title": "RTX 5080 and RX 7900 XTX showed almost identical FPS in Ace Combat 8 \u200b\u200bin 4K",
+            "description": "We benchmarked modern graphics cards in 4K in the flight simulator Ace Combat 8: Wings of Theve, where the flagship Radeon RX 7900 XTX almost caught up with the GeForce RTX 5080 and overtook the new one Radeon RX 9070 XT on RDNA 4.",
+            "url": "https://en.gamegpu.com/news/igry/rtx-5080-i-rx-7900-xtx-pokazali-pochti-odinakovyj-fps-v-ace-combat-8-v-4k",
+            "image": "https://gamegpu.com/images/1_2026/GAMES/Ace_Combat_8/cart/7uafav7uafav7u_gpu.webp",
+            "publishedAt": "2026-09-26T16:24:59Z"
         },
         {
-            "title": "MindsEye: Ex-GTA developer's studio faces closure",
-            "description": "Build A Rocket Boy, founded by Leslie Benzies, has gone into administration after its debut game flopped.",
-            "url": "https://www.bbc.co.uk/news/articles/cqpvewv3mpgko",
-            "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a7ab/live/1b2465e0-ac40-11f0-ba75-093eca1ac29b.png",
-            "publishedAt": "2026-09-25T16:17:20Z"
+            "title": "5 Features for Rs 63K",
+            "description": "Realme 16 Pro\u2019s Harry Potter Edition officially goes on sale in India. Here are the top 3 major features of the new Hogwarts-inspired phone.",
+            "url": "https://telecomtalk.info/realme16pro5g-harry-potter-edition-features-for-rs63k/1012213/",
+            "image": "https://telecomtalk.info/wp-content/uploads/2026/09/realme16pro5g-harrypotteredition-3-features-for-rs63k.jpg",
+            "publishedAt": "2026-09-26T16:18:09Z"
         },
         {
-            "title": "Why everyone is suddenly getting those pesky 'add me on WhatsApp' calls in UK this week",
-            "description": "A NEW scam is doing the rounds and is asking people to \"add me on WhatsApp\".\nIf you're wondering how these pesky callers got your information,...",
-            "url": "https://www.thesun.ie/tech/17674720/whatsapp-calls-uk/",
-            "image": "https://www.thesun.ie/wp-content/uploads/sites/3/2026/04/buttons-whatsapp-facebook-twitter-apps-987440072.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
-            "publishedAt": "2026-09-25T16:15:27Z"
+            "title": "Adobe (NASDAQ:ADBE) Posts Record Revenue As AI Products Drive Sector Attention",
+            "description": "Adobe (NASDAQ:ADBE) posted record quarterly revenue and raised full-year targets as AI products gained ground across the technology sector.",
+            "url": "https://kalkinemedia.com/us/stocks/technology/adobe-nasdaqadbe-posts-record-revenue-as-ai-products-drive-sector-attention",
+            "image": "https://kalkinemedia.com/storage/uploads/original/shutterstock_1568488030_09_26_2026_16_12_17_348013.jpg",
+            "publishedAt": "2026-09-26T16:12:00Z"
         }
     ]
 }
