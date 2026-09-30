@@ -1,75 +1,75 @@
 {
-    "date": "2026-09-29",
+    "date": "2026-09-30",
     "articles": [
         {
-            "title": "Cloudflare (NET) Could Be 108% Overvalued Following Its Security Disclosure",
-            "description": "Cloudflare (NET) is back in focus after disclosing a cross-tenant data-isolation vulnerability in its Containers and Sandboxes products, a security issue it reports as fixed with no confirmed customer data compromise.\nThe immediate reaction to Cloudflare\u2019s security disclosure has been a 1-day share price return of down 2.73% to US$349.02. That sits against a 30-day share price return of 16.40% and a year-to-date share price return of 78.05%, alongside a 3-year total shareholder return of more...",
-            "url": "https://simplywall.st/stocks/us/software/nyse-net/cloudflare/news/cloudflare-net-could-be-108-overvalued-following-its-securit",
-            "image": "https://images.simplywall.st/asset/industry/8030001-choice2-card/1788942866586?w=1600&h=900&fit=cover",
-            "publishedAt": "2026-09-28T17:25:20Z"
+            "title": "King Arthur meets Golden Axe: arcade brawler Blades & Battles is OUT NOW on PC and Consoles!",
+            "description": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+            "url": "https://www.gamespress.com/King-Arthur-meets-Golden-Axe-arcade-brawler-Blades-Battles-is-OUT-NOW-",
+            "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+            "publishedAt": "2026-09-29T17:09:37Z"
         },
         {
-            "title": "If You Want to Max Out The Witcher 3 Remaster, You Need a $4,000 Gaming PC",
-            "description": "The Witcher 3 Remastered comes out tomorrow with a whole host of improvements that yet again bring it into the current generation. But it seems like if you want to max the game out with path tracing, you're going to need an absolute beast of a gaming PC.",
-            "url": "https://www.ign.com/articles/the-witcher-3-gets-30-fps-on-an-rtx-5080-with-frame-gen-disabled",
-            "image": "https://assets-prd.ignimgs.com/2026/09/25/witcher3-firstminsoo-1790354351574.png?width=1280&format=jpg&auto=webp&quality=80",
-            "publishedAt": "2026-09-28T17:21:35Z"
+            "title": "Switch Siri AI for ChatGPT on Your Mac",
+            "description": "In macOS 27 Golden Gate, Siri AI is a lot smarter than before, so it doesn't always flail and attempt to hand your questions over to ChatGPT.",
+            "url": "https://www.macrumors.com/how-to/make-chatgpt-answer-siri-mac/",
+            "image": "https://images.macrumors.com/t/PVVokLITVj83RMsHkxPKOfYtuBY=/2500x/article-new/2026/03/ChatGPT-Feature.jpg",
+            "publishedAt": "2026-09-29T17:08:42Z"
         },
         {
-            "title": "The Wacom Intuos Pro is back to its lowest price ever with $80 off at Amazon",
-            "description": "There's no need to wait until Prime Day for a deal on the best pen tablet for artists.",
-            "url": "https://www.creativebloq.com/art/digital-art/the-wacom-intuos-pro-is-back-to-its-lowest-price-ever-with-usd80-off-at-amazon",
-            "image": "https://cdn.mos.cms.futurecdn.net/pe4979AUzreZRjCkcURBYZ-1920-80.jpg",
-            "publishedAt": "2026-09-28T17:15:36Z"
+            "title": "5 Premium Music Services with High-Res and Lossless Audio",
+            "description": "Check out five premium music services that offer high-quality audio, from lossless to Hi-Res, for an optimal listening experience.",
+            "url": "https://aktualita.co/en/technology/5-premium-music-services-with-high-res-and-lossless-audio",
+            "image": "https://aktualita.co/storage/previews/aktualita-v1/84/846d5f4d5214bfa194c541589966d223862c502cd7b218b9066f30c6d5e326f3.jpg",
+            "publishedAt": "2026-09-29T17:05:18Z"
         },
         {
-            "title": "When Can We Exit the AI Toothbrush Era?",
-            "description": "AI toothbrushes are an entire market now. Which leaves me wondering: why?",
-            "url": "https://gizmodo.com/ai-toothbrushes-2000818160",
-            "image": "https://gizmodo.com/app/uploads/2026/09/camerajet-1200x675.jpg",
-            "publishedAt": "2026-09-28T17:15:06Z"
+            "title": "Avoiding yellow paint was a conscious choice in Control Resonant",
+            "description": "Control Resonant director Mikael Kasurinen says overly-visible signposting would have worked against Control Resonant's design goals.",
+            "url": "https://www.gamedeveloper.com/design/control-resonant-director-lays-out-case-for-avoiding-excessive-yellow-paint-",
+            "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt01b430440364975c/6abbee3afee74b147ec005d2/controlcityfeatured.jpg?disable=upscale&width=1200&height=630&fit=crop",
+            "publishedAt": "2026-09-29T17:03:05Z"
         },
         {
-            "title": "Apple releases macOS 27.0.1, macOS 26.7.1 and macOS 15.8.1",
-            "description": "Following two release candidates, Apple today released macOS Tahoe 26.7.1 and macOS Sequoia 15.8.1, as well as macOS 27.0.1.",
-            "url": "https://9to5mac.com/2026/09/28/apple-releases-macos-27-0-1-golden-gate-plus-macos-tahoe-26-7-1-and-macos-sequoia-15-8-1/",
-            "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/macOS-27-Golden-Gate-Liquid-Glass-Comparison.webp?resize=1200,628",
-            "publishedAt": "2026-09-28T17:15:00Z"
+            "title": "Apple Patches CoreGraphics Zero-Day Linked To Sophisticated Targeted Attacks",
+            "description": "Apple has released security updates for iPhones, iPads and Macs to address a CoreGraphics vulnerability that the company says may have been exploited in sophisticated attacks against selected individuals. Tracked as CVE-2026-86950, the vulnerability can allow attacker-controlled code to run when an",
+            "url": "https://www.linkedin.com/pulse/apple-patches-coregraphics-zero-day-linked-sophisticated-qg85f",
+            "image": "https://media.licdn.com/dms/image/v2/D4D12AQE6ahlyxSXGtg/article-cover_image-shrink_720_1280/B4DaDtkP1nK8AQ-/0/1790692104851?e=2147483647&v=beta&t=KNIoAMVvET6k0e5SdT1Aul-mTClPXQOg0xO3gnCfdkA",
+            "publishedAt": "2026-09-29T17:01:59Z"
         },
         {
-            "title": "Apple Releases iOS 27.0.1 With Face ID Bug Fix",
-            "description": "Apple today released iOS 27.0.1, the first update for the iOS 27 update that came out two weeks ago.",
-            "url": "https://www.macrumors.com/2026/09/28/apple-releases-ios-27-0-1/",
-            "image": "https://images.macrumors.com/t/h-vQRWJRmHdVgT3Q0tlvoKf2IKQ=/1672x/article-new/2026/09/Face-ID-iPhone-18-Pro.jpg",
-            "publishedAt": "2026-09-28T17:09:47Z"
+            "title": "Final Cut Camera Gets Major Update, Including Expanded ProRes Support",
+            "description": "Apple has updated Final Cut Camera to support the new iPhone 18 Pro series\u2019 ability to use variable aperture.",
+            "url": "https://petapixel.com/2026/09/29/final-cut-camera-gets-major-update-including-expanded-prores-support/",
+            "image": "https://petapixel.com/assets/uploads/2026/09/Final-Cut-Camera-Gets-Major-Update-Including-Expanded-ProRes-Support.jpg",
+            "publishedAt": "2026-09-29T17:00:29Z"
         },
         {
-            "title": "Apple releases iOS 27.0.1 for iPhone, here\u2019s what\u2019s new",
-            "description": "Apple has just released iOS 27.0.1, a new iPhone software update with key bug fixes for issues introduced in iOS 27. Here\u2019s what\u2019s new.",
-            "url": "https://9to5mac.com/2026/09/28/apple-releases-ios-27-0-1-for-iphone-heres-whats-new/",
-            "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iOS-27-200-changes-and-features.jpg?quality=82&strip=all&resize=1200,628",
-            "publishedAt": "2026-09-28T17:08:00Z"
+            "title": "Fire Emblem: Fortune's Weave Is So Full Of Stuff That Isn't Major Battles That It's Putting Me To Sleep",
+            "description": "I enjoy this game, but everything between major battles is snooze-inducing",
+            "url": "https://kotaku.com/fire-emblem-fortunes-weave-is-so-full-of-stuff-that-isnt-major-battles-that-its-putting-me-to-sleep-2000738285",
+            "image": "https://kotaku.com/app/uploads/2026/09/Dietrich.jpg",
+            "publishedAt": "2026-09-29T17:00:19Z"
         },
         {
-            "title": "Bose launched wired, yes, wired, earbuds with ANC for $99",
-            "description": "The new Bose Noise Cancelling Wired Earbuds connect via USB-C and work with almost any device. Bose wants to get...",
-            "url": "https://9to5google.com/2026/09/28/bose-launched-wired-yes-wired-earbuds-with-anc-for-99/",
-            "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Bose-noise-cancelling-wired-earbuds-1.jpg?quality=82&strip=all&resize=1200,628",
-            "publishedAt": "2026-09-28T17:07:00Z"
+            "title": "New Spectre v2 Variant Exposes Intel, AMD, Arm CPUs to Data Leaks",
+            "description": "Researchers from the VUSec group have disclosed Branch Target Reuse (BTR), a new Spectre v2 attack targeting JIT compilers in web browsers.",
+            "url": "https://www.securityweek.com/new-spectre-v2-variant-exposes-intel-amd-arm-cpus-to-data-leaks/",
+            "image": "https://www.securityweek.com/wp-content/uploads/2023/08/CPU-attack.jpg",
+            "publishedAt": "2026-09-29T17:00:00Z"
         },
         {
-            "title": "With the release of the One UI 9 changelog, Samsung details everything coming to phones",
-            "description": "A redesign of Samsung Health, accessibility improvements, and more customization options",
-            "url": "https://www.androidpolice.com/with-the-release-of-the-one-ui-9-changelog-samsung-details-everything-coming-to-phones/",
-            "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/09/samsung-mobile-one-ui-9.jpg?w=1600&h=900&fit=crop",
-            "publishedAt": "2026-09-28T17:05:26Z"
+            "title": "New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses",
+            "description": "Spectre BTR reuses stale JIT branch targets; Linux PoCs recover the root password hash within minutes on a fully patched Intel system.",
+            "url": "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html",
+            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCNHT9zDz8oOamcA5EH8a3KGAtk9R9bE_UxGY_uPThgxZJu9vX-YG1olbgiX5WBVdwDd52LpDfSyryC6GZ45tUi2bKLe_aWnbj0Ir3WQZeGYF8Vr7U7icoPn4tcuwfpOZagVfry-KG5_jzLPb-fbPiFBlv142UOgqAPpC193t6BslvCE1l1XWo2z5_mFYV/s1700-nu-rw-lo-l85-e365/linux-intel.jpg",
+            "publishedAt": "2026-09-29T17:00:00Z"
         },
         {
-            "title": "Join the Pok\u00e9mon Night Out Party",
-            "description": "Check out the full merch collection and find out how you can still join the party in London.",
-            "url": "https://www.pokemon.com/us/news/join-the-pokemon-night-out-party",
-            "image": "https://mcdn.pokemon.com/pokemon-prod/image/upload/c_limit,w_1920/f_auto/v1/live/pcom-cms/static-assets/cms3/us/img/misc/tiles/2026/pokemon-30/night-out/09/24/pokemon-30-169-en.jpg",
-            "publishedAt": "2026-09-28T17:04:04Z"
+            "title": "Mythic Achievements Are Officially On The Way, As Rollout Begins Today For Xbox Insiders",
+            "description": "Xbox 360 games make the cut! - Well, how about that? Xbox has finally confirmed that Microsoft's Platinum Trophy equivalent is indeed the Mythic Achievement,...",
+            "url": "https://www.purexbox.com/news/2026/09/mythic-achievements-are-officially-on-the-way-as-rollout-begins-today-for-xbox-insiders",
+            "image": "https://images.purexbox.com/cb125f83be92a/1280x720.jpg",
+            "publishedAt": "2026-09-29T16:55:00Z"
         }
     ]
 }
