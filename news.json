@@ -1,75 +1,75 @@
 {
-    "date": "2026-10-29",
+    "date": "2026-10-30",
     "articles": [
         {
-            "title": "Apple announces touchscreen MacBook Pro with OLED display",
-            "description": "The OLED display is the main draw, but the price is a lot to reckon with.",
-            "url": "https://arstechnica.com/apple/2026/10/apple-announces-touchscreen-macbook-pro-with-oled-display/",
-            "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/2026-MacBook-Pro-1152x648-1793208150.jpg",
-            "publishedAt": "2026-10-28T17:25:04Z"
+            "title": "Man runs every street in Calgary over six years",
+            "description": "Rick Richard ran a total 9,252 km to cover 10,359 streets",
+            "url": "https://runningmagazine.ca/the-scene/man-runs-every-street-in-calgary-over-six-years/",
+            "image": "https://runningmagazine.ca/wp-content/uploads/2026/10/Rick-Richard-e1793281278897.jpeg",
+            "publishedAt": "2026-10-29T17:25:42Z"
         },
         {
-            "title": "Apple unveils MacBook Pro with OLED touchscreen",
-            "description": "Apple announced a MacBook Pro with an OLED touchscreen at its \"Pro and Tell\" event on Oct. 28.",
-            "url": "https://mashable.com/tech/apple-oled-macbook-pro-touchscreen-price-specs-release-date",
-            "image": "https://helios-i.mashable.com/imagery/articles/07CuCbjq1dRrr9JI75fQd62/hero-image.fill.size_1200x675.v1793208567.jpg",
-            "publishedAt": "2026-10-28T17:22:01Z"
+            "title": "Improving AI-generated images, pixel by pixel",
+            "description": "If you have ever used an artificial intelligence text-to-image generator like ChatGPT or Google Gemini, you may have encountered a common but maddening problem: The image looks nearly perfect, but when you ask the AI to fix ...",
+            "url": "https://techxplore.com/news/2026-10-ai-generated-images-pixel.html",
+            "image": "https://scx2.b-cdn.net/gfx/news/2026/improving-ai-generated.jpg",
+            "publishedAt": "2026-10-29T17:20:19Z"
         },
         {
-            "title": "Bluetooth speaker deal: Get the Beats Pill for $99.95",
-            "description": "As of Oct. 28, you can get the Beats Pill for $99.95, down from $149.95, at Amazon. That's a 33% discount, or $50 in savings.",
-            "url": "https://mashable.com/tech/oct-28-beats-pill-deal",
-            "image": "https://helios-i.mashable.com/imagery/articles/02bWcSaD7iCu858iTNm6EEJ/hero-image.fill.size_1200x675.v1793202181.png",
-            "publishedAt": "2026-10-28T17:22:01Z"
+            "title": "Air has built an agent for creative tasks - creative teams are paying attention",
+            "description": "Air has found that creatives waste a fifth of their day just searching for assets \u2013 its new agent promises to take away the tedium and make time for creativity.",
+            "url": "https://www.itsnicethat.com/articles/air-has-built-an-ai-agent-for-creative-tasks-creative-industry-sponsored-content-291026",
+            "image": "https://m.itsnicethat.com/original_images/Automation_A.png?class=w1440",
+            "publishedAt": "2026-10-29T17:20:07Z"
         },
         {
-            "title": "Finland\u2019s MTV Oy Connects to Remote Guests With QuickLink StudioEdge",
-            "description": "Product gives Finnish commercial broadcaster a way to simplify how it links up with contributors",
-            "url": "https://www.tvtechnology.com/production/finlands-mtv-oy-connects-to-remote-guests-with-quicklink-studioedge",
-            "image": "https://cdn.mos.cms.futurecdn.net/LWGyV9BykyhYpbJpVefTHd-1024-75.jpg",
-            "publishedAt": "2026-10-28T17:21:34Z"
+            "title": "OnePlus Ace 7 and Ace 7 Pro announced with cooling fans and 185Hz displays",
+            "description": "The Android gaming segment is suddenly growing again. OnePlus announced the Ace 7 series, comprising two phones: the Ace 7 and the Ace 7 Pro. Some believe...",
+            "url": "https://www.gsmarena.com/oneplus_ace_7_and_ace_7_pro_announced_in_china_with_cooling_fans_and_185hz_displays-news-75273.php",
+            "image": "https://fdn.gsmarena.com/imgroot/news/26/10/oneplus-ace-7-series-offic/-952x498w6/gsmarena_000.jpg",
+            "publishedAt": "2026-10-29T17:18:01Z"
         },
         {
-            "title": "Urban Myth Dissolution Center Launches on Nintendo Switch\u2122 2, Schr\u00f6dinger\u2019s Call Arrives the Same Day",
+            "title": "Dead Party unleashes 4-player zombie chaos on Steam and Epic Games Store just in time for Halloween",
             "description": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
-            "url": "https://www.gamespress.com/en-GB/Urban-Myth-Dissolution-Center-Launches-on-Nintendo-Switch-2-Schrodinge",
+            "url": "https://www.gamespress.com/pl/Dead-Party-unleashes-4-player-zombie-chaos-on-Steam-an-Snail-Games-USA",
+            "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2026/10/151915-9c126081/SNAIL_DeadParty_KeyArt_FINAL_4K.jpg?w=360&mode=max&otf=y&quality=90&format=jpg&bgcolor=white&sky=16d690fb189f4b22dbd825fd5bc2be7118e648d27edf276c49808dbef00f71b4",
+            "publishedAt": "2026-10-29T17:17:22Z"
+        },
+        {
+            "title": "The Hinokami Chronicles 2 Nintendo Switch 2 Edition Now Available\"",
+            "description": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+            "url": "https://www.gamespress.com/Demon-Slayer--Kimetsu-no-Yaiba--The-Hinokami-Chronicles-2-Nintend-SEGA",
             "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
-            "publishedAt": "2026-10-28T17:18:53Z"
+            "publishedAt": "2026-10-29T17:17:22Z"
         },
         {
-            "title": "Japan's new law advances reproductive genome editing governance",
-            "description": "A Hiroshima University researcher outlines advantages of Japan's new law that prohibits the transfer of genome-edited human embryos or germ cells into the human reproductive tract and imposes criminal penalties for violations.",
-            "url": "https://www.news-medical.net/news/20261028/Japans-new-law-advances-reproductive-genome-editing-governance.aspx",
-            "image": "https://www.news-medical.net/images/tags/TagImage-456-45847033825775462152-620x480.jpg",
-            "publishedAt": "2026-10-28T17:17:00Z"
+            "title": "The Hinokami Chronicles 2 Nintendo Switch 2 Edition Now Available\"",
+            "description": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+            "url": "https://www.gamespress.com/ko-KR/Demon-Slayer--Kimetsu-no-Yaiba--The-Hinokami-Chronicles-2-Nintend-SEGA",
+            "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+            "publishedAt": "2026-10-29T17:17:22Z"
         },
         {
-            "title": "Apple event LIVE: Touchscreen MacBook Pro, iPad mini, iMac and more",
-            "description": "Every \u2018Pro and Tell\u2019 announcement as it happens.",
-            "url": "https://www.creativebloq.com/live/news/apple-pro-and-tell-event",
-            "image": "https://cdn.mos.cms.futurecdn.net/hx9Ehu4iKbBVyQedYaKwtV-2560-80.jpg",
-            "publishedAt": "2026-10-28T17:15:46Z"
+            "title": "The Hinokami Chronicles 2 Nintendo Switch 2 Edition Now Available\"",
+            "description": "Press releases and assets from across the games industry - screenshots, videos, logos, packshots, artwork, PR contacts, release dates",
+            "url": "https://www.gamespress.com/en-GB/Demon-Slayer--Kimetsu-no-Yaiba--The-Hinokami-Chronicles-2-Nintend-SEGA",
+            "image": "https://www.gamespress.com/Content/Themes/Games Press/img/favicon.ico",
+            "publishedAt": "2026-10-29T17:17:22Z"
         },
         {
-            "title": "Reddit adds an algorithmic FYP to its homepage",
-            "description": "Reddit is hopping on the algorithmic feed bandwagon with a new For You tab on its homepage.",
-            "url": "https://mashable.com/tech/reddit-fyp-for-you-feed",
-            "image": "https://helios-i.mashable.com/imagery/articles/05J8yY75Ms0aONw3DVDU13m/hero-image.fill.size_1200x675.v1793206080.jpg",
-            "publishedAt": "2026-10-28T17:15:00Z"
+            "title": "PlayStation Pulse Wireless Headset Is Up for Preorder for $99, and It\u2019s Out the Same Day as GTA 6",
+            "description": "Now with Tempest 3D audio.",
+            "url": "https://sea.ign.com/playstation-5-3/251182/playstation-pulse-wireless-headset-is-up-for-preorder-for-99-and-its-out-the-same-day-as-gta-6",
+            "image": "https://sm.ign.com/t/ign_sea/news/p/playstatio/playstation-pulse-wireless-headset-is-up-for-preorder-for-99_g6uz.1200.jpg",
+            "publishedAt": "2026-10-29T17:14:50Z"
         },
         {
-            "title": "'GTA 6' file size reportedly revealed and it's gargantuan",
-            "description": "Not that anyone was expecting anything different, but it turns out 'Grand Theft Auto VI' might take up a lot of storage space.",
-            "url": "https://mashable.com/tech/grand-theft-auto-gta-6-file-size-revealed",
-            "image": "https://helios-i.mashable.com/imagery/articles/00V07CesJMzUsXdubsaE5Mh/hero-image.fill.size_1200x675.v1793198063.jpg",
-            "publishedAt": "2026-10-28T17:15:00Z"
-        },
-        {
-            "title": "Apple new iPad mini: How to buy",
-            "description": "The new Apple iPad mini is available for preorder on Oct. 28 at 10:10 a.m. PT with a price of $699.",
-            "url": "https://mashable.com/tech/apple-ipad-mini-preorder-where-to-buy",
-            "image": "https://helios-i.mashable.com/imagery/articles/01MIf7cnWTv5JtsGZojUgPm/hero-image.fill.size_1200x675.v1793179046.jpg",
-            "publishedAt": "2026-10-28T17:15:00Z"
+            "title": "Old 'Popcorn Time' App Left Hundreds of Thousands of Macs at Risk",
+            "description": "If you installed Popcorn Time on a Mac years ago, part of the app may still be running, and it may have left your Mac open to attack.",
+            "url": "https://www.macrumors.com/2026/10/29/old-popcorn-time-app-macs-at-risk/",
+            "image": "https://images.macrumors.com/t/bRzjVLsy0RdvcPLMlQbdeiLfq5A=/1920x/article-new/2026/10/popcorn-time-hero.jpg",
+            "publishedAt": "2026-10-29T17:12:47Z"
         }
     ]
 }
