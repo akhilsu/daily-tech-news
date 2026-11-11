@@ -1,75 +1,75 @@
 {
-    "date": "2026-11-10",
+    "date": "2026-11-11",
     "articles": [
         {
-            "title": "\"Scentronic\" Wearables Could Beam Smells Across the Internet for More Immersive Telepresence",
-            "description": "An Espressif ESP32-powered electronic nose transmits its findings to scent-emitting wearables in this remote-sniffing research project.",
-            "url": "https://www.hackster.io/news/scentronic-wearables-could-beam-smells-across-the-internet-for-more-immersive-telepresence-59208ad82d29",
-            "image": "https://hackster.imgix.net/uploads/attachments/2018577/_FVjKcW7qR7.blob?auto=compress%2Cformat&w=600&h=450&fit=min",
-            "publishedAt": "2026-11-09T18:53:46Z"
+            "title": "When AIs Become Unruly Swarms",
+            "description": "Building well-behaved AI one model at a time isn\u2019t enough. As AI agents begin collaborating, safety will depend on the very world they share.",
+            "url": "https://www.noemamag.com/when-ais-become-unruly-swarms/",
+            "image": "https://noemamag.imgix.net/2026/11/smaller.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&rect=0%2C90%2C946%2C495&w=1200&wpsize=noema-social-facebook&s=1e48f583b77846a5ac56f76fd368f665",
+            "publishedAt": "2026-11-10T17:45:09Z"
         },
         {
-            "title": "iPhone 18 Pro review: Camera, battery and price in Canada",
-            "description": "I tested the iPhone 18 Pro for four weeks. Here\u2019s how its camera, battery life and A20 Pro chip stack up, and who should upgrade.",
-            "url": "https://canoe.com/tech/iphone-18-pro-review",
-            "image": "https://smartcdn.gprod.postmedia.digital/canoe/wp-content/uploads/2026/11/IMG_5173.jpeg",
-            "publishedAt": "2026-11-09T18:52:25Z"
+            "title": "Ableton Live 13 announced with a step sequencer, new drum synth, and more",
+            "description": "Live 13 is one of the biggest updates to Ableton\u2019s music-making suite in years, adding a step sequencer, new drum synth, and more.",
+            "url": "https://www.theverge.com/tech/1030846/ableton-live-13-announced-step-sequencer-looplet-daw",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/1-l13-stepseq-2.avif?quality=90&strip=all&crop=11.94921875%2C0%2C76.1015625%2C100&w=1200",
+            "publishedAt": "2026-11-10T17:43:49Z"
         },
         {
-            "title": "TP-Link's Wi-Fi 8 Routers Just Hit Another Major Roadblock In The US",
-            "description": "The Wi-Fi 8 standard is still in development, but TP-Link has already announced its first products offering it. Regulatory issues might be a problem, though.",
-            "url": "https://www.slashgear.com/2306927/tp-link-wifi-8-routers-hit-major-roadblock-usa/",
-            "image": "https://www.slashgear.com/img/gallery/tp-links-wi-fi-8-routers-just-hit-another-major-roadblock-in-the-us/l-intro-1793818656.jpg",
-            "publishedAt": "2026-11-09T18:45:00Z"
+            "title": "Give your car infotainment system the upgrade it deserves with 46% off the Surcsa 9",
+            "description": "Get Apple CarPlay and Android Auto for your holiday road trip.",
+            "url": "https://www.howtogeek.com/surcsa-9-inch-carplay-screen/",
+            "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/11/9-inch-carplay.jpg?w=1600&h=900&fit=crop",
+            "publishedAt": "2026-11-10T17:41:19Z"
         },
         {
-            "title": "How to Avoid Sports Injuries in Your 30s, 40s, and Beyond",
-            "description": "You may not be able to halt the march of time, but you can slow its toll on your body. Experts share the best training techniques to keep you off the bench.",
-            "url": "https://www.gq.com/story/how-to-avoid-sports-injuries-in-your-30s-40s",
-            "image": "https://media.gq.com/photos/6af20b1b36a755b6aeaa22e4/16:9/w_1280,c_limit/016-Football-injury.jpg",
-            "publishedAt": "2026-11-09T18:43:30Z"
+            "title": "Google Fi's 'Super Network' Hops Networks to Keep Your Pixel Phone Connected",
+            "description": "Automatic network switching for Pixel phones could mean fewer mobile dead zones.",
+            "url": "https://www.cnet.com/tech/mobile/google-fi-super-network-pixel-phones/",
+            "image": "https://www.cnet.com/wp-content/uploads/sites/2/Pixel-11-Pro-Fold.jpg",
+            "publishedAt": "2026-11-10T17:41:14Z"
         },
         {
-            "title": "Directional VR passwords improve recall with a sense of place",
-            "description": "Researchers have demonstrated a new password authentication technique for use in virtual reality (VR) settings, which allows users to choose directions rather than numbers. The approach supports the same number of possible ...",
-            "url": "https://techxplore.com/news/2026-11-vr-passwords-recall.html",
-            "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/new-directional-passwo.jpg",
-            "publishedAt": "2026-11-09T18:40:15Z"
+            "title": "Bungie Tempts New Players With Free Period as PvE Mode and PvP Arena Battles Come to Marathon",
+            "description": "PvE is coming to Marathon and Bungie is hoping new players will give it a shot with a free-to-play period at the start of the next Season. It\u2019s called Symbiosis and is landing on December 8.",
+            "url": "https://www.ign.com/articles/marathon-free-symbiosis-pve",
+            "image": "https://assets-prd.ignimgs.com/2026/09/24/marathonthumb-1790271185101.png?width=1280&format=jpg&auto=webp&quality=80",
+            "publishedAt": "2026-11-10T17:39:59Z"
         },
         {
-            "title": "How parents can help teens use AI safely & thoughtfully",
-            "description": "University of North Florida associate professor Suzanne Ehrlich shared ideas with News4JAX about how families can navigate artificial intelligence technology, from homework help to online safety.",
-            "url": "https://www.news4jax.com/tech/2026/11/09/how-parents-can-help-teens-use-ai-safely-thoughtfully/",
-            "image": "https://bc.gmg.io/image/upload/c_thumb,q_auto,w_700,f_jpg/media/gmg/CNER753EWJBMDKE7G6VFD7QY5Q.png?api_key=news4jax_3f10b25586458189",
-            "publishedAt": "2026-11-09T18:39:09Z"
+            "title": "AMD's 'Zen 6' Architecture Detailed: EPYC Data Center Chips Get Dibs, But Ryzens Might Benefit, Too",
+            "description": "AMD outlines its new microarchitecture, with the potential for 12-core chiplets, more L3 cache, and PCI Express 6.0 support. Expect it first in upcoming EPYC server chips, but here's what future Ryzens might tap into.",
+            "url": "https://www.pcmag.com/news/amd-zen-6-architecture-details-epyc-venice-cpus-future-ryzens",
+            "image": "https://i.pcmag.com/imagery/articles/04r0PbDEAEIPuCkeKwXq769-15.fit_lim.size_1200x630.v1794327458.png",
+            "publishedAt": "2026-11-10T17:36:14Z"
         },
         {
-            "title": "Android Auto Officially Ends Support For Android 10 Devices",
-            "description": "After Google updated its requirements, over 10% of the active Android devices in the world are no longer supported by Android Auto.",
-            "url": "https://www.bgr.com/2311186/android-auto-discontinued-older-devices/",
-            "image": "https://www.bgr.com/img/gallery/android-auto-officially-ends-support-for-android-10-devices/l-intro-1794248776.jpg",
-            "publishedAt": "2026-11-09T18:37:08Z"
+            "title": "Pocket-friendly Lenovo gaming laptop with RTX 5050, 144Hz display, and Ryzen CPU receives decent price cut",
+            "description": "The Lenovo LOQ gaming laptop with the RTX 5050, Ryzen 7 170, 144Hz display, and more will only set you back $1,179.99.",
+            "url": "https://www.pcguide.com/deals/pocket-friendly-lenovo-gaming-laptop-with-rtx-5050-144hz-display-and-ryzen-cpu-receives-decent-price-cut/",
+            "image": "https://www.pcguide.com/wp-content/uploads/2026/11/Lenovo-LOQ-Gaming-AI.png",
+            "publishedAt": "2026-11-10T17:36:09Z"
         },
         {
-            "title": "Bluetooth Core 7.0 Speeds Are Set to Quadruple in 2027, Especially for Audio",
-            "description": "The Bluetooth Group has announced a new standard. Here's how it works and when you can expect to benefit from it.",
-            "url": "https://www.cnet.com/tech/bluetooth-core-7-speeds-quadruple-2027/",
-            "image": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2220974969.jpg",
-            "publishedAt": "2026-11-09T18:35:48Z"
+            "title": "Google unveils Gemini 4 Carbon with upgraded agentic coding and cybersecurity capabilities",
+            "description": "Google's Gemini 4 Carbon brings upgraded agentic coding, advanced cybersecurity and scientific reasoning capabilities, with expanded access for developers, enterprises, researchers and eligible consumers.",
+            "url": "https://www.firstpost.com/tech/google-unveils-gemini-4-carbon-with-upgraded-agentic-coding-and-cybersecurity-capabilities-14059126.html",
+            "image": "https://images.firstpost.com/uploads/2026/11/Google-gemini-carbon-4-2026-11-7b821887e98cc68dbbe6674064646e66.jpg?im=FitAndFill,width=1200,height=675",
+            "publishedAt": "2026-11-10T17:35:01Z"
         },
         {
-            "title": "Honor 700 series rear screen will show heart rate and blood oxygen readings",
-            "description": "Official images for the Honor 700 series show the phones\u2019 square rear display reading heart rate and blood oxygen levels, alongside rear-camera selfies and flight reminders. Honor has confirmed that the Honor 700, Honor 700 Pro and Honor 700S will launch in China on November 13.",
-            "url": "https://www.notebookcheck.net/Honor-700-series-rear-screen-will-show-heart-rate-and-blood-oxygen-readings.1446118.0.html",
-            "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/honor-700-rear-screen-heart-rate-blood-oxygen-featured.jpg",
-            "publishedAt": "2026-11-09T18:35:00Z"
+            "title": "GXTrust Launches Volyx Ultra-Lightweight Tri-Mode Gaming Mouse",
+            "description": "For competitive gamers who demand speed and responsiveness, every gram counts. With high-quality features designed for effortless movement, easy connectivity, and long-lasting gaming sessions, this is the gaming mouse built for players who want it all.\nWeighing just 67 g, the Volyx's standout...",
+            "url": "https://www.techpowerup.com/354656/gxtrust-launches-volyx-ultra-lightweight-tri-mode-gaming-mouse",
+            "image": "https://www.techpowerup.com/img/W5XVxW0sNqrMEfO1.jpg",
+            "publishedAt": "2026-11-10T17:34:43Z"
         },
         {
-            "title": "AMD confirms GPU driver bug is wearing out your SSD",
-            "description": "AMD has admitted a bug within its External Events Utility is wearing out SSDs, and promises a fix.",
-            "url": "https://www.zdnet.com/tech/amd-confirms-gpu-driver-bug-is-wearing-out-your-ssd-how-to-stop-it/",
-            "image": "https://www.zdnet.com/wp-content/uploads/sites/3/amd33-2259262667.jpg",
-            "publishedAt": "2026-11-09T18:30:49Z"
+            "title": "The indie game community is in disarray over AI and Big Walk",
+            "description": "Some IGF jurors will not vote for games that use generative AI in \u201cany capacity.\u201d Big Walk developer House House said it \u201csparingly\u201d used AI in the \u201cfinal stretch\u201d of the game\u2019s development.",
+            "url": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/BigWalk_Screenshot_Jun26_01.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-11-10T17:32:47Z"
         }
     ]
 }
