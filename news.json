@@ -1,75 +1,75 @@
 {
-    "date": "2026-11-18",
+    "date": "2026-11-19",
     "articles": [
         {
-            "title": "The vivo V80 is now available in the Philippines",
-            "description": "After its pre-order period, the new vivo V80 is finally available in the Philippines, complete with some special deals on Shopee.",
-            "url": "https://www.ungeek.ph/2026/11/the-vivo-v80-is-now-available-in-the-philippines/",
-            "image": "https://www.ungeek.ph/wp-content/uploads/2026/11/vivo-v80-available-now-philippines.webp",
-            "publishedAt": "2026-11-17T18:56:25Z"
+            "title": "So Your Teen Wants to Play \u2018GTA VI.\u2019 Here\u2019s What Parents Need to Know",
+            "description": "\u201cGrand Theft Auto VI\u201d has been given a Mature 17+ rating for its blood and gore, intense violence and mature humor. What parents need to know if your child wants to play.",
+            "url": "https://www.today.com/parents/teens/gta-vi-what-parents-need-know-rcna610009",
+            "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2026-11/grand-theft-auto-kvw-261118-89ffe6.jpg",
+            "publishedAt": "2026-11-18T18:59:33Z"
         },
         {
-            "title": "Sharp unveils the light and thin Aquos sense11 with a 3,000-nit OLED screen",
-            "description": "It weighs just 157g and is only 7.6mm thick, yet it's built to military standards. Sharp has announced the Aquos sense11, the latest in its line of...",
-            "url": "https://www.gsmarena.com/sharp_unveils_the_light_and_thin_aquos_sense11_with_a_3000nit_oled_screen-news-75507.php",
-            "image": "https://fdn.gsmarena.com/imgroot/news/26/11/sharp-aquos-sense11-official/-952x498w6/gsmarena_000.jpg",
-            "publishedAt": "2026-11-17T18:51:02Z"
+            "title": "How to unlock all 61 codes for GTA 6 for PS5 and Xbox",
+            "description": "Money, tanks, exploding footballs: GTA 6 has 61 cheats. But Rockstar makes you earn them first. Here are all codes for PS5 and Xbox and every unlock requirement.",
+            "url": "https://www.redbull.com/ca-en/gta-6-cheat-codes",
+            "image": "https://img.redbull.com/images/c_crop,w_3840,h_1920,x_0,y_0/c_auto,w_1200,h_630/f_auto,q_auto/redbullcom/2026/11/18/qtbvwqnx1zmihzrrywzq/boobie-ike-gta-6",
+            "publishedAt": "2026-11-18T18:58:54Z"
         },
         {
-            "title": "Spectroscopy Top 10 Articles of the Month (October 2026)",
-            "description": "The following articles are the most accessed digital object identifier (DOI) manuscripts for Spectroscopy and LCGC International during the month of October 2026. Nine articles are individually ranked here by DOI page views; the seventh-highest entry (99 views) was recorded against the bare LCGC North America journal-level DOI rather than an individual article and is therefore not attributable to a single manuscript.",
-            "url": "https://www.spectroscopyonline.com/view/spectroscopy-top-10-articles-of-the-month-october-2026",
-            "image": "https://cdn.sanity.io/images/0vv8moc6/spectroscopy/68d17c98c669f8303ecfb855173950013bb75339-2500x1308.jpg?w=1200&fit=max&q=75&fm=jpg",
-            "publishedAt": "2026-11-17T18:45:00Z"
+            "title": "A computer-vision-driven dynamic color rendering algorithm for virtual reality and its application in remote art creation systems",
+            "description": "Remote art creation in virtual reality continues to be undermined by three coupled problems: color distortion under transient illumination, tail latency during rapid brushwork, and chromatic divergence across heterogeneous headsets. This study develops a computer-vision-driven dynamic color rendering algorithm and embeds it within a working remote art creation platform. The algorithm consists of three loosely coupled stages: a chroma-preserving feature encoder that reads scene context, a hypernetwork-conditioned non-linear mapping module weighted by spatial and channel attention, and a saliency-driven scheduler that applies per-terminal correction within a sub-frame budget. Color is treated as a first-class replicated quantity through a CRDT-based synchronization layer, with bandwidth-adaptive quantization preserving consistency under degraded networks. Experiments on a mixed HTC Vive Pro and Oculus Quest platform across 240 painted scenes show cross-terminal CIEDE2000 values near 2.1 under high-bandwidth conditions, against five to twelve for current platforms, with 95th-percentile latency held below 20\u00a0ms. A user study with thirty practicing artists across paired painting, mural construction, and instructor-led demonstration scenarios returned composite experience scores of 6.18 against 4.79 for the strongest baseline, with the gap concentrated in the color consistency and coordination dimensions. Robustness tests under cycling illumination, HDR scenes, and concurrent collaboration up to thirty-two peers confirmed graceful scaling, with logarithmic convergence growth and material-class generality across painting, sculpture, and installation work. Limitations remain at sub-5\u00a0Mbps bandwidths and on 8K-class panels, pointing toward multimodal sensing and aesthetic-quality optimization as next steps.",
+            "url": "https://www.nature.com/articles/s41598-026-77902-x?error=cookies_not_supported&code=20d99f84-f9c8-42a5-a72c-50f2e105fca6",
+            "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
+            "publishedAt": "2026-11-18T18:57:08Z"
         },
         {
-            "title": "Heat Unveil 'Vice City' Court Design in New Photos Ahead of Game Celebrating GTA VI Release",
-            "description": "The Miami Heat are celebrating Thursday's release of Grand Theft Auto VI during Wednesday's game against the Milwaukee Bucks, and they gave fans a taste of what's to come.",
-            "url": "https://bleacherreport.com/articles/25534656-heat-unveil-vice-city-court-design-new-photos-ahead-game-celebrating-gta-vi-release",
-            "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-11/2268539023_large_cropped.jpg?w=1120&h=630",
-            "publishedAt": "2026-11-17T18:40:59Z"
+            "title": "iOS 27.3 Puts a Daily Cap on Advanced Siri AI Requests",
+            "description": "iOS 27.3 caps daily advanced Siri AI requests on each device, while basic commands stay unlimited; iCloud+ subscribers get expanded allowances by storage tier.",
+            "url": "https://tech.yahoo.com/ai/apple-intelligence/articles/ios-27-3-puts-daily-185633091.html",
+            "image": "https://s.yimg.com/lo/mysterio/api/590ec14a25a0a0fc5634a85d184e2d21c74466a105124c05b90d12f5d65f880f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgadget_review_articles_822%2F3667a3921d3993c8ab163f51c4618841.jpg",
+            "publishedAt": "2026-11-18T18:56:33Z"
         },
         {
-            "title": "New X-Ray Method Maps How Spinal Disc Collagen Carries Loads Across Scales",
-            "description": "Researchers developed TomoSAXS, a multimodal X-ray imaging method that links tissue-level deformation with fiber and fibril mechanics in intact intervertebral discs. Applied to loaded rat discs and a static human disc specimen, the method mapped relationships among collagen pre-strain, fiber curvature, and local mechanical response across multiple length scales.",
-            "url": "https://www.azom.com/news.aspx?newsID=66056",
-            "image": "https://www.azom.com/images/news/ImageForNews_66056_17949404712964689.png",
-            "publishedAt": "2026-11-17T18:39:00Z"
+            "title": "Apple releases HomeView 27.2.1 update, here's what's new",
+            "description": "Apple has just released its first post-launch software update for the HomeView, version 27.2.1. Here's how to install it.",
+            "url": "https://9to5mac.com/2026/11/18/apple-releases-new-homeview-27-2-1-software-update/",
+            "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homeview.jpg?quality=82&strip=all&resize=1200,628",
+            "publishedAt": "2026-11-18T18:53:00Z"
         },
         {
-            "title": "Google Cloud launches Gemini Omni 1.2 Flash for video",
-            "description": "Businesses can now make 15-second product clips and ads more cheaply, as Google Cloud cuts Gemini Omni 1.2 Flash video pricing by 30%.",
-            "url": "https://itbrief.com.au/story/google-cloud-launches-gemini-omni-1-2-flash-for-video",
-            "image": "https://itbrief.com.au/uploads/story/2026/11/18/compatible_clean-modern-business-marketing-workspace-ai-ad-video-story-324810.jpg",
-            "publishedAt": "2026-11-17T18:37:58Z"
+            "title": "JEDEC Unveils Next-Gen DDR6 Memory: Starts at 12.8 GT/s & Goes Up To 14.4 GT/s, Wider Bus, 50% Bandwidth Uplift, Up To 128 Gb Dies & Narrow Design Versus DDR5",
+            "description": "JEDEC has just unveiled the preview of its next-generation DDR6 memory standard, which will offer up to 14,400 MT/s speeds.",
+            "url": "https://wccftech.com/jedec-unveils-next-gen-ddr6-memory/",
+            "image": "https://cdn.wccftech.com/wp-content/uploads/2024/05/DDR6-LPDDR6-Memory-CAMM2-Desktop-PC-1920x1147.jpg",
+            "publishedAt": "2026-11-18T18:50:33Z"
         },
         {
-            "title": "Actress Manni L. Perez has been confirmed to play Lucia in the GTA VI",
-            "description": "The announcement of the nominees for the 2026 Game Awards has confirmed the casting of an actress in GTA VI. While there were rumors about her, it is\u2026",
-            "url": "https://news.instant-gaming.com/en/articles/23096-actress-manni-l-perez-has-been-confirmed-to-play-lucia-in-the-gta-vi",
-            "image": "https://gaming-cdn.com/images/news/articles/23096/cover/actress-manni-l-perez-has-been-confirmed-to-play-lucia-in-the-gta-vi-cover6afc9a6f4d68f.jpg",
-            "publishedAt": "2026-11-17T18:37:24Z"
+            "title": "Miami Heat players receive GTA VI care packages",
+            "description": "Heat players received a custom game-themed care package complete with custom controllers, consoles and, of course, a copy of the game.",
+            "url": "https://www.espn.com.au/nba/story/_/id/50522801/gta-vi-miami-heat-davion-mitchell-nick-richards",
+            "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1118%2Fr1747751_1206x678_16%2D9.jpg",
+            "publishedAt": "2026-11-18T18:47:46Z"
         },
         {
-            "title": "Meta tests Direct, a standalone Instagram messaging app, in Turkey and Thailand",
-            "description": "Meta has begun testing Direct, a standalone messaging app from Instagram, in Turkey and Thailand on Android and iOS. People can sign up with an email address o\u2026",
-            "url": "https://mlq.ai/news/meta-tests-direct-a-standalone-instagram-messaging-app-in-turkey-and-thailand/",
-            "image": "https://mlq.ai/media/news_images/meta-tests-direct-a-standalone-instagram-messaging-app-in-turkey-and-thailand.jpg",
-            "publishedAt": "2026-11-17T18:36:07Z"
+            "title": "Outage hits PlayStation hours before Grand Theft Auto 6's release",
+            "description": "Gamers use the PlayStation Network \u2014 owned by Sony Interactive Entertainment \u2014 to play their favourite consoles and video games, such as Grand Theft Auto, against each other online",
+            "url": "https://www.mirror.co.uk/news/uk-news/playstation-down-live-network-outage-37892074",
+            "image": "https://i2-prod.mirror.co.uk/article37892156.ece/ALTERNATES/s1200d/1_People-Visit-Tokyo-Game-Show-2024.jpg",
+            "publishedAt": "2026-11-18T18:45:10Z"
         },
         {
-            "title": "Natural Cycles Debuts $149 Fertility Wearables, Taking On Oura and Garmin",
-            "description": "Natural Cycles launched two fertility-tracking wearables: the NC Ring, its first smart ring, and the second-generation NC Band 2. The ring weighs\u2026",
-            "url": "https://finance.biggo.com/news/3b8f3a49-f4a5-4a75-bd37-46a64103af5a",
-            "image": "https://img.biggo.com/bhP-pNQgOHLyb-N8atyk-xmN_V-qvWgHgh1D80kcKlM/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzNiOGYzYTQ5LWY0YTUtNGE3NS1iZDM3LTQ2YTY0MTAzYWY1YV8xNzk0OTQwNjAwX2RlZmF1bHQud2VicA.jpg",
-            "publishedAt": "2026-11-17T18:35:00Z"
+            "title": "Consumer devices connected to work-related networks pose risk: Claroty",
+            "description": "The cybersecurity firm found more than 65,000 gaming consoles, entertainment devices and cars connected to mission-critical networks.",
+            "url": "https://www.facilitiesdive.com/news/consumer-devices-connected-to-work-related-networks-pose-risk-claroty/875073/",
+            "image": "https://imgproxy.divecdn.com/-qn2sKtRGPf-C1q6zTci8pkN57xK0a0uqyp84C-EaQY/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE2MDUyOTcyLmpwZw==.webp",
+            "publishedAt": "2026-11-18T18:45:00Z"
         },
         {
-            "title": "Meta is testing a new standalone messaging app called Direct",
-            "description": "Meta announced it\u2019s testing a new standalone messaging app called Direct that can sync with users\u2019 Instagram chats.",
-            "url": "https://www.theverge.com/tech/1035740/meta-instagram-direct-messaging-app",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/meta-instagram-direct-app-screenshots.jpeg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-11-17T18:33:02Z"
+            "title": "The lead actress in \u2018Grand Theft Auto VI\u2019 has finally been revealed. What to know about the woman behind Lucia.",
+            "description": "Manni L. Perez once said her \"biggest fear\" was playing a \"damsel in distress.\" Her character in the year's most-anticipated game is anything but helpless.",
+            "url": "https://www.yahoo.com/entertainment/celebrity/article/the-lead-actress-in-grand-theft-auto-vi-has-finally-been-revealed-what-to-know-about-the-woman-behind-lucia-185317472.html",
+            "image": "https://s.yimg.com/lo/mysterio/api/4cb0fea9f5224f2cbfd43e860d1a8a7d8fefda0f035f5edebf6a125315f5a1e2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Flead-lucia-gta-voice_1661.jpg",
+            "publishedAt": "2026-11-18T18:44:38Z"
         }
     ]
 }
