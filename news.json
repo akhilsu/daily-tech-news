@@ -1,75 +1,75 @@
 {
-    "date": "2026-11-19",
+    "date": "2026-11-20",
     "articles": [
         {
-            "title": "So Your Teen Wants to Play \u2018GTA VI.\u2019 Here\u2019s What Parents Need to Know",
-            "description": "\u201cGrand Theft Auto VI\u201d has been given a Mature 17+ rating for its blood and gore, intense violence and mature humor. What parents need to know if your child wants to play.",
-            "url": "https://www.today.com/parents/teens/gta-vi-what-parents-need-know-rcna610009",
-            "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2026-11/grand-theft-auto-kvw-261118-89ffe6.jpg",
-            "publishedAt": "2026-11-18T18:59:33Z"
+            "title": "People Think \"GTA 6\" Might Accidentally Be Teaching Men How To Be Better Boyfriends",
+            "description": "Maybe the real grand theft auto was the toxic masculinity we lost along the way...",
+            "url": "https://tech.yahoo.com/gaming/articles/people-think-gta-6-might-185114991.html",
+            "image": "https://s.yimg.com/lo/mysterio/api/5f3bbab61e1f03159eb85d53297ebab1328fb2ac1d580214d94bc64063ee7910/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbuzzfeed_articles_778%2F75b45016213a7c65c538155c6bb357f5.jpg_up.jpg",
+            "publishedAt": "2026-11-19T18:51:14Z"
         },
         {
-            "title": "How to unlock all 61 codes for GTA 6 for PS5 and Xbox",
-            "description": "Money, tanks, exploding footballs: GTA 6 has 61 cheats. But Rockstar makes you earn them first. Here are all codes for PS5 and Xbox and every unlock requirement.",
-            "url": "https://www.redbull.com/ca-en/gta-6-cheat-codes",
-            "image": "https://img.redbull.com/images/c_crop,w_3840,h_1920,x_0,y_0/c_auto,w_1200,h_630/f_auto,q_auto/redbullcom/2026/11/18/qtbvwqnx1zmihzrrywzq/boobie-ike-gta-6",
-            "publishedAt": "2026-11-18T18:58:54Z"
+            "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
+            "description": "This week's ThreatsDay covers GPT-6.2 jailbreak flaws, PNG malware, $500M ransomware demands, AI phishing kits, and more cyber threats.",
+            "url": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
+            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgTqUIWPjGeycl6xafh8Hx8n2UN3UCUgjhTpxUul68DHi7Y_IoHVYBvjDd5DpFg15sKI767hVEq-8CbGhK69JNusMh0OBBXfVMwJlZiKT2gNnTPAL9DyvTY85SB68WkvBxFCMF2_rNS9rUgYkQN8sKssDMBS8gO6YpMudQohf_JWnPztX_h8TdbSX6Vtfi/s1700-nu-rw-lo-l85-e365/td.jpg",
+            "publishedAt": "2026-11-19T18:47:00Z"
         },
         {
-            "title": "A computer-vision-driven dynamic color rendering algorithm for virtual reality and its application in remote art creation systems",
-            "description": "Remote art creation in virtual reality continues to be undermined by three coupled problems: color distortion under transient illumination, tail latency during rapid brushwork, and chromatic divergence across heterogeneous headsets. This study develops a computer-vision-driven dynamic color rendering algorithm and embeds it within a working remote art creation platform. The algorithm consists of three loosely coupled stages: a chroma-preserving feature encoder that reads scene context, a hypernetwork-conditioned non-linear mapping module weighted by spatial and channel attention, and a saliency-driven scheduler that applies per-terminal correction within a sub-frame budget. Color is treated as a first-class replicated quantity through a CRDT-based synchronization layer, with bandwidth-adaptive quantization preserving consistency under degraded networks. Experiments on a mixed HTC Vive Pro and Oculus Quest platform across 240 painted scenes show cross-terminal CIEDE2000 values near 2.1 under high-bandwidth conditions, against five to twelve for current platforms, with 95th-percentile latency held below 20\u00a0ms. A user study with thirty practicing artists across paired painting, mural construction, and instructor-led demonstration scenarios returned composite experience scores of 6.18 against 4.79 for the strongest baseline, with the gap concentrated in the color consistency and coordination dimensions. Robustness tests under cycling illumination, HDR scenes, and concurrent collaboration up to thirty-two peers confirmed graceful scaling, with logarithmic convergence growth and material-class generality across painting, sculpture, and installation work. Limitations remain at sub-5\u00a0Mbps bandwidths and on 8K-class panels, pointing toward multimodal sensing and aesthetic-quality optimization as next steps.",
-            "url": "https://www.nature.com/articles/s41598-026-77902-x?error=cookies_not_supported&code=20d99f84-f9c8-42a5-a72c-50f2e105fca6",
-            "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
-            "publishedAt": "2026-11-18T18:57:08Z"
+            "title": "Top 20 Best-Selling Wii Games Of All Time Revealed (US)",
+            "description": "Wa wa Wii wa! - In case you need another reminder of how old you are, the Wii has just turned 20 years old in North America (those in Europe have until 8th D...",
+            "url": "https://www.nintendolife.com/news/2026/11/top-20-best-selling-wii-games-of-all-time-revealed-us",
+            "image": "https://images.nintendolife.com/7588632be07f3/1280x720.jpg",
+            "publishedAt": "2026-11-19T18:45:00Z"
         },
         {
-            "title": "iOS 27.3 Puts a Daily Cap on Advanced Siri AI Requests",
-            "description": "iOS 27.3 caps daily advanced Siri AI requests on each device, while basic commands stay unlimited; iCloud+ subscribers get expanded allowances by storage tier.",
-            "url": "https://tech.yahoo.com/ai/apple-intelligence/articles/ios-27-3-puts-daily-185633091.html",
-            "image": "https://s.yimg.com/lo/mysterio/api/590ec14a25a0a0fc5634a85d184e2d21c74466a105124c05b90d12f5d65f880f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgadget_review_articles_822%2F3667a3921d3993c8ab163f51c4618841.jpg",
-            "publishedAt": "2026-11-18T18:56:33Z"
+            "title": "Japanese GTA 6 Players Hit Out at Gore and Nudity Censorship",
+            "description": "GTA 6 is finally here, but for players in Japan the experience is looking a bit different. Pre-release concerns about censorship have proven to be founded, with blood, gore, and nudity getting dialed down, but also some more surprising changes.",
+            "url": "https://www.ign.com/articles/jason-showers-in-his-underwear-in-the-japanese-version-of-gta-6-but-censorship-is-nothing-new-for-rockstar-games",
+            "image": "https://assets-prd.ignimgs.com/2026/11/19/vintage-vice-city-pack-exclusive-looks-01-1795113789423.jpg?width=1280&format=jpg&auto=webp&quality=80",
+            "publishedAt": "2026-11-19T18:43:46Z"
         },
         {
-            "title": "Apple releases HomeView 27.2.1 update, here's what's new",
-            "description": "Apple has just released its first post-launch software update for the HomeView, version 27.2.1. Here's how to install it.",
-            "url": "https://9to5mac.com/2026/11/18/apple-releases-new-homeview-27-2-1-software-update/",
-            "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homeview.jpg?quality=82&strip=all&resize=1200,628",
-            "publishedAt": "2026-11-18T18:53:00Z"
+            "title": "That viral unofficial GTA 6 PC port video is a hoax made from recycled GTA 5 footage",
+            "description": "Work on an official recompilation is likely quietly underway, but this clip isn't real.",
+            "url": "https://www.xda-developers.com/that-viral-gta-6-pc-port-video-hoax-made-from-recycled-gta-5-footage/",
+            "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/11/gta-6.jpg?w=1600&h=900&fit=crop",
+            "publishedAt": "2026-11-19T18:36:52Z"
         },
         {
-            "title": "JEDEC Unveils Next-Gen DDR6 Memory: Starts at 12.8 GT/s & Goes Up To 14.4 GT/s, Wider Bus, 50% Bandwidth Uplift, Up To 128 Gb Dies & Narrow Design Versus DDR5",
-            "description": "JEDEC has just unveiled the preview of its next-generation DDR6 memory standard, which will offer up to 14,400 MT/s speeds.",
-            "url": "https://wccftech.com/jedec-unveils-next-gen-ddr6-memory/",
-            "image": "https://cdn.wccftech.com/wp-content/uploads/2024/05/DDR6-LPDDR6-Memory-CAMM2-Desktop-PC-1920x1147.jpg",
-            "publishedAt": "2026-11-18T18:50:33Z"
+            "title": "Precision Livestock Farming: Sensors and Evidence",
+            "description": "What precision livestock farming is, the sensor types and reported accuracy figures, a four-phase maturity model and a checklist for validation studies.",
+            "url": "https://casrai.org/guides/precision-livestock-farming",
+            "image": "https://casrai.org/api/og?title=Precision%20Livestock%20Farming%3A%20Sensors%20and%20Evidence&eyebrow=Guide&type=guide",
+            "publishedAt": "2026-11-19T18:36:42Z"
         },
         {
-            "title": "Miami Heat players receive GTA VI care packages",
-            "description": "Heat players received a custom game-themed care package complete with custom controllers, consoles and, of course, a copy of the game.",
-            "url": "https://www.espn.com.au/nba/story/_/id/50522801/gta-vi-miami-heat-davion-mitchell-nick-richards",
-            "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1118%2Fr1747751_1206x678_16%2D9.jpg",
-            "publishedAt": "2026-11-18T18:47:46Z"
+            "title": "Google to Enforce Android App Verification Worldwide Starting January 2027",
+            "description": "Google will extend its Android developer verification requirement to all regions beginning in January 2027, with full coverage expected by March 1. A\u2026",
+            "url": "https://finance.biggo.com/news/5342e2ff-5783-40f4-8bc6-b6ef9b8a7946",
+            "image": "https://img.biggo.com/ebyAyOMt6JMcWEFdLhMemk5gwXlDuzYdkjhC68LtwMM/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzUzNDJlMmZmLTU3ODMtNDBmNC04YmM2LWI2ZWY5YjhhNzk0Nl8xNzk1MTEzNTE5X2RlZmF1bHQuanBn.jpg",
+            "publishedAt": "2026-11-19T18:35:00Z"
         },
         {
-            "title": "Outage hits PlayStation hours before Grand Theft Auto 6's release",
-            "description": "Gamers use the PlayStation Network \u2014 owned by Sony Interactive Entertainment \u2014 to play their favourite consoles and video games, such as Grand Theft Auto, against each other online",
-            "url": "https://www.mirror.co.uk/news/uk-news/playstation-down-live-network-outage-37892074",
-            "image": "https://i2-prod.mirror.co.uk/article37892156.ece/ALTERNATES/s1200d/1_People-Visit-Tokyo-Game-Show-2024.jpg",
-            "publishedAt": "2026-11-18T18:45:10Z"
+            "title": "OMFIT Fusion Modeling Framework Explained",
+            "description": "OMFIT fusion modeling framework: what it does, how to get access, which codes it leaves out and how its 109 public modules are grouped. Not the fitness app.",
+            "url": "https://casrai.org/guides/omfit",
+            "image": "https://casrai.org/api/og?title=OMFIT%20Fusion%20Modeling%20Framework%20Explained&eyebrow=Guide&type=guide",
+            "publishedAt": "2026-11-19T18:27:52Z"
         },
         {
-            "title": "Consumer devices connected to work-related networks pose risk: Claroty",
-            "description": "The cybersecurity firm found more than 65,000 gaming consoles, entertainment devices and cars connected to mission-critical networks.",
-            "url": "https://www.facilitiesdive.com/news/consumer-devices-connected-to-work-related-networks-pose-risk-claroty/875073/",
-            "image": "https://imgproxy.divecdn.com/-qn2sKtRGPf-C1q6zTci8pkN57xK0a0uqyp84C-EaQY/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE2MDUyOTcyLmpwZw==.webp",
-            "publishedAt": "2026-11-18T18:45:00Z"
+            "title": "GTA 6 Lands at $80 as Gamers Turn to Console Game Sharing to Halve the Bill",
+            "description": "Grand Theft Auto 6 is selling for $80 in standard and $100 in ultimate editions, with no near-term discounts expected. Players on PlayStation 5 and\u2026",
+            "url": "https://finance.biggo.com/news/3ca7b874-77e4-4eef-b84b-32e27b258f8c",
+            "image": "https://img.biggo.com/NdrCG3MrzGwKFaFi9f2ls_0fJiwk-YIczmY-jkCHDwY/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzNjYTdiODc0LTc3ZTQtNGVlZi1iODRiLTMyZTI3YjI1OGY4Y18xNzk1MTEyOTE1X2RlZmF1bHQuanBn.jpg",
+            "publishedAt": "2026-11-19T18:25:00Z"
         },
         {
-            "title": "The lead actress in \u2018Grand Theft Auto VI\u2019 has finally been revealed. What to know about the woman behind Lucia.",
-            "description": "Manni L. Perez once said her \"biggest fear\" was playing a \"damsel in distress.\" Her character in the year's most-anticipated game is anything but helpless.",
-            "url": "https://www.yahoo.com/entertainment/celebrity/article/the-lead-actress-in-grand-theft-auto-vi-has-finally-been-revealed-what-to-know-about-the-woman-behind-lucia-185317472.html",
-            "image": "https://s.yimg.com/lo/mysterio/api/4cb0fea9f5224f2cbfd43e860d1a8a7d8fefda0f035f5edebf6a125315f5a1e2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Flead-lucia-gta-voice_1661.jpg",
-            "publishedAt": "2026-11-18T18:44:38Z"
+            "title": "Google Adds \"Mac Operation Agent\" to Gemini, Launches English Version in the US",
+            "description": "Google announced on November 19, 2026 that it has added a \"Computer Use\" feature to its Gemini app for macOS, allowing the AI to perform tasks across\u2026",
+            "url": "https://finance.biggo.com/news/5703b3da-c8f4-4031-add6-62c4a213eb62",
+            "image": "https://img.biggo.com/uU0Az18UbgYkbBqP7VjKYtscreZZpEhSQ-X-EBr1mTE/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzU3MDNiM2RhLWM4ZjQtNDAzMS1hZGQ2LTYyYzRhMjEzZWI2Ml8xNzk1MTEzMTIyX2RlZmF1bHQuanBn.jpg",
+            "publishedAt": "2026-11-19T18:25:00Z"
         }
     ]
 }
