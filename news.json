@@ -1,75 +1,75 @@
 {
-    "date": "2026-11-22",
+    "date": "2026-11-23",
     "articles": [
         {
-            "title": "GTA 6 Leaker Withholds Executable, Sets $15M Token Market Cap Threshold",
-            "description": "According to ChainCatcher citing PC Gamer and CoinGecko, a leaker who identifies as Cyberleek distributed a torrent of what they claim is a near-complete 209 GB Xbox version of GTA 6 from November 2026, but withheld the game\u2019s main executable. Modders would need the file to simulate the game on PC\u2026",
-            "url": "https://www.tradingview.com/news/binance_news:e735ac1b5094b:0-gta-6-leaker-withholds-executable-sets-15m-token-market-cap-threshold/",
-            "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-            "publishedAt": "2026-11-21T18:11:18Z"
+            "title": "The six best sleep trackers in the US (and which to avoid)",
+            "description": "Get a better night\u2019s sleep with monitoring and guidance from smartwatches, smart rings, smart bands and sleep earbuds",
+            "url": "https://www.theguardian.com/thefilter-us/2026/nov/22/best-sleep-trackers",
+            "image": "https://i.guim.co.uk/img/media/299810b8ddede6ce30a9f856d4c8b57586fd489e/1_0_2499_2000/master/2499.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvZmlsdGVyLXVzLnBuZw&enable=upscale&s=30fa8bd55306c853c62bdf8864ef9578",
+            "publishedAt": "2026-11-22T19:00:35Z"
         },
         {
-            "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
-            "description": "Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant configuration information.",
-            "url": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
-            "image": "https://www.bleepstatic.com/content/hl-images/2024/01/26/microsoft-red-header.jpg",
-            "publishedAt": "2026-11-21T18:01:58Z"
+            "title": "Grand Theft Auto VI will require a minimum of a Ryzen 5 5600 or Core i5 12400F to run at 30 FPS on PC.",
+            "description": "Fully loading all 16 threads of AMD Zen 2 console processors in GTA 6 makes six-core chips the minimum threshold with stutters and requires Ryzen 7 9800X3D or Core Ultra 7 270K Plus for stable 60 FPS on PC.",
+            "url": "https://en.gamegpu.com/news/igry/dlya-grand-theft-auto-vi-dlya-30-fps-na-pk-potrebuetsya-minimum-ryzen-5-5600-ili-core-i5-12400f",
+            "image": "https://gamegpu.com/images/1_2026/NEWS/Q4/nov/22/2435632_gpu.webp#joomlaImage://local-images/1_2026/NEWS/Q4/nov/22/2435632_gpu.webp?width=1600&height=900",
+            "publishedAt": "2026-11-22T18:47:08Z"
         },
         {
-            "title": "The hidden 'Sensors Off' toggle is a must-have for Android foldable phones",
-            "description": "Use your Android foldable's outside screen while it's open.",
-            "url": "https://www.howtogeek.com/the-hidden-sensors-off-toggle-is-a-must-have-for-android-foldable-phones/",
-            "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/pixel-11-pro-fold-being-used-with-sensors-off-2.jpg?w=1600&h=900&fit=crop",
-            "publishedAt": "2026-11-21T18:00:15Z"
+            "title": "GTA 6 discourse is suffering from the flat earther effect",
+            "description": "Didn't you hear? You can't even steal cars anymore.",
+            "url": "https://www.yahoo.com/entertainment/articles/gta-6-discourse-suffering-flat-184301982.html",
+            "image": "https://s.yimg.com/lo/mysterio/api/6e73c1243e1a2724ff28c07565dd4c5acd468aa80c211a8aad086ab6db92e57e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpc_gamer_708%2Fa0dda2560336b65ebf0f34c0e5d4694f.jpg",
+            "publishedAt": "2026-11-22T18:43:01Z"
         },
         {
-            "title": "Why hiking the countryside is the ultimate balm for the soul",
-            "description": "I\u2019m not normally one for active trips, but this walk was the perfect balm for my grief.",
-            "url": "https://www.smh.com.au/lifestyle/life-and-relationships/on-a-coastal-trek-in-england-i-expected-sore-legs-the-best-surprise-was-the-company-20261122-p61bfh.html",
-            "image": "https://static.ffx.io/images/$zoom_0.3501984126984127%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_500/t_crop_custom/q_86%2Cf_auto/662f75057caed0b93a884f67416c08ce596c298973b3ac7a702405866d5b405b",
-            "publishedAt": "2026-11-21T18:00:00Z"
+            "title": "It\u2019s not OK to sexually assault characters in GTA. So why is murder acceptable?",
+            "description": "GTA 6 lets players run over innocent pedestrians and blow off their heads. The ethics of such virtual crimes are surprisingly complex.",
+            "url": "https://theconversation.com/its-not-ok-to-sexually-assault-characters-in-gta-so-why-is-murder-acceptable-296825",
+            "image": "https://images.theconversation.com/files/773192/original/file-20261120-62-qqirx2.jpg?ixlib=rb-4.1.1&rect=0%2C5%2C3840%2C1920&q=45&auto=format&w=1356&h=668&fit=crop",
+            "publishedAt": "2026-11-22T18:39:09Z"
         },
         {
-            "title": "Why hiking the countryside is the ultimate balm for the soul",
-            "description": "I\u2019m not normally one for active trips, but this walk was the perfect balm for my grief.",
-            "url": "https://www.brisbanetimes.com.au/lifestyle/life-and-relationships/on-a-coastal-trek-in-england-i-expected-sore-legs-the-best-surprise-was-the-company-20261122-p61bfh.html",
-            "image": "https://static.ffx.io/images/$zoom_0.3501984126984127%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_500/t_crop_custom/q_86%2Cf_auto/662f75057caed0b93a884f67416c08ce596c298973b3ac7a702405866d5b405b",
-            "publishedAt": "2026-11-21T18:00:00Z"
+            "title": "Why is it OK to murder people in GTA games, but not to sexually assault them?",
+            "description": "GTA 6 lets players run over innocent pedestrians and blow off their heads. The ethics of such virtual crimes are surprisingly complex.",
+            "url": "https://theconversation.com/why-is-it-ok-to-murder-people-in-gta-games-but-not-to-sexually-assault-them-296825",
+            "image": "https://images.theconversation.com/files/773192/original/file-20261120-62-qqirx2.jpg?ixlib=rb-4.1.1&rect=0%2C5%2C3840%2C1920&q=45&auto=format&w=1356&h=668&fit=crop",
+            "publishedAt": "2026-11-22T18:39:09Z"
         },
         {
-            "title": "Why hiking the countryside is the ultimate balm for the soul",
-            "description": "I\u2019m not normally one for active trips, but this walk was the perfect balm for my grief.",
-            "url": "https://www.theage.com.au/lifestyle/life-and-relationships/on-a-coastal-trek-in-england-i-expected-sore-legs-the-best-surprise-was-the-company-20261122-p61bfh.html",
-            "image": "https://static.ffx.io/images/$zoom_0.3501984126984127%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_500/t_crop_custom/q_86%2Cf_auto/662f75057caed0b93a884f67416c08ce596c298973b3ac7a702405866d5b405b",
-            "publishedAt": "2026-11-21T18:00:00Z"
+            "title": "I knew I'd be outbid on a property, so I wrote the owner a letter",
+            "description": "Single mother Georgia Hurst knew she needed to stand out in a competitive property market. She penned a letter.",
+            "url": "https://www.abc.net.au/news/2026-11-23/a-letter-helped-this-single-mum-find-a-home/107299790",
+            "image": "https://live-production.wcms.abc-cdn.net.au/4aef412526a89dd8ef81877277b0fe12?impolicy=wcms_watermark_news&cropH=563&cropW=1000&xPos=0&yPos=558&width=862&height=485&imformat=generic",
+            "publishedAt": "2026-11-22T18:30:00Z"
         },
         {
-            "title": "Setting Up An Apple HomeView Is Ridiculously Easy Thanks To Your iPhone",
-            "description": "Here\u2019s how to set up an Apple HomeView and how to add other users.",
-            "url": "https://www.engadget.com/2318610/easy-apple-homeview-setup-with-iphone/",
-            "image": "https://www.engadget.com/img/gallery/setting-up-an-apple-homeview-is-ridiculously-easy-thanks-to-your-iphone/l-intro-1794833959.jpg",
-            "publishedAt": "2026-11-21T18:00:00Z"
+            "title": "Free Solar Dashcam in Japan for \u00a519,800 \u2014 BigGo Finance",
+            "description": "Sunconnection has begun selling the SDR-01, a solar-charging dashcam that needs no wiring, in Japan at \u00a519,800 (approximately $120) including tax. The\u2026",
+            "url": "https://finance.biggo.com/news/602a350a-1496-4ad1-adfe-8bb22bf1db92",
+            "image": "https://img.biggo.com/lWCLyubjNSVVoqXg3xImhVfdH_8Htbqe7AJOH-hzWY0/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzYwMmEzNTBhLTE0OTYtNGFkMS1hZGZlLThiYjIyYmYxZGI5Ml8xNzk1MzcyMTQ2X2RlZmF1bHQuanBn.jpg",
+            "publishedAt": "2026-11-22T18:25:00Z"
         },
         {
-            "title": "Ocarina Remake's 'Positive' User Review Score Is Now Under Fire",
-            "description": "GTA 6 fans are reportedly review bombing the game - It's been a huge year for the games industry with all sorts of heavy-hitters releasing over the past few ...",
-            "url": "https://www.nintendolife.com/news/2026/11/ocarina-remakes-positive-user-review-score-is-now-under-fire",
-            "image": "https://images.nintendolife.com/0ff8b95fda54c/1280x720.jpg",
-            "publishedAt": "2026-11-21T18:00:00Z"
+            "title": "5 Smartwatches To Buy Instead Of A New Pixel Watch",
+            "description": "If the latest version of Google's Pixel Watch doesn't strike your fancy, you may be interested in one of these other popular smartwatches.",
+            "url": "https://tech.yahoo.com/wearables/articles/5-smartwatches-buy-instead-pixel-181700033.html",
+            "image": "https://s.yimg.com/lo/mysterio/api/5ac1fdee99d4f1bfa63333ac084615da58fc241e099303eb24f5665a1bdfd55b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbgr_ecomm_183%2Ff82023df9546809aa8623a9640f7f5e6.jpg",
+            "publishedAt": "2026-11-22T18:17:00Z"
         },
         {
-            "title": "Saturday Pre-orders - Undead invasions and goblins on the pitch",
-            "description": "New pre-orders for Tomb Kings of Khemri and Blood Bowl Night Goblins.",
-            "url": "https://www.warhammer-community.com/en-gb/articles/oilx3yjc/saturday-pre-orders-undead-invasions-and-goblins-on-the-pitch/",
-            "image": "https://assets.warhammer-community.com/articles/0-2026/november/wc-16-11/preorders-nov21-2-share-qn08rhjhom.jpg",
-            "publishedAt": "2026-11-21T17:56:26Z"
+            "title": "McLaren's New McL 820 Supercar To Offer HDK Version, Reportedly Weighs 1,550 Kilos",
+            "description": "Previously understood to succeed both the 7xx series and the Artura, the McL 820 is allegedly designed to replace only the plug-in hybrid V6 model",
+            "url": "https://www.autoevolution.com/news/mclaren-s-new-mcl-820-supercar-to-offer-hdk-version-reportedly-weighs-1550-kilos-278809.html",
+            "image": "https://s1.cdn.autoevolution.com/images/news/mclaren-s-new-mcl-820-supercar-to-offer-hdk-version-reportedly-weighs-1550-kilos-278809_1.jpg",
+            "publishedAt": "2026-11-22T18:14:13Z"
         },
         {
-            "title": "'GTA VI' blows away entertainment box office sales records, according to Rockstar Games",
-            "description": "The numbers are in, and they're nothing short of astonishing.",
-            "url": "https://mashable.com/entertainment/gta-vi-smashes-entertainment-box-office-sales-records",
-            "image": "https://helios-i.mashable.com/imagery/articles/05OKBpnHbODYCm0570JtisX/hero-image.fill.size_1200x675.v1795281828.png",
-            "publishedAt": "2026-11-21T17:54:11Z"
+            "title": "GTA 6 Players Report Game Breaking Bugs at Launch",
+            "description": "GTA 6 players report crashes, disappearing wanted levels, vehicle glitches, and mission-breaking bugs across PlayStation and Xbox.",
+            "url": "https://demokratis.co.id/en/gta-6-launch-game-bugs",
+            "image": "https://cdn.demokratis.co.id/media/images/2026/11/lqSbprQipr.jpeg?location=1&width=1200&height=674&quality=80&watermark=1",
+            "publishedAt": "2026-11-22T18:14:00Z"
         }
     ]
 }
